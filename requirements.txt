@@ -1,0 +1,10 @@
+# Base data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# NLP
+spacy>=3.7.0
+nltk>=3.8.1
+
+# Optional: speedups (ignored if missing at runtime)
+thinc>=8.2.0
