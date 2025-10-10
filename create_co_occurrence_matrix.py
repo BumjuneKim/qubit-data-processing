@@ -121,7 +121,7 @@ def create_co_occurrence_matrix(input_file, output_file):
         print(f"{i+1:2d}. {term}: {avg_sim:.4f}")
 
 if __name__ == "__main__":
-    input_file = "qubit_TF_IDF_filtered.csv"
-    output_file = "qubit_co_occurence.csv"
+    input_file = "qubit_TF_IDF_filtered_V2.csv"
+    output_file = "qubit_co_occurence_V2.csv"
     
     create_co_occurrence_matrix(input_file, output_file)
