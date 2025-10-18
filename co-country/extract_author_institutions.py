@@ -35,15 +35,33 @@ def extract_institutions_from_address(address):
             if main_institution:
                 institutions.append(main_institution)
     
-    # 5. 중복을 제거하고 comma로 join
+    # 5. 중복을 제거하고 comma로 join (대소문자 구분 없이)
     unique_institutions = []
     seen = set()
     for inst in institutions:
-        if inst not in seen:
-            unique_institutions.append(inst)
-            seen.add(inst)
+        inst_lower = inst.lower()
+        if inst_lower not in seen:
+            unique_institutions.append(inst)  # 원본 형태 유지
+            seen.add(inst_lower)
     
     return ','.join(unique_institutions)
+
+def normalize_institution_name(inst_name):
+    """
+    기관명을 정규화하는 함수 (대소문자 통일)
+    """
+    return inst_name.strip()
+
+def get_canonical_name(inst_name, canonical_map):
+    """
+    기관명의 표준 형태를 반환하는 함수
+    """
+    normalized = inst_name.lower()
+    if normalized in canonical_map:
+        return canonical_map[normalized]
+    else:
+        canonical_map[normalized] = inst_name
+        return inst_name
 
 def main():
     """
@@ -64,6 +82,9 @@ def main():
         'empty_addresses': 0
     }
     
+    # 기관명 정규화를 위한 맵
+    canonical_institution_map = {}
+    
     # 각 행에 대해 기관 추출
     for idx, row in df.iterrows():
         doi = row['DOI']
@@ -79,6 +100,16 @@ def main():
                 print(f"Row {idx+1}: 추출 실패 - {address[:100]}...")
         else:
             extraction_stats['successful_extractions'] += 1
+            
+            # 기관명 정규화 적용
+            normalized_institutions = []
+            for inst in institutions_str.split(','):
+                inst = inst.strip()
+                if inst:
+                    canonical_name = get_canonical_name(inst, canonical_institution_map)
+                    normalized_institutions.append(canonical_name)
+            
+            institutions_str = ','.join(normalized_institutions)
         
         results.append({
             'DOI': doi,
