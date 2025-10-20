@@ -42,11 +42,10 @@ def create_institution_ranking_with_frequency():
     """
     # Define the qubit implementation methods and their corresponding files
     methods = {
-        'superconduc': 'superconducting.csv',
+        'superconducting': 'superconducting.csv',
         'trapped-ion': 'trapped-ion.csv', 
         'spin': 'spin.csv',
-        'photonic': 'photonic.csv',
-        'neutral-atom': 'neutral-atom.csv'
+        'photonic': 'photonic.csv'
     }
     
     # Calculate institution frequencies for each method
