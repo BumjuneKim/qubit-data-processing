@@ -21,8 +21,8 @@ data_long <- data %>%
 
 # qubit_type을 factor로 변환하고 레벨 순서 설정
 data_long$qubit_type <- factor(data_long$qubit_type, 
-                               levels = c("superconducting", "trapped.ion", "spin", "photonic", "neutral.atom"),
-                               labels = c("Superconducting", "Trapped Ion", "Spin", "Photonic", "Neutral Atom"))
+                               levels = c("superconducting", "trapped.ion", "spin", "photonic"),
+                               labels = c("Superconducting", "Trapped Ion", "Spin", "Photonic"))
 
 # R² 값 계산 함수
 calculate_r_squared <- function(x, y) {
@@ -44,7 +44,7 @@ print(r_squared_values)
 
 # 색상 팔레트 설정
 colors <- c("#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd")
-shapes <- c(16, 15, 17, 18, 19)  # 원, 사각형, 삼각형, 다이아몬드, 역삼각형
+shapes <- c(16, 15, 17, 18)  # 원, 사각형, 삼각형, 다이아몬드
 
 # ggplot2로 그래프 생성
 p <- ggplot(data_long, aes(x = year, y = publication_count, color = qubit_type, shape = qubit_type)) +
