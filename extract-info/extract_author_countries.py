@@ -427,7 +427,7 @@ def main():
     # CSV 파일 읽기
     print("\n1. CSV 파일을 읽는 중...")
     try:
-        df = pd.read_csv('/Users/bumjunekim/Desktop/research_day/qubit-data-processing/co-country/qubit_country.csv')
+        df = pd.read_csv('/Users/bumjunekim/Desktop/qubit-data-processing/extract-info/qubit_country.csv')
         print(f"   ✓ qubit_country.csv 파일을 성공적으로 읽었습니다.")
         print(f"   ✓ 총 {len(df)} 개의 논문 데이터를 발견했습니다.")
     except FileNotFoundError:
@@ -478,7 +478,7 @@ def main():
     # 결과 저장
     print("\n4. 결과를 저장하는 중...")
     try:
-        output_file = '/Users/bumjunekim/Desktop/research_day/qubit-data-processing/co-country/qubit_country_result.csv'
+        output_file = '/Users/bumjunekim/Desktop/qubit-data-processing/extract-info/qubit_country_result.csv'
         df.to_csv(output_file, index=False)
         print(f"   ✓ 결과가 {output_file}에 저장되었습니다.")
     except Exception as e:

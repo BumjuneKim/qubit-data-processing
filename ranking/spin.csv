@@ -1,0 +1,1438 @@
+DOI,Country Code,Institutions
+10.1109/JPHOT.2021.3136502,US,Univ Maryland
+10.1103/PhysRevB.96.201304,"DE,CH","Univ Konstanz,Univ Basel"
+10.1038/s42005-021-00767-1,"JP,GB",Yokohama Natl Univ
+10.1039/d4qi01782j,CN,"South China Univ Technol,Natl Univ Def Technol,Sun Yat sen Univ,Peking Univ"
+10.1088/1367-2630/18/5/053024,"CA,JP,SE,US","Stanford Univ,Univ Sherbrooke,Natl Res Council Canada,Univ Waterloo,KTH Royal Inst Technol,Natl Inst Informat"
+10.1038/NPHOTON.2013.41,US,"USN,Sotera Def Solut Inc"
+10.1134/S1070328424600335,RU,"Russian Acad Sci,Novosibirsk State Univ"
+10.1002/qute.201800067,"IT,US","Univ Maryland,CNR,Univ Firenze,US Army Res Lab"
+10.1109/JSSC.2017.2737549,"CN,FR,IE,NL,CH,US","Delft Univ Technol,QuTech,Kavli Inst Nanosci,Analog Devices Inc,Catena BV,Univ Coll Dublin,Univ Calif Berkeley,Inst Super Elect Paris,Ecole Polytech Fed Lausanne,Intel Corp"
+10.1021/jz101650z,"JP,GB","Osaka City Univ,Osaka Univ,Japan Sci & Technol Agcy JST"
+10.1063/5.0096467,"AU,JP","Univ New South Wales,Keio Univ"
+10.1103/PhysRevB.82.155315,"AU,US","Sandia Natl Labs,Purdue Univ,Univ Melbourne"
+10.1103/PhysRevB.92.235401,DE,"Rhein Westfal TH Aachen,Forschungszentrum Julich"
+10.1039/c4an00734d,GB,Univ Oxford
+10.1103/PhysRevLett.113.197601,US,"Harvard Univ,Harvard Smithsonian Ctr Astrophys,Broad Inst MIT & Harvard"
+10.1038/nature12016,"CA,NL,GB","Delft Univ Technol,Element Six Ltd,McGill Univ"
+10.1038/s41565-021-00925-0,JP,"RIKEN,Tokyo Tech Acad Super Smart Soc"
+10.1038/ncomms4860,US,"Univ Calif Los Angeles,Lab Phys Sci"
+10.1109/JSSC.2020.3024678,"MX,NL,CH,US","Delft Univ Technol,Intel Corp,TNO,Zurich Instruments,Apple Inc,Intel Guadalajara,Kavli Inst Nanosci,Ecole Polytech Fed Lausanne"
+10.3389/fchem.2019.00662,"DE,ES","Univ Valencia,Max Planck Inst Struct & Dynam Matter"
+10.1103/PhysRevB.95.144306,"CN,US","SUNY Stony Brook,Univ Calif Irvine,Shenzhen Univ,Chinese Acad Sci"
+10.1103/RevModPhys.89.035002,"DE,CH,US","Swiss Fed Inst Technol,Tech Univ Munich,MIT"
+10.1038/s41467-017-01113-2,"CA,US","Univ Sherbrooke,Sandia Natl Labs,Canadian Inst Adv Res"
+10.1016/j.physleta.2020.126352,IT,CNR
+10.1038/s41586-021-04273-w,NL,"Delft Univ Technol,Netherlands Org Appl Sci Res TNO"
+10.1038/nature13407,US,"Univ Wisconsin,Sandia Natl Labs"
+10.1038/NPHYS1863,US,USN
+10.1038/s41565-021-00846-y,"FR,DE","Univ Grenoble Alpes,Ruhr Univ Bochum"
+10.1103/PhysRevB.99.205417,US,Stanford Univ
+10.1038/s41467-018-04340-3,"US,GB","Harvard Univ,Univ Cambridge,Sandia Natl Labs"
+10.1063/5.0052131,SE,Linkoping Univ
+10.1103/PhysRevB.104.L041402,PL,Polish Acad Sci
+10.1038/nature25766,"NL,US","Delft Univ Technol,Univ Wisconsin"
+10.1038/s41534-019-0169-4,"FR,SE","Univ Paris Diderot,Chalmers Univ Technol,PSL Res Univ,INRIA Paris"
+10.1016/j.mejo.2023.106015,CN,Northwestern Polytech Univ
+10.1038/s41586-021-04182-y,"JP,NL","RIKEN,Delft Univ Technol,Netherlands Org Appl Sci Res TNO"
+10.1021/ja102030w,"JP,GB","Osaka Univ,JST,Osaka City Univ,RIKEN"
+10.1063/1.5036521,"AU,ES,US","CSIC,Univ New South Wales,SUNY Buffalo"
+10.1038/NNANO.2013.117,"CA,DE,US,GB","UCL,Univ Oxford,Princeton Univ,Inst Crystal Growth,Phys Tech Bundesanstalt,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1109/TCSI.2020.3019413,"NL,CH,US","Delft Univ Technol,Kavli Inst Nanosci,Intel Corp,Swiss Fed Inst Technol Lausanne EPFL"
+10.1103/PhysRevLett.115.093602,DE,"Univ Stuttgart,Univ Ulm,Ruhr Univ Bochum"
+10.1103/PhysRevApplied.12.044054,"JP,NL,CH,US","Delft Univ Technol,Kavli Inst Nanosci,Okinawa Inst Sci & Technol,Intel Corp,Ecole Polytech Fed Lausanne"
+10.1038/nature16984,"ES,US","Florida State Univ,Univ Valencia"
+10.1038/s41524-023-01135-z,"DE,HU,SE,US","Wigner Res Ctr Phys,MTA ELTE Lendulet Momentum NewQubit Res Grp,Univ Alabama,Tech Univ Munich,Eotvos Lorand Univ,Linkoping Univ"
+10.1038/ncomms2738,DE,"Rhein Westfal TH Aachen,Forschungszentrum Julich"
+10.1038/NNANO.2014.153,"NL,US","Delft Univ Technol,Univ Wisconsin"
+10.1038/s41586-020-2171-6,"AU,CA,FI,IR,JP","Univ New South Wales,Univ Sherbrooke,Aalto Univ,Keio Univ,Canadian Inst Adv Res,Univ Sydney,IQM Finland Oy"
+10.1103/PhysRevX.8.041027,US,Univ Oregon
+10.1007/s00723-021-01392-5,"IN,IR,JP,GB","Osaka City Univ,Univ Guilan,JST PRESTO,TCG Ctr Res & Educ Sci & Technol TCG CREST"
+10.1038/NNANO.2016.188,"NL,CH","Delft Univ Technol,ETH"
+10.1007/s11467-021-1069-6,CN,Xidian Univ
+10.1103/PhysRevB.106.115411,CH,Univ Basel
+10.1103/PhysRevA.107.023102,CN,Xidian Univ
+10.1088/2058-9565/ac82c3,US,"Argonne Natl Lab,Univ Chicago"
+10.1038/nature11449,"AU,GB","Univ New S Wales,Univ Oxford,Univ Melbourne"
+10.1063/5.0139670,CH,IBM Res Zurich
+10.1038/s41586-024-07275-6,US,Intel Corp
+10.1063/1.3543841,"JP,GB",NTT Corp
+10.1038/s41467-024-51902-9,"AU,JP,CH","Univ New South Wales,Univ Basel,RIKEN,Diraq"
+10.1038/s41586-018-0365-y,"CA,CH","Swiss Fed Inst Technol,Univ Sherbrooke,Canadian Inst Adv Res"
+10.1039/c9mh01594a,ES,"CSIC,Univ Zaragoza,Ctr Univ Def"
+10.3390/e21111042,IT,CNR
+10.1103/PhysRevX.10.011060,"AU,FR,DE,JP,SK,CH","RIKEN,Univ Tokyo,Slovak Acad Sci,Ruhr Univ Bochum,Univ Basel,Univ New South Wales,PRESTO,Tohoku Univ,Univ Paris Diderot"
+10.1038/nature11559,US,"Princeton Univ,Joint Quantum Inst NIST"
+10.1103/PhysRevA.109.032433,CH,IBM Res Zurich
+10.1021/acs.nanolett.4c03882,"JP,US,GB","Georgia Inst,Univ Calif San Diego,Natl Inst Adv Ind Sci & Technol"
+10.1016/j.physb.2023.415196,CN,Shandong Normal Univ
+10.3390/nano11102486,CN,"Univ Sci & Technol China,Chinese Acad Sci,Origin Quantum Comp Co Ltd"
+10.1038/s41534-018-0112-0,"CN,US","Natl Inst Stand & Technol & Univ Maryland,NIST,Southern Univ Sci & Technol"
+10.1038/s41534-024-00864-3,BE,"IMEC,Katholieke Univ Leuven"
+10.1038/s41467-019-10848-z,FR,"Univ Grenoble Alpes,CEA"
+10.1103/PhysRevLett.123.050401,NL,Delft Univ Technol
+10.1103/PhysRevB.85.205425,DE,Univ Wurzburg
+10.1039/d0nr05070a,KR,Korea Inst Sci & Technol Informat
+10.1103/PhysRevA.95.012312,"CN,US","Univ Calif Berkeley,Peking Univ"
+10.1038/s41467-022-28328-2,"DE,US,GB","Univ Wurzburg,Univ Stuttgart,Univ St Andrews,Princeton Univ"
+10.1038/s41534-021-00378-2,"PK,GB","Univ Sheffield,Lahore Univ Management Sci"
+10.1021/acs.nanolett.3c00213,CN,"Univ Sci & Technol China,Qilu Inst Technol,Chinese Acad Sci,Southern Univ Sci & Technol,Int Quantum Acad,Origin Quantum Comp Co Ltd"
+10.1103/PhysRevB.105.L121402,DE,Univ Konstanz
+10.1021/nl101662v,"DE,US","Harvard Univ,Stanford Univ,Humboldt Univ"
+10.1088/1674-1056/ad1747,CN,"Univ Sci & Technol China,Suzhou Univ"
+10.1038/s41524-023-01082-9,IE,Trinity Coll Dublin
+10.1038/s41567-023-02071-x,"DK,IT,NL,SI,ES,US,GB","Delft Univ Technol,Jozef Stefan Inst,Univ Ljubljana,Univ Copenhagen,CSIC,Leiden Univ,Univ Roma La Sapienza,Univ Illinois"
+10.1038/NNANO.2013.168,"AU,DK,DE,US","Harvard Univ,Univ Copenhagen,NIST,Univ Sydney,Rhein Westfal TH Aachen,Forschungszentrum Julich,Univ Calif Santa Barbara"
+10.1038/s41467-024-45364-2,"AT,IN,GB","Univ Sheffield,Johannes Kepler Univ Linz,Indian Inst Technol Delhi"
+10.1088/0256-307X/37/2/020302,CN,Univ Sci & Technol China
+10.1063/1.4921291,DE,Rhein Westfal TH Aachen
+10.1103/PhysRevB.93.235428,GB,"Univ Oxford,Heriot Watt Univ"
+10.1063/1.4979521,CN,"Univ Sci & Technol China,Chinese Acad Sci"
+10.1103/PRXQuantum.5.010306,US,"Univ Maryland,Princeton Univ,Univ Calif Los Angeles"
+10.1088/1367-2630/ab51f5,"AT,DE,GR,SG","Natl Univ Singapore,Max Planck Inst Sci Light,TU Wien,Tech Univ Crete"
+10.1103/PhysRevB.88.075301,US,SUNY Buffalo
+10.1103/PhysRevB.81.144519,NL,Delft Univ Technol
+10.1038/s41586-024-07371-7,"DE,NL,US","MIT,Delft Univ Technol,Army Res Lab,Univ Munster,MITRE Corp,Cornell Univ"
+10.1088/0953-4075/43/13/135502,"CN,KR","Harbin Inst Technol,Yanbian Univ,Chungbuk Natl Univ"
+10.1016/j.aej.2023.12.053,"EG,SA,US","Umm Al Qura Univ,Univ Bisha,Al Azhar Univ,Prince Sattam Bin Abdulaziz Univ,Univ Sharjah,Abu Dhabi Univ,Texas A&M Univ"
+10.1103/PhysRevLett.119.010503,"FR,US,GB","Univ Cambridge,Univ Sheffield,Univ Cote Azur,Quantum Opus LLC,Univ Calif Berkeley"
+10.1002/adfm.201801695,"FR,ES","CSIC,Univ Zaragoza,Ctr Univ Def,UPMC Univ Paris 06,Univ Paris 05,Synchrotron SOLEIL"
+10.1038/s41467-019-13000-z,"AU,CH,US","Swiss Fed Inst Technol,IBM Res Zurich,Univ Wisconsin,Univ New South Wales"
+10.1021/jacs.9b13398,"ML,US",Northwestern Univ
+10.1063/1.4893242,"AU,DE","UNSW Australia,Bayer Akad Wissensch,NIM"
+10.1109/JLT.2022.3210466,CA,"Univ Calgary,Natl Res Council Canada,Univ Alberta"
+10.1103/PhysRevB.90.174402,"FR,RU","Kazan Fed Univ,CNRS,Univ Grenoble 1"
+10.1038/s41563-021-01022-2,"AT,DE,IT,ES","IST Austria,Politecn Milan,Univ Konstanz,Autonomous Univ Barcelona,Catalan Inst Res & Adv Studies"
+10.1103/PhysRevLett.108.190506,DE,Karlsruhe Inst Technol
+10.1103/PhysRevB.109.155304,PL,Polish Acad Sci
+10.1039/c5dt04062k,"US,GB","Univ Manchester,Univ Calif Berkeley"
+10.1038/npjqi.2015.3,"CN,US","Univ Maryland,City Univ Hong Kong"
+10.1103/PhysRevB.98.245409,NO,Norwegian Univ Sci & Technol
+10.1021/acs.jpca.3c03827,US,Washington Univ St Louis
+10.1088/0957-4484/27/24/244001,"AU,CN","Univ New S Wales,Beijing Normal Univ"
+10.1515/zpch-2016-0799,"JP,GB","Osaka City Univ,JSPS,Osaka Univ"
+10.1038/s41534-016-0003-1,US,"Harvard Univ,Purdue Univ"
+10.1038/s41567-021-01364-3,CA,Univ Calgary
+10.1002/adma.201906523,"AT,CN,CH,US","Chinese Acad Sci,Univ Chinese Acad Sci,IST Austria,Xi An Jiao Tong Univ,Univ Basel,Univ Utah,Songshan Lake Mat Lab"
+10.1038/ncomms9955,"DE,JP,US,GB","Stanford Univ,Natl Inst Informat,Univ Glasgow,Yokohama Natl Univ,Hewlett Packard Labs,Heriot Watt Univ,Univ Wurzburg,Univ St Andrews"
+10.1103/PhysRevB.95.241303,NO,Norwegian Univ Sci & Technol
+10.1103/PhysRevLett.110.160402,"DE,IT,GB","Univ Cambridge,CNR,LENS,Univ Bonn"
+10.1038/s41928-022-00727-9,"NL,US","Delft Univ Technol,Intel Corp"
+10.1103/PhysRevB.105.075313,CN,"Chinese Acad Sci,Univ Chinese Acad Sci,Beijing Acad Quantum Informat Sci"
+10.1103/PhysRevA.104.032407,"DE,NL","Delft Univ Technol,Forschungszentrum Julich"
+10.22331/q-2017-05-11-11,"CA,FR,US","Univ Sherbrooke,Rigetti Quantum Comp,INRIA Paris,Canadian Inst Adv Res"
+10.1038/s41467-024-45235-w,"NL,SE,CH","Univ Basel,Lund Univ,Ecole Polytech Fed Lausanne,Univ Twente"
+10.1021/acs.jpcb.1c00946,US,Argonne Natl Lab
+10.1209/0295-5075/100/57006,NL,Delft Univ Technol
+10.1103/PRXQuantum.5.020339,US,"Univ Rhode Isl,Univ Maryland,NIST,Univ Calif Los Angeles"
+10.1038/s41467-022-31231-5,"DE,JP","Rhein Westfal TH Aachen,Forschungszentrum Julich,Natl Inst Mat Sci"
+10.1103/PhysRevB.101.035204,DE,Univ Konstanz
+10.1103/PhysRevB.104.235411,AU,Univ New South Wales
+10.1038/nature11577,"DE,JP,US,GB","Stanford Univ,Heriot Watt Univ,Natl Inst Informat,Univ Wurzburg"
+10.1063/1.4934693,"AU,US","Univ New S Wales,Univ Wisconsin"
+10.1103/PhysRevB.96.165301,US,Univ Maryland
+10.1038/s41467-024-49182-4,DE,"Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,ARQUE Syst GmbH"
+10.1063/5.0137259,CN,"Univ Sci & Technol China,Chinese Acad Sci,Beijing Superstring Acad Memory Technol,Origin Quantum Comp Co Ltd"
+10.1103/PhysRevB.103.035301,US,Lab Phys Sci
+10.1103/PhysRevB.98.245424,"AU,NL,US","Lab Phys Sci,Delft Univ Technol,Univ New South Wales"
+10.1103/PhysRevLett.118.147701,CH,"Univ Basel,IBM Res Zurich"
+10.1103/PhysRevB.90.195440,GB,Univ Oxford
+10.1103/PhysRevB.92.115448,DE,"Rhein Westfal TH Aachen,Forschungszentrum Julich"
+10.1103/PhysRevB.86.104511,DK,Univ Copenhagen
+10.1103/PhysRevB.100.064405,ES,Univ Valencia
+10.1038/s41567-024-02694-8,NL,"Delft Univ Technol,QuTech & Netherlands Org Appl Sci Res TNO"
+10.1038/s41467-021-23437-w,"AU,CA,IR,JP,GB","Univ New South Wales,Univ Sherbrooke,Keio Univ,Canadian Inst Adv Res,Quantum Mot Technol Ltd,Univ Sydney"
+10.1103/PhysRevApplied.19.064038,"AU,CN,US","Purdue Univ,Northeast Normal Univ,Univ New South Wales"
+10.1103/PhysRevB.99.174416,"BG,IT","Univ Palermo,Ist Nazl Fis Nucl,St Kliment Ohridski Univ Sofia"
+10.1038/s41586-022-04821-y,CA,"Simon Fraser Univ,Photonic Inc,Univ Montreal"
+10.1038/s41467-022-29977-z,US,Atom Comp Inc
+10.1103/PRXQuantum.4.020345,GB,"Quantum Mot,Univ Oxford"
+10.1364/OL.460836,"CN,US","Purdue Univ,Northeast Normal Univ"
+10.1088/0256-307X/28/7/070305,CN,Southeast Univ
+10.1126/sciadv.aba3442,"AU,JP,US","UNSW Sydney,HRL Labs LLC,Keio Univ,Univ Melbourne"
+10.1103/PhysRevB.101.195438,"DE,SE","Uppsala Univ,Univ Konstanz"
+10.1103/PhysRevB.81.045304,US,"Santa Clara Univ,SUNY Buffalo"
+10.1038/s41565-019-0426-x,"FR,DE,JP,SK,CH","RIKEN,Slovak Acad Sci,Univ Tokyo,PRESTO,Ruhr Univ Bochum,Univ Basel,Univ Paris Diderot,Tohoku Univ"
+10.1021/acs.jpclett.0c00193,US,"Univ Florida,Ctr Mol Magnet Quantum Mat,Univ Connecticut,Florida State Univ"
+10.1103/PhysRevB.81.085313,"PL,US,GB","Univ Maryland,Polish Acad Sci,SUNY Buffalo"
+10.1103/PhysRevApplied.17.024022,FR,Univ Grenoble Alpes
+10.1103/PhysRevA.85.052125,"MX,US","Univ Guadalajara,Los Alamos Natl Lab"
+10.1103/PhysRevB.84.033301,NL,Delft Univ Technol
+10.1103/PhysRevApplied.19.044078,NL,"Delft Univ Technol,QuTech & Netherlands Org Appl Sci Res TNO"
+10.1038/s41467-022-33453-z,"JP,NL","RIKEN Ctr Emergent Matter Sci CEMS,RIKEN Ctr Quantum Comp RQC,Delft Univ Technol,Netherlands Organizat Appl Sci Res TNO"
+10.1103/PhysRevB.105.024507,"CH,US","Harvard Univ,Univ Calif Berkeley,Lawrence Berkeley Natl Lab,Swiss Fed Inst Technol"
+10.1103/PhysRevLett.107.030506,"NL,US","Harvard Univ,Delft Univ Technol,Univ Calif Santa Barbara"
+10.1140/epjqt/s40507-023-00199-6,"NL,CH","Univ Basel,Univ Twente"
+10.1103/PhysRevB.101.035424,IL,Technion Israel Inst Technol
+10.1103/PhysRevB.94.205421,US,"Lab Phys Sci,Univ Maryland,NIST"
+10.1103/PhysRevApplied.16.064019,US,Lab Phys Sci
+10.1038/s41534-023-00716-6,"FR,JP,KR,GB","Inst Basic Sci IBS,Ewha Womans Univ,Univ Tokyo,Univ Paris Saclay,Univ Oxford"
+10.1038/srep23169,US,"SUNY Buffalo,NIST,Univ Maryland"
+10.1103/PhysRevLett.107.210502,DK,Univ Copenhagen
+10.1103/PRXQuantum.4.030303,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1038/npjqi.2015.12,"CH,GB","Univ Oxford,Univ Manchester,Ecole Polytech Fed Lausanne,Ctr Adv Electron Spin Resonance"
+10.1103/PhysRevB.108.035206,US,Lab Phys Sci
+10.1134/S0021364010120131,"BY,PL","Natl Acad Sci Belarus,Univ Szczecin"
+10.1038/s41467-022-31618-4,GB,Univ Sheffield
+10.1021/acs.nanolett.9b03847,JP,"RIKEN,Tokyo Inst Technol"
+10.1126/science.abf0345,"DK,NL,ES,SE,US","Yale Univ,QuTech,Delft Univ Technol,Univ Politecn Cartagena,Univ Autanoma Madrid,Univ Copenhagen,Univ Autonoma Madrid,Chalmers Univ Technol,MIT"
+10.1103/PhysRevX.6.021040,NL,Delft Univ Technol
+10.1103/PhysRevA.98.012304,GR,"Univ Crete,FORTH"
+10.1007/s11433-016-0015-3,CN,"S China Normal Univ,Tsinghua Univ,Fudan Univ,Univ Hong Kong,Nanjing Univ"
+10.1109/LED.2018.2880303,"CA,FR,DE,RO,US","Univ Toronto,GlobalFoundries Fab1 LLC & Co KG,CEA Leti,Lake Shore Cryotron Inc,IMT Bucharest,George Washington Univ,Univ Waterloo,Keysight Technol,Univ Calif San Diego"
+10.1038/ncomms13575,FR,"Univ Grenoble Alpes,CEA"
+10.1126/science.1217692,"IL,US","Harvard Univ,Weizmann Inst Sci"
+10.1038/s41467-021-24371-7,"AU,JP,CH","Univ New South Wales,Keio Univ,Univ Sydney,Tokyo Inst Technol,Swiss Fed Inst Technol"
+10.1038/s41467-024-49358-y,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1103/PhysRevB.84.155329,US,Santa Clara Univ
+10.1103/PhysRevApplied.11.061006,US,"Princeton Univ,HRL Labs LLC"
+10.1103/PhysRevLett.123.063601,"FR,NL","Delft Univ Technol,Netherlands Org Appl Sci Res TNO,Univ Montpellier,CNRS"
+10.1038/s41534-023-00679-8,GB,"Riverlane,Hitachi Cambridge Lab,Quantum Mot Technol"
+10.1038/ncomms2776,"CN,DE,SE,US","Linkoping Univ,Chinese Acad Sci,Paul Drude Inst Festkorpelekt,Natl Renewable Energy Lab,Univ Calif"
+10.1103/PRXQuantum.5.040328,GB,"Univ Oxford,Quantum Mot,UCL"
+10.1038/s41467-022-28133-x,"TW,US","Temple Univ,Acad Sinica,Northeastern Univ"
+10.1103/PhysRevA.85.014302,CN,Xuchang Univ
+10.1038/nphoton.2014.84,US,"Naval Res Lab,Sotera Def Solut,US Naval Acad"
+10.1103/PhysRevLett.107.197602,CA,Univ Victoria
+10.1103/PhysRevB.106.155412,HU,"Eotvos Lorand Univ,Budapest Univ Technol & Econ"
+10.1038/s41565-019-0488-9,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1126/sciadv.1602811,"AU,NL,US","Univ New South Wales,Purdue Univ,Univ Melbourne,Delft Univ Technol,Monash Univ"
+10.1063/5.0155448,DE,"Leibniz Inst Kristallzuchtung,IHP Leibniz Inst innovat Mikroelekt,Siltronic AG"
+10.1038/s41567-024-02481-5,"JP,CH","Univ Basel,IBM Research Europe Zurich,RIKEN"
+10.1038/s41467-021-27880-7,"AU,CN,US","Univ Sci & Technol China,Univ Sci & Technol,Chinese Acad Sci,Univ New South Wales,SUNY Buffalo,Univ Calif Los Angeles,Origin Quantum Comp Co Ltd"
+10.1103/PhysRevB.82.241401,CN,Univ Sci & Technol China
+10.1103/PhysRevB.104.235304,"RS,SK","Univ Belgrade,Pavol Jozef Safarik Univ"
+10.1038/s41467-018-06418-4,"AT,CN","IST Austria,Chinese Acad Sci,Johannes Kepler Univ Linz,Univ Chinese Acad Sci"
+10.1103/PhysRevB.107.155301,CN,"Southern Univ Sci & Technol,Int Quantum Acad"
+10.1088/0268-1242/29/5/053001,IL,Technion Israel Inst Technol
+10.1103/PhysRevB.87.045301,"US,GB",Univ Wisconsin
+10.1103/PhysRevB.99.104425,US,"Harvard Univ,Univ Calif Berkeley"
+10.1063/5.0160847,NL,"QuTech,Delft Univ Technol,Netherlands Org Appl Sci Res TNO"
+10.1038/s41598-020-77047-5,"FR,NL,US","Aix Marseille Univ,Univ Lille,Univ Groningen,Florida State Univ"
+10.1016/j.jmmm.2015.06.069,"IL,RU","Tel Aviv Univ,Southern Fed Univ,Voronezh State Univ"
+10.1038/s41534-021-00403-4,"AU,DE,JP","Univ Tokyo,RIKEN,Univ Sydney,Ruhr Univ Bochum,Tokyo Inst Technol,Tohoku Univ"
+10.1088/0031-8949/84/04/045002,CN,Southeast Univ
+10.1103/PhysRevB.94.045435,US,Univ Maryland
+10.1038/s41534-022-00645-w,"AU,CA,DE","UNSW Sydney,Diraq,Keibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1103/PhysRevB.99.205415,"AU,DE","Forschungszentrum Julich,Rhein Westfal TH Aachen,UNSW"
+10.1002/ejic.202300125,"CN,JP","Tohoku Univ,Nara Womens Univ,Osaka Metropolitan Univ,Nankai Univ"
+10.1103/PhysRevA.107.052408,BR,Univ Fed Lavras
+10.1038/s41534-021-00470-7,"DE,JP","Osaka Univ,Ruhr Univ Bochum"
+10.1103/PhysRevLett.124.023602,"DE,US,GB","MIT,Univ Cambridge,Univ Oxford,SUNY Polytech Inst,Humboldt Univ"
+10.1103/PhysRevB.107.125415,FR,"Univ Lille,Univ Grenoble Alpes"
+10.1103/PhysRevB.94.045316,CH,Univ Basel
+10.1021/acsaelm.3c00472,US,Univ Nebraska Lincoln
+10.1038/s41567-024-02497-x,"DK,NL,GB","Delft Univ Technol,Univ Copenhagen"
+10.1103/PhysRevB.91.205434,US,"Univ Wisconsin,SUNY Buffalo,Lab Phys Sci"
+10.1038/s41928-022-00722-0,CH,"Univ Basel,IBM Res Zurich"
+10.1038/s41563-020-0743-3,"AU,DE,JP","Univ New South Wales Sydney,Tohoku Univ,Univ New South Wales Canberra,Univ Melbourne,Leibniz Inst Kristallzuchtung,PTB Braunschweig,VITCON Projectconsult,RIKEN"
+10.1039/c8dt00139a,ES,Univ Valencia
+10.1103/PhysRevB.106.075415,DE,"Univ Konstanz,IQM"
+10.1038/s41467-020-14818-8,"AU,JP","RIKEN,Univ New South Wales,Tokyo Inst Technol"
+10.1103/PhysRevB.103.165431,US,Univ Maryland
+10.1103/PhysRevLett.105.216803,"IL,US","Harvard Univ,Weizmann Inst Sci"
+10.1038/s41467-018-07522-1,"FR,DE,JP,CH","RIKEN,Univ Paris Diderot,Tohoku Univ,JST,Univ Tokyo,Ruhr Univ Bochum,Univ Basel"
+10.1103/PhysRevApplied.14.014059,GB,"Univ Oxford,Quantum Mot Technol Ltd"
+10.1088/1054-660X/24/4/045204,CN,"Yanbian Univ,Harbin Inst Technol"
+10.1103/PhysRevB.100.115435,"HU,CH","Eotvos Lorand Univ,Univ Basel,Hungarian Acad Sci,Budapest Univ Technol & Econ"
+10.1103/PRXQuantum.2.010341,US,"Univ Maryland,Virginia Tech"
+10.1038/s41467-024-48557-x,"AU,CA,DE,JP,CH","Univ New South Wales,Diraq,Swiss Fed Inst Technol,Keio Univ,Leibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1103/PRXQuantum.4.030337,US,Univ Illinois
+10.1038/s41598-017-13308-0,AU,"Australian Natl Univ,Univ Melbourne"
+10.1038/ncomms12279,DE,"Univ Stuttgart,Tech Univ Munich"
+10.1038/s41928-019-0234-1,"AU,JP","Univ New South Wales,Univ Sydney,Keio Univ"
+10.1103/PhysRevLett.129.040501,"IL,KR,GB","Seoul Natl Univ,Pusan Natl Univ,Weizmann Inst Sci"
+10.1103/PhysRevMaterials.6.086201,CN,"Univ Sci & Technol China,Chongqing Univ Posts & Telecommun,Hefei Natl Lab"
+10.1039/d2nh00375a,"KR,CH","Inst Basic Sci IBS,Ewha Womans Univ,Paul Scherrer Inst PSI"
+10.1007/s12034-021-02621-0,IN,Indian Inst Technol Delhi
+10.1103/PhysRevA.99.042310,"AU,TW","Natl Taiwan Univ,Univ New South Wales"
+10.1039/c4cp04744c,"JP,GB",Osaka City Univ
+10.1103/PhysRevB.92.125402,"DE,IL,US","Rhein Westfal TH Aachen,Harvard Univ,Weizmann Inst Sci"
+10.1103/PhysRevA.90.042118,CN,"Beijing Computat Sci Res Ctr,Univ Sci & Technol China,Tsinghua Univ"
+10.1063/5.0048399,US,"Univ Chicago,Argonne Natl Lab"
+10.1103/PhysRevA.103.052421,"JP,TR","Tokyo Int Univ,Istanbul Univ,Tokyo Inst Technol,Univ Tokyo"
+10.1038/s41467-024-45583-7,"DE,PL","Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,ARQUE Syst GmbH,Forschungszentrum Julich,Polish Acad Sci"
+10.1021/acs.nanolett.1c01003,AU,Univ New South Wales
+10.1109/JSSC.2022.3174605,"CH,GB","Ecole Polytech Fed Lausanne EPFL,IBM Res Zurich,Hitachi Cambridge Lab,Univ Cambridge,Quantum Mot Technol"
+10.1038/s41467-022-28519-x,US,"Univ Rochester,HRL Labs LLC"
+10.1103/PhysRevApplied.16.064008,"NO,ES","Norwegian Univ Sci & Technol,Univ Autonoma Madrid"
+10.1103/PhysRevA.96.042337,"DK,IR","Sharif Univ Technol,Aarhus Univ"
+10.1038/s41598-018-26633-9,"DE,CH","Humboldt Univ,ETH"
+10.1088/1674-1056/ad3812,CN,"Univ Sci & Technol China,Chinese Acad Sci,Beijing Superstring Acad Memory Technol,Origin Quantum Comp Co Ltd"
+10.1103/PhysRevB.93.085420,US,"Univ Maryland,Virginia Tech"
+10.1103/PhysRevA.90.032319,"CN,DE","Chinese Univ Hong Kong,Univ Stuttgart,Beijing Computat Sci Res Ctr"
+10.1103/PhysRevB.110.125414,"AU,CA,DE,JP","Univ New South Wales,Keio Univ,Leibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1103/PhysRevA.106.022608,CN,"Tsinghua Univ,Hefei Natl Lab,HYQ Co Ltd"
+10.1002/adma.202201625,"AU,CN","Univ New South Wales,UNSW,Southern Univ Sci & Technol"
+10.1103/PhysRevB.96.045302,"AU,NL","Univ New South Wales,Delft Univ Technol,Univ Twente"
+10.1038/s41524-021-00525-5,US,"Univ Calif Santa Cruz,Lawrence Livermore Natl Lab"
+10.1103/PhysRevB.92.224419,US,"Cornell Univ,Purdue Univ"
+10.1109/JETCAS.2022.3201980,BE,"IMEC,Katholieke Univ Leuven"
+10.1016/j.xcrp.2023.101693,"CN,US","Univ Chicago,Westlake Univ,Westlake Inst Adv Study,Argonne Natl Lab,Arizona State Univ"
+10.1103/PhysRevLett.132.263602,"DE,US","Harvard Univ,MIT,Tech Univ Carolo Wilhelmina Braunschweig,Univ Leipzig,AWS Ctr Quantum Comp,IAV GmbH,Northrop Grumman Mission Syst"
+10.1103/PhysRevB.91.245416,"CN,GB","UCL,Chinese Univ Hong Kong"
+10.1038/ncomms4895,"CN,DE","Univ Stuttgart,Stuttgart Res Ctr Photon Engn SCoPE,Beijing Computat Sci Res Ctr,Inst Appl Phys & Computat Math,Univ Sci & Technol China,Ruhr Univ Bochum"
+10.1007/s11433-017-9145-6,CN,City Univ Hong Kong
+10.1063/1.5088412,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen,Ruhr Univ"
+10.1103/PhysRevB.104.195305,FR,Univ Grenoble Alpes
+10.1021/acs.nanolett.2c04552,US,"Univ Maryland,Naval Res Lab"
+10.1038/s41534-021-00386-2,"AU,CA","Univ New South Wales,Univ British Columbia"
+10.1103/PhysRevApplied.13.034068,"DE,JP","Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Regensburg,Tokyo City Univ,Leibniz Inst Kristallzuchtung IKZ"
+10.1103/PhysRevLett.110.067601,US,"Harvard Univ,Harvard Smithsonian Ctr Astrophys"
+10.1103/PhysRevLett.110.057601,US,"Univ Calif Berkeley,Natl High Magnet Field Lab"
+10.1021/acsami.2c17395,"FR,DE,IT,NL","Leibniz Inst Kristallzuchtung,Leibniz Inst Innovat Mikroelekt,European Synchrotron Radiat Facil,Delft Univ Technol,QuTech & Netherlands Org Appl Sci Res TNO,Univ Pisa,Univ Roma Tre"
+10.1039/d2dt01564a,"AR,IT,PL,US","Adam Mickiewicz Univ,Univ Catania,State Univ New York SUNY Maritime Coll,Univ Wroclaw,Univ Buenos Aires,Univ Rzeszow"
+10.1103/PRXQuantum.2.020320,CN,"Southern Univ Sci & Technol,Univ Sci & Technol China,Peking Univ,Collaborat Innovat Ctr Quantum Matter"
+10.1103/PhysRevB.99.115317,FR,Univ Grenoble Alpes
+10.1103/PhysRevLett.133.146902,"NO,US","Univ Washington,Pacific Northwest Natl Lab,Univ Oslo"
+10.1038/NNANO.2013.7,"CA,ES","CSIC,Natl Res Council Canada,Univ Sherbrooke"
+10.1103/PRXQuantum.4.020305,"DE,PL","Forschungszentrum Julich,Rhein Westfal TH Aachen,Polish Acad Sci"
+10.1038/s41467-022-32236-w,"AU,US","Harvard Univ,Purdue Univ,Univ Sydney,Stanford Univ"
+10.1103/PhysRevB.97.245412,"AU,NL","Delft Univ Technol,Kavli Inst Nanosci,Univ New South Wales,UNSW Node"
+10.1038/s41467-023-36951-w,"NL,ES","QuTech,Delft Univ Technol,Netherlands Org Appl Sci Res TNO,CSIC,BIST,ICREA"
+10.1103/PhysRevB.93.075301,"JP,CH","RIKEN,Univ Basel"
+10.1103/PhysRevApplied.21.064039,FR,Univ Grenoble Alpes
+10.1103/PhysRevB.93.121306,US,Princeton Univ
+10.1063/5.0088155,JP,Yokohama Natl Univ
+10.1103/PhysRevB.96.241410,CH,Swiss Fed Inst Technol
+10.1088/0957-4484/24/1/015202,AU,Univ New S Wales
+10.1103/PhysRevA.87.022305,CN,Beijing Normal Univ
+10.1038/s41467-021-22416-5,US,"Univ Rochester,Purdue Univ"
+10.1103/PhysRevB.83.235316,"AU,US","Univ Sydney,Harvard Univ"
+10.1038/s41467-023-39334-3,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO,QuSoft,CWI"
+10.1038/NPHYS2688,"DE,CH,GB","Univ Basel,Ruhr Univ Bochum,Univ Paderborn"
+10.1103/PhysRevA.110.052408,"AU,JP,US","Virginia Tech,Virginia Tech Ctr Quantum Informat Sci & Engn,Univ New South Wales,Univ Wisconsin Madison,Okinawa Inst Sci & Technol Grad Univ"
+10.1103/PhysRevA.97.012318,US,Univ Wisconsin Madison
+10.1063/1.4901162,AU,Univ New S Wales
+10.1103/PhysRevX.14.041062,"JP,GB",Kyoto Univ
+10.1103/PhysRevB.97.155433,FR,Univ Grenoble Alpes
+10.1038/NPHYS3470,"DE,US","Tech Univ Munich,Los Alamos Natl Lab,Stanford Univ"
+10.1103/PhysRevB.92.201401,"AU,JP,US","Univ New S Wales,Lab Phys Sci,Univ Iowa,Keio Univ"
+10.1103/PhysRevX.12.021028,US,Princeton Univ
+10.1103/PhysRevB.106.235309,CA,Univ Sherbrooke
+10.1021/acs.inorgchem.1c01474,"ES,US","Univ Tennessee,Univ Valencia,Natl High Magnet Field Lab"
+10.1038/s41699-022-00336-2,KR,Ajou Univ
+10.1038/s41534-024-00910-0,"DE,NL,CH","Delft Univ Technol,Univ Geneva,Constructor Univ Bremen GmbH"
+10.1126/science.aar4054,"CA,NL","Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO,Univ Sherbrooke,Canadian Inst Adv Res"
+10.1126/science.aat3581,US,"Univ Maryland,NIST"
+10.1103/PhysRevA.105.032611,FR,TotalEnergies
+10.1103/PRXQuantum.5.020353,"NL,CH","Univ Basel,Delft Univ Technol"
+10.1038/ncomms11059,US,"Lab Phys Sci,Univ Maryland"
+10.1007/s11128-015-0985-1,"CA,JP","Univ Waterloo,Osaka City Univ,Perimeter Inst Theoret Phys,Canadian Inst Adv Res"
+10.1038/s41467-023-41632-9,US,"Univ Chicago,Univ Calif Davis,Argonne Natl Lab"
+10.1038/s41467-023-36031-z,US,"Argonne Natl Lab,Northwestern Univ,Boston Univ,Arizona State Univ,Univ Chicago"
+10.1021/acs.nanolett.2c04446,"FR,NL","Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1103/PhysRevB.92.195411,US,"NIST,Univ Maryland"
+10.1109/TCAD.2023.3311732,CN,Southern Univ Sci & Technol
+10.1021/acsphotonics.1c01775,"AU,DK,DE,US,GB","RMIT Univ,Heriot Watt Univ,Univ Calif Davis,Tech Univ Denmark,Univ Stuttgart"
+10.1103/PhysRevApplied.14.054015,US,"Univ Calif Los Angeles,HRL Labs LLC"
+10.1038/s41467-022-35510-z,"AU,US","Univ Wisconsin,Univ New South Wales"
+10.1038/s41467-020-14560-1,"AU,NL,KR,ES,CH,US,GB","Univ Cambridge,Natl Phys Lab,Delft Univ Technol,LS Instruments AG,Univ New South Wales,Mokpo Natl Univ,Univ Politecn Madrid,Univ Calif San Francisco,Univ Sheffield"
+10.22331/q-2018-05-28-70,"JP,CH,US","Univ Basel,Univ Wisconsin Madison,RIKEN"
+10.1038/s41467-019-11160-6,"DE,GB","Univ Sheffield,Tech Univ Munich,Univ Cambridge"
+10.1038/nphys2149,CA,"Natl Res Council Canada,Univ Sherbrooke"
+10.1021/acs.jpclett.7b01376,"IE,ES","Univ Valencia,Trinity Coll Dublin"
+10.1103/PhysRevApplied.16.034031,FR,"Univ Grenoble Alpes,CEA"
+10.1126/sciadv.1500707,AU,"Univ Melbourne,Univ New South Wales"
+10.1103/PhysRevB.104.085309,DE,Univ Konstanz
+10.1063/5.0217987,"LV,US","Univ Nebraska,Univ Latvia"
+10.1007/s10701-013-9735-3,"AU,CA","Univ Waterloo,Univ Queensland"
+10.1088/0253-6102/53/6/07,CN,"Changshu Inst Technol,Suzhou Univ"
+10.1021/acs.nanolett.2c01561,US,"Argonne Natl Lab,Univ Chicago"
+10.1103/PhysRevB.106.115439,FR,"Univ Toulon & Var,Univ Grenoble Alpes,CNRS"
+10.1103/PhysRevX.5.011009,"IL,PL","Technion Israel Inst Technol,Nicolaus Copernicus Univ"
+10.1103/PhysRevLett.129.066801,CH,"Univ Basel,Ecole Polytech Fed Lausanne"
+10.1021/jacs.0c08986,US,"Northwestern Univ,Univ Chicago,Univ Calif Santa Barbara,Argonne Natl Lab"
+10.1103/PhysRevB.98.195307,"CN,US","NIST,Univ Maryland,Southern Univ Sci & Technol"
+10.1002/qute.202000011,"CA,JP","Univ British Columbia,Univ Tokyo"
+10.1134/S0012500819070036,RU,Southern Fed Univ
+10.1038/s41467-024-49175-3,US,"Purdue Univ,Washington Univ,Sandia Natl Labs"
+10.1103/PhysRevB.100.075433,IT,"Ist Italiano Tecnol,Univ Genoa,Scuola Normale Super Pisa,Univ Florence,Ist Nazl Fis Nucl,Bedimens Spa"
+10.1038/s41534-020-00308-8,US,"Univ Calif San Diego,Colorado State Univ"
+10.1038/s42005-020-00405-2,"IT,CH","Univ Basel,CNR,Scuola Normale Super Pisa"
+10.1039/d1dt01832a,ES,Univ Valencia
+10.1039/d1nr02842a,US,Univ Illinois
+10.1103/PhysRevB.98.155320,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen"
+10.1103/PhysRevB.88.085320,CA,McGill Univ
+10.1103/PhysRevB.99.245306,US,Lab Phys Sci
+10.1103/PhysRevLett.125.247702,US,Harvard Univ
+10.1007/s11128-023-04193-w,CN,"Jishou Univ,Hunan Normal Univ"
+10.1103/PhysRevB.91.214303,GB,"UCL,Univ Oxford"
+10.1103/PhysRevA.109.032601,US,"Univ Illinois,Univ Calif Los Angeles"
+10.1103/PhysRevLett.117.015502,"AT,CN,JP,US","RIKEN,Xi An Jiao Tong Univ,TU Wien,Univ Michigan"
+10.1103/PhysRevApplied.9.034003,DE,Leibniz Univ Hannover
+10.1103/PhysRevB.107.155302,DE,Univ Konstanz
+10.1364/JOSAB.435409,CN,"Xi An Jiao Tong Univ,Hubei Univ Automot Technol"
+10.1002/chem.202303082,"CN,JP","Tohoku Univ,Nara Womens Univ,Nankai Univ,Tongji Univ"
+10.1038/s42005-024-01806-3,FI,VTT Tech Res Ctr Finland
+10.1103/PhysRevX.9.021011,"AU,NL,US","Delft Univ Technol,Univ Wisconsin,Univ New South Wales"
+10.1103/PhysRevX.12.021026,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1103/PhysRevB.108.125414,DE,Univ Konstanz
+10.1103/PhysRevApplied.10.044017,"AU,JP","Univ New South Wales,Keio Univ"
+10.1103/PhysRevB.105.165308,CN,"Chinese Acad Sci,Univ Chinese Acad Sci,Beijing Acad Quantum Informat Sci"
+10.1038/s41534-021-00500-4,"CN,US","Southern Univ Sci & Technol,Hefei Natl Lab,Univ Buffalo SUNY"
+10.1103/PhysRevApplied.11.044026,"CN,US","Xi An Jiao Tong Univ,Purdue Univ"
+10.1038/s41467-024-50763-6,"AT,IT","IST Austria,Ist NanoSci CNR,Scuola Normale Super Pisa,Politecn Milan"
+10.1103/PhysRevB.81.235324,DE,Univ Regensburg
+10.1021/jacs.8b13155,US,Northwestern Univ
+10.1103/PhysRevLett.131.197001,"BR,JP,CH","Univ Basel,IBM Res Europe Zurich,Univ Sao Paulo,RIKEN"
+10.1038/s41565-022-01196-z,FR,Univ Grenoble Alpes
+10.1002/adma.202405916,"AU,SG","Nanyang Technol Univ,Univ New South Wales"
+10.1126/sciadv.abn5130,US,"Princeton Univ,Univ Maryland,Sandia Natl Labs,Univ Penn"
+10.1002/advs.202407442,"AU,DE,US","Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Munster,Tascon GmbH,Univ Wisconsin,Leibniz Inst Kristallzuchtung IKZ,Univ New South Wales,Albert Ludwigs Univ Freiburg,ARQUE Syst GmbH,Univ Regensburg"
+10.1103/PhysRevB.108.235301,US,Univ Maryland
+10.1063/1.4730602,"JP,GB",NTT Corp
+10.1016/j.cap.2014.06.017,"DE,JP,KR,US","Univ Paderborn,Stanford Univ,Natl Inst Informat,Korea Adv Inst Sci & Technol"
+10.1103/PhysRevLett.116.246801,AU,Univ New S Wales
+10.1021/jacs.5b13408,IT,"Univ Florence,Univ Turin"
+10.1103/PhysRevApplied.20.044058,DE,"Rhein Westfal TH Aachen,Univ Regensburg,Ruhr Univ Bochum"
+10.1103/PhysRevB.103.L161409,"CN,US","City Univ Hong Kong,Univ Maryland Baltimore Cty"
+10.1038/s41467-023-44114-0,"AT,DK,IT,NL,NO,ES,SE,US,GB","IST Austria,Eindhoven Univ Technol,Politecn Milan,Univ Oxford,Univ Copenhagen,Consejo Super Invest Cient ICMM CSIC,Lund Univ,Norwegian Univ Sci & Technol,Louisiana State Univ"
+10.1039/c5sc04295j,IT,"Univ Florence,INSTM RU Florence,Univ Turin,NIS Ctr"
+10.1038/s41467-020-15472-w,US,US Naval Res Lab
+10.1007/s00340-016-6527-4,"AR,DE","Johannes Gutenberg Univ Mainz,UBA,Consejo Nacl Invest Cient & Tecn"
+10.1103/PhysRevApplied.18.064028,US,"Princeton Univ,Univ Maryland,HRL Labs LLC,Univ Calif Los Angeles,Univ Penn"
+10.1088/0256-307X/37/12/120301,CN,Wuhan Univ
+10.1016/j.physe.2018.01.024,EG,"Univ Bahrain,Aswan Univ"
+10.1038/s41598-018-34108-0,"CN,US","Univ Sci & Technol China,Univ Calif Los Angeles"
+10.1103/PhysRevB.87.195307,"BE,PL","AGH Univ Sci & Technol,Univ Antwerp"
+10.1021/acsanm.3c05470,CH,"Univ Basel,Qnami AG"
+10.1126/science.aau4691,US,"Harvard Univ,CALTECH,Sandia Natl Labs"
+10.21468/SciPostPhys.17.1.014,"NL,NO","Norwegian Univ Sci & Technol,Leiden Univ"
+10.1103/PhysRevB.101.165302,"RS,SK","Univ Belgrade,Safarik Univ"
+10.1103/PhysRevB.91.085419,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen"
+10.1209/0295-5075/107/67004,"CZ,PL","Univ Gdansk,Natl Quantum Informat Ctr Gdansk,Wroclaw Univ Technol,Charles Univ Prague,Gdansk Univ Technol"
+10.1088/1361-648X/aa7f86,RS,Univ Belgrade
+10.1039/c5qi00127g,ES,Univ Valencia
+10.1103/PhysRevApplied.22.054049,JP,Natl Inst Adv Ind Sci & Technol
+10.1103/PhysRevB.82.075403,US,"Harvard Univ,NIST,IBM TJ Watson Res Ctr,Univ Calif Santa Barbara"
+10.1038/s41598-019-52868-1,"CA,US,GB","Univ New Mexico,Sandia Natl Labs,Univ Sherbrooke,Ctr Integrated Nanotechnol"
+10.1038/s41586-024-07252-z,US,"Harvard Univ,AWS Ctr Quantum Networking,MIT"
+10.1103/PhysRevLett.111.060501,DK,Univ Copenhagen
+10.1103/PRXQuantum.2.040306,"DK,US","Univ Copenhagen,Purdue Univ"
+10.1021/acsami.1c16988,"KR,US","Ajou Univ,Univ Chicago,Argonne Natl Lab"
+10.1103/PhysRevB.101.155307,"RS,SK","Univ Belgrade,Safarik Univ"
+10.1038/nature10401,"NL,US","Delft Univ Technol,Bates Coll"
+10.1088/1367-2630/acf2bd,"CL,US","Univ Santiago Chile,Univ Notre Dame,Millennium Inst Res Opt"
+10.1103/PhysRevApplied.22.064077,US,"Virginia Commonwealth Univ,Univ Calif Los Angeles,Lawrence Berkeley Natl Lab,Univ Calif Berkeley"
+10.1063/5.0072414,TW,"Natl Taiwan Univ,Taiwan Semicond Res Inst"
+10.1557/s43577-021-00147-8,"NL,US","Delft Univ Technol,US Army,Univ Maryland,NIST,Univ Delaware"
+10.1103/PhysRevB.85.014408,"FR,DE,JP,NL","Univ Groningen,Univ Grenoble 1,CEA Grenoble,Univ Tokyo,JST,Res Ctr Julich,IM2NP CNRS,Univ Aix Marseille"
+10.1016/j.aop.2015.07.029,IN,"Jaypee Inst Informat Technol,Indian Inst Technol,Poornaprajna Inst Sci Res"
+10.1103/PhysRevLett.127.057701,"JP,SK,CH,US","Univ Basel,RIKEN,Slovak Acad Sci,Univ Calif Santa Barbara,Lab Phys Sci,Colorado Sch Mines"
+10.1038/s41467-020-17865-3,DE,"Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,Ruhr Univ Bochum,Univ Regensburg"
+10.1103/PhysRevB.109.045438,HU,"Budapest Univ Technol & Econ,MTA BME Quantum Dynam & Correlat Res Grp"
+10.1103/PhysRevB.95.195316,"AU,CN","Univ New South Wales,Univ Sci & Technol China"
+10.1038/s41534-023-00699-4,"IL,KR,GB","Seoul Natl Univ,Pusan Natl Univ,Weizmann Inst Sci"
+10.1038/s41563-021-01148-3,"DE,JP,SE,US","Univ Stuttgart,Kyoto Univ,Fraunhofer Inst Integrated Syst & Device Technol,Helmholtz Zentrum Dresden Rossendorf,Leibniz Inst Surface Engn IOM,Univ Calif Davis,Linkoping Univ"
+10.1103/PhysRevB.103.235314,US,"Univ Maryland Baltimore Cty,Lab Phys Sci"
+10.1103/PhysRevApplied.17.054006,AU,"Univ New South Wales,UNSW Sydney"
+10.1103/PhysRevA.82.013601,CN,"Shanxi Univ,Shaoxing Univ,Zhejiang Ocean Univ"
+10.1103/PhysRevB.100.085419,US,Princeton Univ
+10.1103/PhysRevB.106.L201305,"DK,SE","Lund Univ,Univ Copenhagen"
+10.1021/acs.nanolett.4c05205,US,Intel Corp
+10.1103/PhysRevLett.118.167204,"AU,CH","Univ Melbourne,Melbourne Ctr Nanofabricat,Univ Basel"
+10.1126/science.1253512,"NL,GB","Delft Univ Technol,Element Six Ltd"
+10.1103/PhysRevB.109.085303,"JP,CH","Univ Basel,RIKEN"
+10.1140/epjp/s13360-023-04267-9,US,"SUNY Polytech Inst,Informat Directorate"
+10.3390/electronics11040526,IT,Univ Modena & Reggio Emilia
+10.1038/s41534-024-00813-0,"JP,NL","RIKEN Ctr Emergent Matter Sci CEMS,RIKEN Ctr Quantum Comp RQC,Delft Univ Technol,Netherlands Org Appl Sci Res TNO"
+10.1103/PhysRevApplied.18.L061003,US,"Virginia Tech,Univ Colorado Boulder,Univ Delaware"
+10.1103/PhysRevLett.106.040505,US,"Harvard Univ,CALTECH,Univ Michigan"
+10.1038/s41467-018-05664-w,JP,Yokohama Natl Univ
+10.1109/TED.2010.2089988,SG,Natl Univ Singapore
+10.1038/s41586-019-1919-3,NL,"Delft Univ Technol,Netherlands Org Appl Sci Res TNO"
+10.3390/nano13050950,CA,Natl Res Council Canada
+10.1002/cjoc.202400048,CN,"Westlake Univ,Westlake Inst Adv Study"
+10.1038/s41534-021-00449-4,"AU,SG","Nanyang Technol Univ,Univ New South Wales,Natl Univ Singapore"
+10.1063/1.5128132,US,Northwestern Univ
+10.1103/PhysRevB.109.134106,"AU,US","Univ Melbourne,CUNY City Coll New York"
+10.1038/s41534-022-00639-8,"DE,NL","Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO,Forschungszentrum Julich"
+10.1016/j.physleta.2011.11.022,CN,"Natl Univ Def Technol,Tsinghua Univ"
+10.1038/nature12011,"AU,GB","Univ New S Wales,UCL,Univ Melbourne"
+10.1063/1.4868107,"AU,US","Univ Sydney,Univ Calif Santa Barbara"
+10.1038/s41565-017-0014-x,JP,"RIKEN,Univ Tokyo,PRESTO,Tokyo Inst Technol,Nagoya Univ,Keio Univ"
+10.1021/jacs.0c12645,"ML,US",Northwestern Univ
+10.1088/0253-6102/61/2/06,CN,"Xuchang Univ,Zhejiang Ocean Univ"
+10.1103/PhysRevApplied.10.054026,"DE,IL,US","Forschungszentrum Julich,Rhein Westfal TH Aachen,Harvard Univ,Weizmann Inst Sci,Ruhr Univ Bochum,Univ Regensburg"
+10.1038/s41467-020-16745-0,US,"Univ Rochester,Chapman Univ,Purdue Univ"
+10.1103/PhysRevB.100.041304,"DE,IT,NL","Delft Univ Technol,IHP Leibniz Inst innovat Mikroelekt,Univ Roma Tre,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1088/0031-8949/84/06/065010,CN,Huaihua Univ
+10.1103/PhysRevA.107.033708,"CN,US","Univ Sci & Technol China,Univ Calif Los Angeles,Suzhou Univ"
+10.1103/PhysRevB.100.245427,DE,Univ Konstanz
+10.1038/s41586-022-04819-6,"DE,NL,GB","Delft Univ Technol,Univ Technol,Element Six,Forschungszentrum Juelich"
+10.1038/s41534-024-00897-8,"NL,US","Delft Univ Technol,Univ Calif Los Angeles"
+10.1088/2058-9565/acf786,NL,Delft Univ Technol
+10.1002/adma.202208998,DE,"Univ Stuttgart,Heidelberg Univ"
+10.1063/5.0177857,CH,"IBM Res Zurich,Univ Basel"
+10.1103/PhysRevLett.120.137702,FR,"Univ Grenoble Alpes,CEA"
+10.1103/PhysRevB.93.035402,DE,Univ Konstanz
+10.1038/s41534-024-00815-y,JP,Natl Inst Adv Ind Sci & Technol
+10.1109/TASC.2022.3148965,FI,"VTT Tech Res Ctr Finland Ltd,Bluefors Oy"
+10.1145/3474222,"NL,PK,US,GB","Intel Corp,HITEC Univ,UCL,Delft Univ Technol"
+10.1021/acs.nanolett.3c03681,"AU,SG","Nanyang Technol Univ,Univ New South Wales,Agcy Sci Tech & Res A STAR"
+10.1007/s10773-021-04885-y,CN,Univ Sci & Technol Liaoning
+10.1088/1367-2630/18/5/053029,US,Univ Pittsburgh
+10.1016/j.jlumin.2009.12.004,DE,Humboldt Univ
+10.1088/0953-4075/45/23/235501,"BY,PL","Sci Pract Mat Res Ctr NAS Belarus,Univ Szczecin"
+10.1038/s42005-022-01041-8,US,"Univ Calif Los Angeles,UCLA,Virginia Commonwealth Univ"
+10.1103/PhysRevA.90.042327,CN,"Harbin Inst Technol,Yanbian Univ"
+10.1088/1674-1056/21/4/040306,CN,Yanbian Univ
+10.1038/s41586-019-1381-2,AU,Univ New South Wales
+10.1103/PhysRevApplied.18.054090,ES,"CSIC,Univ Basque Country UPV EHU,Basque Res & Technol Alliance BRTA"
+10.1038/srep07551,CN,Beijing Normal Univ
+10.1038/ncomms5870,DE,Max Planck Inst Biophys Chem
+10.1021/acs.nanolett.3c04056,US,Univ Maryland
+10.1016/j.physe.2022.115199,CN,Xuchang Univ
+10.1088/2058-9565/aaf3c4,"CA,GB","Univ Waterloo,Univ Oxford"
+10.1103/PhysRevB.99.140403,US,Univ Calif Los Angeles
+10.1103/PhysRevB.95.075403,"AU,NL,US","Univ New South Wales,Delft Univ Technol,NIST"
+10.1039/d3nr03844k,"JP,SG,US","Natl Univ Singapore,ASTAR,Natl Inst Mat Sci,Univ Arkansas"
+10.1038/s41598-020-61976-2,"CN,US","Univ Sci & Technol China,Univ Calif Los Angeles"
+10.1038/s41565-020-0769-3,"AT,GB","Univ Sheffield,Johannes Kepler Univ Linz"
+10.1103/PhysRevApplied.11.064037,US,Univ Oregon
+10.1016/j.aop.2016.03.001,CN,"Inner Mongolia Univ Sci & Technol,Harbin Inst Technol"
+10.1103/PhysRevApplied.18.064082,US,"Sandia Natl Labs,Princeton Univ,Univ Calif Los Angeles"
+10.1103/PhysRevB.108.205404,"CA,RU","Natl Res Lobachevsky State Univ Nizhny Novgorod,Russian Quantum Ctr,Natl Res Council Canada"
+10.1103/PhysRevApplied.16.064058,JP,"Japan Adv Inst Sci & Technol,Kyoto Univ,Natl Inst Mat Sci,Tohoku Univ,Niigata Univ"
+10.1103/PhysRevB.106.L180406,US,Univ Calif Los Angeles
+10.1021/jacs.2c11784,"AU,CN,US","Northwestern Univ,Univ Calif Irvine,Univ Florida,Univ Arizona,Univ Sydney,MIT,Georgia Inst Technol,Univ Colorado Boulder,Argonne Natl Lab,Arizona State Univ,Westlake Univ"
+10.1039/d4qi02324b,CN,"Zhejiang Univ,Westlake Univ,Westlake Inst Adv Study"
+10.1063/5.0074320,US,Arizona State Univ
+10.1038/s41534-018-0059-1,FR,"CEA,Univ Grenoble Alpes"
+10.1103/PhysRevLett.124.117701,JP,RIKEN
+10.1038/s41586-024-07160-2,"AU,CA,DE,GB","Univ New South Wales,Diraq,Univ Oxford,Leibniz Inst Kristallzuchtung,VITCON Projectconsult,Simon Fraser Univ,Univ Sydney,Quantum Mot Technol"
+10.1103/PhysRevApplied.17.054007,"AU,DE","Univ New South Wales,UNSW Sydney,Univ Saarland"
+10.1109/LED.2020.3001291,BE,"Katholieke Univ Leuven,IMEC"
+10.1039/c6cc05094h,US,Northwestern Univ
+10.1103/PhysRevLett.122.207703,"JP,US,UA","RIKEN,RIKEN Cluster Pioneering Res,B Verkin Inst Low Temp Phys & Engn,Kharkov Natl Univ,Natl Inst Adv Ind Sci & Technol,NIMS,Univ Michigan"
+10.1103/PRXQuantum.4.010319,"AU,CH,US","Univ New South Wales,Silicon Quantum Comp,Univ Basel,Univ Queensland,PsiQuantum Ltd"
+10.1103/PhysRevX.11.041041,"NL,US,GB","Univ Cambridge,MIT,CCDC Army Res Lab,Delft Univ Technol"
+10.1088/0957-4484/27/46/464003,CA,"McGill Univ,Univ Sherbrooke,Canadian Inst Adv Res"
+10.1126/science.aaw2906,"DK,FR,GB","Univ Cambridge,Tech Univ Denmark,Univ Sheffield,Univ Cote dAzur"
+10.1021/acsnano.3c10633,"DE,US","Univ Calif San Diego,Georgia Inst Technol,Max Planck Inst Phys Komplexer Syst,Univ Calif Los Angeles"
+10.1002/qute.202000005,"AU,FR","Australian Res Council,UNSW Sydney,Univ Paris Saclay,Univ Melbourne"
+10.1038/ncomms3069,"AU,US","Univ New S Wales,Lab Phys Sci,Purdue Univ"
+10.1039/d3mh01201h,ES,"CSIC,Univ Zaragoza"
+10.1038/s41567-020-0952-3,"DK,NL,US","Yale Univ,Delft Univ Technol,Microsoft Quantum Lab Delft,Univ Copenhagen"
+10.1038/s42005-019-0113-0,"CA,US","Natl Res Council Canada,Univ Waterloo,Sandia Natl Labs"
+10.1016/j.cclet.2024.110100,"CN,JP,ES","Peking Univ,South China Univ Technol,Guangdong Univ Technol,Kunming Univ Sci & Technol,Chinese Acad Sci,Nanjing Univ Posts & Telecommun,Soochow Univ,Univ Sci & Technol China,Inst Phys,Univ Chinese Acad Sci,Beijing Normal Univ,South China Normal Univ,Nanjing Univ Sci & Technol,Zhengzhou Univ,East China Univ Sci Technol,Shaanxi Normal Univ,Northeast Normal Univ,Natl Ctr Nanosci & Technol,Henan Agr Univ,Huazhong Univ Sci & Technol,Shanghai Univ,Nanchang Univ,Tsinghua Univ,CSIC UPV,Inst Mol Sci,Tongji Univ,Tianjin Fifth Cent Hosp,ShanghaiTech Univ,Univ Chinese Acad Sci UCAS,Natl Nat Sci Fdn China"
+10.1126/sciadv.aaq1459,"AU,US,GB","Univ New South Wales,Purdue Univ,Univ Sussex"
+10.1038/ncomms5822,"CN,GB","Chinese Acad Sci,Chinese Univ Hong Kong,Univ Sci & Technol China,UCL,Univ Oxford,Beijing Computat Sci Res Ctr"
+10.1021/acs.nanolett.2c03034,"ES,US","Barcelona Inst Sci & Technol,Argonne Natl Lab"
+10.1103/PhysRevLett.128.067702,"JP,CH","Swiss Fed Inst Technol,Natl Inst Mat Sci"
+10.1587/transele.2022FUS0001,JP,"Tokyo Inst Technol,Nikon Inc"
+10.1103/PhysRevB.101.155311,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen"
+10.1103/PhysRevLett.112.116802,CH,Swiss Fed Inst Technol
+10.1103/PhysRevA.90.022320,DE,Univ Konstanz
+10.1103/PhysRevA.96.012307,IR,Univ Isfahan
+10.1103/PhysRevApplied.20.054024,"JP,NL,SK,CH","RIKEN,Slovak Acad Sci,Tokyo Inst Technol,QuTech,Netherlands Org Appl Sci Res TNO,Delft Univ Technol,Univ Basel"
+10.1088/1751-8113/48/6/065304,IT,"CNR,Univ Milano Bicocca"
+10.1103/PhysRevA.89.022310,US,"Univ Maryland,Univ Maryland Baltimore Cty"
+10.1016/j.optcom.2017.01.056,KR,"Chungbuk Natl Univ,Korea Inst Sci & Technol,Natl Secur Res Inst"
+10.1007/s11128-016-1480-z,PL,Polish Acad Sci
+10.1007/s11128-022-03707-2,GB,Univ Kent
+10.1103/PhysRevA.106.L030402,"DE,US","Univ Maryland,Forschungszentrum Julich,Julich Aachen Res Alliance"
+10.1103/PhysRevA.99.012347,US,Univ Maryland Baltimore Cty
+10.1103/PhysRevB.89.085314,US,"Univ Maryland,Univ Maryland Baltimore Cty"
+10.1103/PhysRevB.105.085414,DE,Univ Konstanz
+10.1103/PhysRevB.104.045420,DE,Univ Konstanz
+10.1103/PhysRevApplied.22.044057,US,"HRL Labs LLC,Univ Calif Los Angeles,Stanford Univ,Microsoft,SCAD Savannah"
+10.1103/PhysRevA.102.042602,PL,"Wroclaw Univ Technol,Polish Acad Sci"
+10.1016/j.ijleo.2009.03.006,MY,Multimedia Univ
+10.1039/c6dt02664h,"AT,NL,ES","CSIC,Univ Zaragoza,Fdn ARAID,Univ Barcelona,TU Wien,Delft Univ Technol"
+10.1038/s41565-020-00828-6,"NL,CH","Univ Basel,Eindhoven Univ Technol"
+10.1088/1361-648X/ab4933,CN,Yanshan Univ
+10.1103/PhysRevA.81.044305,ES,"Univ Basque Country,Basque Fdn Sci"
+10.1103/PhysRevA.99.042316,CN,"City Univ Hong Kong,South China Normal Univ"
+10.1063/5.0031231,"IL,KR","Seoul Natl Univ,Pusan Natl Univ,Weizmann Inst Sci"
+10.1038/s41563-024-01857-5,"CH,US","IBM Res Europe Zurich,TJ Watson Res Ctr"
+10.1103/PhysRevB.84.235309,US,Univ Maryland
+10.1103/PhysRevB.107.085428,"CZ,ES","Barcelona Inst Sci & Technol,ICREA,Czech Acad Sci"
+10.1021/acs.nanolett.7b01796,"AU,DE,HU,JP,LT,ES","Univ Stuttgart,Tech Univ Munich,Hungarian Acad Sci,Budapest Univ Technol & Econ,Swabian Instruments GmbH,Univ Leipzig,Natl Inst Mat Sci,Univ Tsukuba,Australian Natl Univ,Ctr Phys Sci & Technol,Max Planck Inst Solid State Res,CSIC,Barcelona Inst Sci & Technol,ICREA"
+10.1002/aelm.202300648,US,Univ Nebraska
+10.1103/PhysRevA.107.033516,CN,"Wenzhou Univ,Hangzhou Normal Univ,Anhui Univ"
+10.1103/PhysRevA.96.042108,"PL,GB","Univ Warsaw,Polish Acad Sci"
+10.1039/d3cc04770a,JP,"Nara Womens Univ,Nihon Univ"
+10.1002/chem.202304202,"CN,JP","Chitose Inst Sci & Technol,Tohoku Univ,Univ Hong Kong,Osaka Metropolitan Univ,Tongji Univ"
+10.1103/PhysRevB.94.205413,DE,Univ Konstanz
+10.1016/j.physleta.2014.08.015,CN,"Univ Elect Sci & Technol China,Univ Hong Kong,Tsinghua Univ,Collaborat Innovat Ctr Quantum Matter"
+10.1088/2058-9565/acef54,DE,Univ Konstanz
+10.1039/c3nr04114j,CN,"Fudan Univ,Huazhong Univ Sci & Technol"
+10.1103/PhysRevLett.110.010403,DE,"Rhein Westfal TH Aachen,JARA Fundamentals Future Informat Technol"
+10.1038/s41467-021-24494-x,"AT,BE,CZ,HU,SE","Hasselt Univ,Czech Tech Univ,Czech Acad Sci,Univ Vienna,Wigner Res Ctr Phys,Linkoping Univ,IMEC,Budapest Univ Technol & Econ"
+10.1134/S1028335816080048,RU,Peter Great St Petersburg Polytech Univ
+10.1039/d0sc03107k,"IT,ES","Univ Parma,INSTM,Univ Zaragoza,Univ Barcelona,Univ Barcelona IN2UB"
+10.1098/rsta.2021.0275,US,"Univ Maryland Baltimore Cty,Lab Phys Sci,Univ Maryland"
+10.1134/S1070328417040066,RU,"Southern Fed Univ,Russian Acad Sci"
+10.1103/PhysRevB.88.245306,US,Univ Calif San Diego
+10.1088/1367-2630/aa7faf,SI,"J Stefan Inst,Univ Ljubljana"
+10.1103/PhysRevB.83.121403,"FR,NL","Delft Univ Technol,CNRS,Univ Grenoble 1"
+10.1103/PhysRevLett.121.177701,"DE,US","Univ Konstanz,Princeton Univ"
+10.1088/1674-1056/20/10/100310,CN,Southeast Univ
+10.1103/PhysRevLett.122.217702,"CA,US","Univ Sherbrooke,Sandia Natl Labs,Canadian Inst Adv Res"
+10.1103/PhysRevB.88.195131,US,"Sandia Natl Labs,Univ Maryland,Univ Maryland Baltimore Cty"
+10.1021/jacs.3c04786,"US,GB",Northwestern Univ
+10.1038/s41534-023-00719-3,JP,"RIKEN Ctr Quantum Comp,RIKEN,Tokyo Inst Technol"
+10.1002/andp.202200452,"IN,ML",Indian Inst Technol Jodhpur
+10.1103/PhysRevA.100.022318,"CZ,PL","Wroclaw Univ Sci & Technol,Acad Sci Czech Republ,Polish Acad Sci"
+10.1103/PhysRevApplied.18.024053,"AU,NL,US","Delft Univ Technol,Univ Technol Sydney,Netherlands Org Appl Sci Res TNO,Intel Corp"
+10.1103/PhysRevB.101.165308,NO,Norwegian Univ Sci & Technol
+10.1038/srep03121,"CH,GB","ETH,UCL"
+10.22331/q-2019-12-09-212,GB,"Quantum Mot Technol Ltd,Univ Oxford,UCL"
+10.35848/1347-4065/acbb0e,JP,Tokyo Inst Technol
+10.1038/ncomms1378,JP,"Natl Inst Mat Sci,Japan Sci & Technol Agcy"
+10.1103/PhysRevB.104.115425,CH,Univ Basel
+10.1103/PhysRevA.85.062312,"CA,SG","Univ Waterloo,Natl Univ Singapore,Univ Guelph,Perimeter Inst Theoret Phys"
+10.1007/s10773-012-1292-6,CN,Huaihua Univ
+10.1088/1674-1056/21/10/100304,CN,Shanghai Univ
+10.1103/PhysRevA.88.022120,AU,Univ Sydney
+10.1038/ncomms15923,US,Univ Wisconsin
+10.1007/s11128-020-02935-8,PL,Wroclaw Univ Sci & Technol
+10.1103/PhysRevA.90.022118,"CN,US","SUNY Buffalo,Jilin Univ"
+10.1088/0953-8984/23/11/115302,"PL,SE","Silesian Univ,Lund Univ,Polish Acad Sci"
+10.1103/PhysRevLett.111.086805,"CN,JP,US","Beijing Computat Sci Res Ctr,Fudan Univ,RIKEN,Univ Michigan"
+10.1002/qute.201900081,CN,Beijing Univ Posts & Telecommun
+10.1063/1.4966946,FR,"Univ Grenoble Alpes,CEA"
+10.1016/j.chemphys.2010.03.003,DK,Tech Univ Denmark
+10.1088/2058-9565/ab86c9,US,"HRL Labs LLC,IBM Thomas J Watson Res Ctr"
+10.1038/NNANO.2017.154,US,"Princeton Univ,Lawrence Berkeley Natl Lab"
+10.1021/acs.nanolett.0c03980,NL,Delft Univ Technol
+10.1103/PhysRevX.8.041050,"CA,IL","Technion Israel Inst Technol,Natl Res Council Canada,Univ Ottawa"
+10.1103/PhysRevA.93.010303,US,Florida State Univ
+10.1063/5.0055318,AU,UNSW
+10.1063/1.5082878,"CN,GB","Hefei Univ Technol,Shanxi Univ,Univ Oxford"
+10.1016/j.sse.2012.05.039,US,USA
+10.1063/1.5004147,"DE,IL,US","Tech Univ Berlin,Technion Israel Inst Technol,Univ Washington,Otto von Guericke Univ"
+10.1103/PhysRevB.86.125317,US,Santa Clara Univ
+10.1063/1.4752863,"AU,US","Univ Sydney,Univ Calif Santa Barbara"
+10.1103/PhysRevB.108.245301,"AU,CA,NL","Univ New South Wales,Delft Univ Technol,Univ British Columbia"
+10.1039/d0cp04056h,US,Virginia Tech
+10.1103/PhysRevB.107.L161406,CA,Ecole Polytech Montreal
+10.1103/PhysRevB.97.045431,US,Univ Maryland
+10.1103/PhysRevB.105.075308,"DE,CH","Univ Basel,Univ Augsburg"
+10.1088/2058-9565/ad3d06,US,Univ Maryland Baltimore Cty
+10.1103/PhysRevB.93.205434,"DE,NO","Univ Konstanz,Norwegian Univ Sci & Technol"
+10.1021/acs.nanolett.9b02149,DK,"Univ Copenhagen,Microsoft Quantum Lab Copenhagen"
+10.1021/acs.nanolett.0c02589,NL,"Delft Univ Technol,TNO"
+10.1038/srep12685,"CN,US","Univ Maryland,City Univ Hong Kong"
+10.1103/PhysRevB.95.245422,CH,Univ Basel
+10.1103/PhysRevX.8.041018,CH,Swiss Fed Inst Technol
+10.1021/jacs.3c01243,"US,GB","Northwestern Univ,Univ Oxford"
+10.1038/ncomms1856,"CL,US","Harvard Smithsonian Ctr Astrophys,Harvard Univ,MIT,Pontificia Univ Catolica Chile"
+10.1038/s41467-022-28302-y,US,"Sandia Natl Labs,IBM Quantum,HRL Laboratories LLC"
+10.1126/science.ade5050,"CN,JP,KR,ES,US","Inst Basic Sci IBS,Ewha Womans Univ,Peking Univ,Collaborat Innovat Ctr Quantum Matter,Univ Tokyo,Univ Basque Country,Donostia Int Phys Ctr DIPC,Basque Fdn Sci,Almaden Res Ctr"
+10.1038/s41467-023-44494-3,US,"Washington Univ,Kansas State Univ,Harvard Univ,Purdue Univ"
+10.1088/1361-6528/aafe5a,SE,Lund Univ
+10.1103/PhysRevApplied.19.044094,US,Virginia Tech
+10.1063/5.0088576,NL,"Delft Univ Technol,QuTech & Netherlands Org Appl Sci Res TNO"
+10.1038/s41928-021-00687-6,"CH,GB","Ecole Polytech Fed Lausanne,Hitachi Europe Ltd,Univ Cambridge,Nexus"
+10.1103/PhysRevA.84.012315,US,Univ Maryland
+10.1038/ncomms6156,"AU,IL,US","Harvard Univ,Univ Sydney,Weizmann Inst Sci"
+10.1103/PhysRevApplied.22.054048,CN,"Univ Sci & Technol China,Natl Key Lab Solid State Microwave Devices & Circu"
+10.1021/jacs.2c08729,US,CALTECH
+10.1038/s41467-024-52010-4,"AU,JP","Univ New South Wales,Diraq,Keio Univ"
+10.1103/PhysRevB.92.121301,GB,"Univ Sheffield,Univ London,Hitachi Europe Ltd"
+10.1103/PhysRevB.91.235411,DE,Univ Konstanz
+10.1016/j.physleta.2010.12.048,"CN,US","Hebei Normal Univ,NYU"
+10.1103/PhysRevX.8.041032,AU,UNSW Sydney
+10.1063/5.0049372,"CA,GB",Univ British Columbia
+10.1038/ncomms7348,GB,Univ Sheffield
+10.1038/ncomms5225,US,"Lab Phys Sci,Univ Maryland"
+10.1103/PhysRevApplied.22.014033,"DK,NL,NO,US,GB","Univ Copenhagen,Leiden Univ,Norwegian Univ Sci & Technol,QDevil,Univ Oxford,Purdue Univ"
+10.1103/PRXQuantum.3.040328,"BE,CA,HU,NL,TW,TH,US","Harvard Univ,Princeton Univ,Suranaree Univ Technol,Natl Changhua Univ Educ,Inst Solid State Phys & Opt,Budapest Univ Technol & Econ,Delft Univ Technol,Univ Waterloo,IMEC"
+10.1038/srep19482,CN,"Shanxi Normal Univ,Harbin Inst Technol,Yanbian Univ"
+10.1103/PhysRevX.10.021006,"AU,CA,DE,NL,US","Delft Univ Technol,Univ Konstanz,Univ Wisconsin,McGill Univ,Univ New South Wales"
+10.35848/1347-4065/acbcdd,JP,Natl Inst Adv Ind Sci & Technol
+10.1038/s41534-022-00647-8,ES,Univ Valencia
+10.1209/0295-5075/106/67008,CN,Sichuan Univ
+10.1103/PhysRevB.108.125405,"AU,NL,US","Univ Wisconsin Madison,Univ New South Wales,Delft Univ Technol"
+10.1038/s41534-024-00823-y,GB,"Quantum Mot,UCL,Univ Oxford"
+10.1103/PhysRevB.105.245308,US,"Univ Maryland Baltimore Cty,Lab Phys Sci,Univ Maryland"
+10.1109/TMAG.2018.2815696,IN,"IIT Roorkee,Dept Elect & Elect Engn"
+10.1007/s10773-013-1944-1,CN,"Changsha Univ Sci & Technol,Huanggang Normal Univ"
+10.1103/PhysRevLett.106.180503,US,"Univ Wisconsin,SUNY Buffalo"
+10.1002/qute.201900017,"IT,GB","Univ Milano Bicocca,Univ Nottingham,Liverpool John Moores Univ,Univ Lincoln"
+10.1103/PhysRevA.86.012317,US,"Univ Calif Berkeley,Berkeley Quantum Informat & Computat Ctr"
+10.1021/acs.nanolett.9b03254,"NL,US","Delft Univ Technol,Intel Corp"
+10.1103/PhysRevB.96.235434,"DE,US","Univ Konstanz,Princeton Univ,NIST"
+10.1016/j.sse.2024.108883,"CA,FR","Nanoacad Technol Inc,STMicrolectronics"
+10.1088/1367-2630/ad19ab,CN,"Beijing Acad Quantum Informat Sci,Peking Univ"
+10.1038/s41565-022-01282-2,"AT,IN,GB","Univ Cambridge,Johannes Kepler Univ Linz,Indian Inst Technol Delhi,Univ Sheffield,Univ Oxford"
+10.1103/PhysRevApplied.19.024068,AU,"Univ New South Wales,UNSW"
+10.1103/PhysRevA.87.033815,US,Univ Pittsburgh
+10.1016/j.optcom.2013.11.051,CN,"Beijing Forestry Univ,Beijing Univ Aeronaut & Astronaut"
+10.1103/PhysRevB.92.125434,CA,"Univ Waterloo,Natl Res Council Canada"
+10.1088/1367-2630/18/1/013033,"BR,DE,JP","Kinki Univ,NTT Corp,Tech Univ Dortmund,Univ Sao Paulo"
+10.1063/1.3518919,"AT,CA,JP,KR","Univ Tokyo,Univ Sherbrooke,Pohang Univ Sci & Technol,Univ Leoben,Tokyo Inst Technol,Japan Sci & Technol Agcy"
+10.1063/5.0179958,"AU,JP","Univ New South Wales,Diraq,Keio Univ"
+10.1103/PhysRevB.109.155406,FR,Univ Grenoble Alpes
+10.1002/qute.202200044,CN,"Beihang Univ,Shandong Univ"
+10.1021/nl303863s,"AU,US","Univ New S Wales,Sandia Natl Labs,Purdue Univ,Univ Melbourne"
+10.1038/ncomms9603,FR,"CNRS,Univ Grenoble Alpes,Univ Montpellier"
+10.1103/PhysRevLett.128.126803,"AT,DE,IT,CH,GB","Inst Sci & Technol Austria ISTA,Univ Konstanz,Univ Basel,CNR,Scuola Normale Super Pisa,Univ Oxford,Hitachi Cambridge Lab,Politecn Milan"
+10.1103/PhysRevB.104.115308,US,"Virginia Tech,Univ Maryland Baltimore Cty,Lab Phys Sci"
+10.1038/s41467-024-53964-1,GB,"Toshiba Europe Ltd,Univ Cambridge"
+10.1038/s41467-019-08970-z,US,Princeton Univ
+10.1038/s41598-018-36476-z,JP,"RIKEN,Natl Inst Adv Ind Sci & Technol,NIMS"
+10.1038/s41467-019-13548-w,"AU,US","Univ Wisconsin,Univ New South Wales"
+10.1103/PhysRevLett.125.047701,"AU,DK,DE","Forschungszentrum Julich,Rhein Westfal TH Aachen,Ruhr Univ Bochum,Univ Copenhagen,UNSW Sydney"
+10.1038/s41467-024-45857-0,"DK,NL,NO,US","Univ Copenhagen,Leiden Univ,QDevil,Purdue Univ,Norwegian Univ Sci & Technol"
+10.1002/adma.202206688,"FR,ES","Univ Strasbourg,Synchrotron SOLEIL,Univ Lorraine,Inst Carnot MICA,Univ Valencia"
+10.1103/PhysRevLett.132.160804,"AT,GB","Univ Sheffield,Johannes Kepler Univ Linz,Univ Sussex"
+10.1140/epjst/e2018-00094-2,"CN,SI","Univ Ljubljana,Jozef Stefan Inst,Beijing Computat Sci Res Ctr"
+10.1103/PhysRevB.92.115424,"CA,CN,JP","McGill Univ,Beijing Computat Sci Res Ctr,RIKEN,Canadian Inst Adv Res"
+10.1039/d3sc04375d,"FR,DE","Univ Freiburg,Univ Bonn,Heinrich Heine Univ Dusseldorf,Univ Strasbourg"
+10.1103/PhysRevB.100.125402,"AU,CA,CN","McGill Univ,Beijing Computat Sci Res Ctr,Beijing Normal Univ,Univ New South Wales,Univ British Columbia"
+10.1103/PhysRevB.98.024404,US,"CALTECH,Montana State Univ,Univ Chicago"
+10.1038/s41565-017-0030-x,"JP,US","Harvard Univ,Natl Inst Mat Sci"
+10.1088/1367-2630/aba462,"AT,SI","Univ Ljubljana,Graz Univ Technol"
+10.1103/PhysRevA.103.062426,RU,"Moscow MV Lomonosov State Univ,Peter Great St Petersburg Polytech Univ"
+10.1103/PhysRevB.105.245413,US,Univ Maryland
+10.1038/NNANO.2014.175,"DE,CH","Univ Basel,Ruhr Univ Bochum,Univ Paderborn"
+10.1038/ncomms9748,CN,Univ Sci & Technol China
+10.1126/sciadv.abg9158,AU,UNSW Sydney
+10.1103/PhysRevB.109.174410,ES,Univ Autonoma Madrid
+10.1166/jctn.2010.1536,TW,Natl Chiao Tung Univ
+10.1103/PhysRevB.109.165403,US,Univ Maryland
+10.1103/PhysRevApplied.16.054034,"CA,IT","CNR,Appl Mat MDLx Italy R&D,Univ Toronto"
+10.1039/d3sc03089j,"HR,DE,SI","Rudjer Boskovic Inst,Univ Zagreb,Natl Inst Chem,Leibniz IFW Dresden"
+10.1038/s41586-022-04986-6,JP,RIKEN
+10.1063/5.0174588,JP,"Teikyo Univ,RIKEN"
+10.1103/PRXQuantum.5.020356,US,HRL Labs LLC
+10.1103/PhysRevB.96.245426,CN,Renmin Univ China
+10.1103/PhysRevApplied.21.014044,CN,"Univ Sci & Technol China,Chinese Acad Sci,Guangxi Univ,Beijing Superstring Acad Memory Technol,Origin Quantum Comp Co Ltd"
+10.1088/1367-2630/ac22ea,US,Virginia Tech
+10.1126/sciadv.1500214,US,HRL Labs LLC
+10.1063/1.4867905,AU,"Univ New S Wales,Univ Melbourne"
+10.1103/PhysRevB.104.115302,US,Virginia Polytech Inst & State Univ
+10.1103/PhysRevB.91.075435,IT,"CNR,Univ Milano Bicocca"
+10.1103/PhysRevB.82.115445,"DE,US","Univ Konstanz,Princeton Univ"
+10.1038/s41534-022-00523-5,AU,Univ New South Wales
+10.1103/PhysRevApplied.17.024068,"AU,JP","Univ Sydney,Univ New South Wales,Keio Univ"
+10.1103/PhysRevB.100.035310,IT,"CNR,Univ Milano Bicocca"
+10.1021/nl303663n,"DE,JP,US","Stanford Univ,Natl Inst Informat,Univ Paderborn"
+10.1103/PhysRevApplied.22.064029,"CN,US","Univ Rochester,Virginia Tech,Univ Chicago,Virginia Tech Ctr Quantum Informat Sci & Engn,Southern Univ Sci & Technol"
+10.1002/anie.202207947,"IN,IT,GB","Univ Manchester,Ashoka Univ,Univ Parma,Ist Nazl Fis Nucl,UdR Parma"
+10.1038/s41586-019-1867-y,US,"Princeton Univ,Google Inc"
+10.1126/sciadv.abq0455,AU,Univ New South Wales
+10.1038/s41467-023-42169-7,GB,"Univ Manchester,Univ Oxford"
+10.1063/5.0118582,ES,Univ Valencia
+10.1103/PhysRevA.98.042302,DE,Tech Univ Dortmund
+10.1103/PhysRevLett.114.226803,US,"Univ Maryland,NIST"
+10.1007/s10773-024-05745-1,PK,COMSATS Univ Islamabad
+10.1103/PhysRevB.100.125430,"AT,DE,US","Univ Konstanz,Princeton Univ,Univ Wien,Google Inc"
+10.1103/PhysRevApplied.10.044058,"AU,US","Univ Sydney,Purdue Univ"
+10.1088/1367-2630/18/10/103018,"AU,CA,NL,US","UNSW Australia,Sandia Natl Labs,Delft Univ Technol,FOM Inst AMOLF,Simon Fraser Univ"
+10.1103/PhysRevLett.107.266803,US,"Princeton Univ,Sandia Natl Labs"
+10.1063/5.0035300,"DE,JP","Rhein Westfal TH Aachen,Forschungszentrum Julich,Natl Inst Mat Sci"
+10.1088/2058-9565/ab5e07,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Duisburg Essen"
+10.1038/s41586-022-04697-y,"AT,NL","Delft Univ Technol,Univ Innsbruck"
+10.1038/s41534-024-00820-1,"AT,FR,GB","Univ Cambridge,Hitachi Cambridge Lab,Univ Bristol,Univ Grenoble Alpes,Univ Vienna,Quantum Mot"
+10.1142/S0217979218400283,SI,"J Stefan Inst,Univ Ljubljana"
+10.1103/PhysRevB.95.045414,GB,Hitachi
+10.1103/PhysRevLett.115.166806,AU,Univ New S Wales
+10.1103/PRXQuantum.2.040314,"NL,US","Univ Chicago,Univ Iowa,Argonne Natl Lab,Eindhoven Univ Technol"
+10.1038/NPHYS2326,"CA,DE,CH","Univ Munich,Natl Res Council Canada,McGill Univ,Univ Sherbrooke,Univ Regensburg,ETH"
+10.1088/0256-307X/36/10/100303,CN,Tsinghua Univ
+10.1103/PhysRevX.9.031045,"NL,GB","Delft Univ Technol,Element Six"
+10.1088/1361-6641/ab516a,"CA,IN,GB","Univ Waterloo,Indian Inst Technol"
+10.1021/jacs.8b06733,"CN,IT,JP","Tohoku Univ,Univ Firenze,Univ Torino,Res Area Firenze,Nankai Univ"
+10.1103/PhysRevX.8.021046,"CA,DK,US","Univ Sherbrooke,Sandia Natl Labs,McGill Univ,Canadian Inst Adv Res,Univ Copenhagen"
+10.1038/s41467-019-13416-7,"AU,FI,JP,US","Univ New South Wales,Aalto Univ,Keio Univ,HRL Labs LLC,NIST,IQM Finland Oy,Univ Sydney"
+10.1103/PhysRevA.104.032409,"CN,US","Univ Sci & Technol China,Univ Calif Los Angeles,Suzhou Univ"
+10.3390/photonics9090617,"JP,CH,TR","Istanbul Univ,Tokyo Int Univ,CERN,Istanbul Tech Univ,Bogazici Univ,Isik Univ"
+10.1103/PhysRevLett.127.190501,CH,Univ Basel
+10.1002/cphc.201400029,IN,Univ Calcutta
+10.1038/ncomms2003,US,Univ Maryland
+10.1103/PhysRevB.82.075304,CA,"Natl Res Council Canada,Univ Sherbrooke"
+10.1109/TVLSI.2018.2814041,IN,IIT Roorkee
+10.1088/1367-2630/aa695f,ES,CSIC
+10.1103/PhysRevA.87.062337,"CN,KR","Yanbian Univ,Dalian Univ Technol,Chungbuk Natl Univ"
+10.1063/1.5042501,"NL,CH","Univ Basel,Univ Twente,Eindhoven Univ Technol,Delft Univ Technol"
+10.1063/5.0055908,US,Univ Rochester
+10.1103/PhysRevB.97.155412,PL,"Wroclaw Univ Sci & Technol,AGH Univ Sci & Technol"
+10.1103/PhysRevB.100.035304,US,"Virginia Tech,Princeton Univ"
+10.1038/s41467-020-17211-7,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1103/PhysRevA.105.052438,US,"Univ Illinois,Purdue Univ"
+10.1038/s41534-018-0105-z,"FR,JP","RIKEN,JST,Tohoku Univ,Univ Paris Diderot,Tokyo City Univ,Nagoya Univ,Keio Univ,Tokyo Inst Technol,Univ Tokyo"
+10.1103/PhysRevLett.122.100501,US,"MIT,Univ Calif Berkeley,Lawrence Berkeley Natl Lab"
+10.1126/sciadv.adp6442,"AT,DE,NL,GB","Delft Univ Technol,Netherlands Org Appl Sci Res TNO,Element Six Innovat,Fraunhofer Inst Laser Technol ILT,Rhein Westfal TH Aachen,TOPTICA Photon AG,AIT Austrian Inst Technol Gmbh"
+10.1038/s41534-024-00924-8,"DE,US","Ludwig Maximilians Univ Munchen,SUNY Buffalo"
+10.1021/jacs.3c10772,US,Northwestern Univ
+10.1038/s41534-022-00615-2,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen"
+10.1103/PhysRevLett.118.216802,"CN,US","City Univ Hong Kong,Univ Maryland,Virginia Tech"
+10.1063/1.3681195,AU,Univ Sydney
+10.1088/0268-1242/26/5/055004,JP,"JST,Univ Tokyo,Tokyo City Univ,NTT Corp,RIKEN"
+10.1103/PhysRevApplied.19.044039,"AU,GB","Univ Strathclyde,Univ New South Wales,Nexus,Natl Phys Lab"
+10.1103/PhysRevLett.117.170501,"CN,US","Univ Sci & Technol China,Louisiana State Univ,MIT"
+10.1038/s41467-024-54989-2,CN,"Zhejiang Univ,Westlake Univ,Westlake Inst Adv Study,Chinese Acad Sci,Univ Chinese Acad Sci,CIQTEK Co Ltd"
+10.1038/s41567-024-02614-w,"AU,CA,DE,JP,CH,US,GB","UNSW,Diraq,Sandia Natl Labs,Keio Univ,Leibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH,Simon Fraser Univ,Univ Sydney,Quantum Mot Technol Ltd,Swiss Fed Inst Technol"
+10.35848/1347-4065/acb4f8,"JP,MX","Teikyo Univ,Univ Panamericana"
+10.1103/PhysRevA.96.052321,"CA,DK,DE","McGill Univ,Univ Konstanz,Canadian Inst Adv Res,Univ Copenhagen"
+10.1038/s41586-021-04292-7,"AU,DK,EG,FR,JP,NL,US","UNSW Sydney,Univ Technol Sydney,Ain Shams Univ,Sandia Natl Labs,Keio Univ,Univ Melbourne,Delft Univ Technol,Univ Copenhagen,Univ Grenoble Napes"
+10.1038/s41467-018-03578-1,"AU,CH","Univ Melbourne,Melbourne Ctr Nanofabricat,Univ Basel"
+10.1038/s41467-018-02982-x,AU,"Univ New South Wales,Univ Melbourne"
+10.1021/jacs.5b11641,"JP,GB","Univ Oxford,Kyoto Univ"
+10.1103/PhysRevA.89.032305,GB,"UCL,Univ Cambridge"
+10.1103/PhysRevA.97.042324,CN,"City Univ Hong Kong,Southern Univ Sci & Technol,Shenzhen Key Lab Quantum Sci & Engn"
+10.1088/1367-2630/12/11/113019,DE,"Univ Munich,Univ Regensburg,Tech Univ Munich"
+10.1103/PhysRevB.96.180408,"FR,US","Florida State Univ,Natl High Magnet Field Lab,Aix Marseille Univ"
+10.1103/PhysRevB.109.035157,AU,"Univ New South Wales,UNSW Sydney"
+10.1103/PhysRevA.82.052339,"CN,ES,US","Univ Basque Country,Basque Fdn Sci,So Illinois Univ,Univ Hong Kong,Beijing Inst Technol"
+10.1063/5.0036520,"DE,CH,GB","Univ Basel,IBM Res Zurich,Helmholtz Zentrum Berlin Mat & Energie"
+10.1021/nl402744s,US,"Naval Res Lab,Sotera Def Solut"
+10.1021/nl2025079,AU,Univ New S Wales
+10.1103/PhysRevA.97.012304,CN,City Univ Hong Kong
+10.1038/s41467-017-01905-6,"AU,NL","Delft Univ Technol,Univ New South Wales"
+10.1063/1.4984745,"FR,DE","CNRS,Univ Grenoble Alpes,Ruhr Univ Bochum"
+10.1103/PhysRevB.87.081410,ES,"Univ Basque Country,Basque Fdn Sci IKERBASQUE"
+10.1209/0295-5075/99/40004,DE,Tech Univ Dortmund
+10.1002/adma.202405006,"AU,DE","Univ Melbourne,Univ Technol Sydney,UNSW,Helmholtz Zent Dresden Rossendorf HZDR,RMIT Univ,Leibniz Inst Oberflachenmodifizierung e V"
+10.1103/PhysRevApplied.13.024019,US,Univ Rochester
+10.1063/5.0004777,DE,Univ Konstanz
+10.1103/PhysRevB.98.165301,US,Univ Maryland Baltimore Cty
+10.1103/PhysRevLett.121.183603,"FR,US","CALTECH,Univ Chicago,NIST"
+10.1103/PhysRevB.109.184515,FR,Univ Grenoble Alpes
+10.1103/PhysRevB.82.155312,"PL,US,GB","Univ Maryland,Polish Acad Sci,SUNY Buffalo"
+10.1103/PhysRevApplied.22.024030,FR,Univ Grenoble Alpes
+10.1103/PhysRevB.90.045308,US,"SUNY Buffalo,Univ Wisconsin"
+10.1038/NNANO.2014.216,"AU,JP,NL","Univ New S Wales,Univ Twente,Keio Univ"
+10.1103/PhysRevB.90.035415,DE,Univ Konstanz
+10.1103/PhysRevA.89.062318,"PL,ES","Natl Quantum Informat Ctr Gdansk,Univ Gdansk,Wroclaw Univ Technol,Adam Mickiewicz Univ,ICFO Inst Ciencies Foton,Gdansk Univ Technol"
+10.1103/PhysRevA.98.052348,"DE,NL","Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Groningen"
+10.1002/adma.202208557,AU,"Univ New South Wales,Diraq"
+10.1103/PhysRevB.98.155319,FR,Univ Grenoble Alpes
+10.1103/PhysRevApplied.19.064046,"DE,HU,SE","Linkoping Univ,Max Planck Inst Phys Komplexer Syst,Eotvos Lorand Univ,MTA ELTE Lendulet Momentum NewQubit Res Grp"
+10.1103/PhysRevLett.112.010502,FR,"CNRS,Univ Grenoble 1,Univ Paris 11,ENS Cachan"
+10.35848/1882-0786/ac7030,"JP,GB","Gunma Univ,Natl Inst Quantum Sci & Technol,Natl Inst Mat Sci,Univ Tsukuba"
+10.1103/PhysRevLett.117.027402,"DE,US","Tech Univ Munich,Los Alamos Natl Lab,Stanford Univ"
+10.1103/PhysRevX.12.031028,"US,GB","Univ Chicago,Univ Glasgow,MIT,Northwestern Univ,Ctr Mol Engn,Argonne Natl Lab"
+10.1103/PhysRevLett.112.050502,"BR,DE","Tech Univ Dortmund,Ctr Brasileiro Pesquisas Fis"
+10.1021/acsnano.3c06668,AU,"UNSW Sydney,Univ New South Wales"
+10.1002/adma.202312736,AU,"UNSW Sydney,Univ New South Wales"
+10.1103/PhysRevB.86.121301,"FI,GB",Aalto Univ
+10.1103/PRXQuantum.2.010348,CH,Univ Basel
+10.1103/PRXQuantum.4.010329,"FR,DE","Univ Grenoble Alpes,Ruhr Univ Bochum"
+10.1103/PhysRevB.97.235409,"AU,US","Harvard Univ,Univ Sydney"
+10.1063/1.4704561,"DE,US,GB","Univ Calif Berkeley,Ilmenau Univ Technol,Univ Oxford,Princeton Univ"
+10.1038/ncomms3017,"AU,US","Univ New S Wales,Sandia Natl Labs"
+10.1002/chem.201804165,"US,GB","Univ Glasgow,Tulane Univ,Cardiff Univ"
+10.1021/acs.nanolett.2c00358,CH,"Ecole Polytech Fed Lausanne EPFL,Swiss Fed Inst Technol"
+10.1038/s41586-019-1566-8,US,"Univ Rochester,Purdue Univ"
+10.1103/PhysRevA.93.062511,"AU,ZA,US","NIST,Army Res Lab,Georgia Tech Res Inst,Univ Stellenbosch,CSIR,Univ Sydney"
+10.1103/PhysRevB.101.155301,US,Univ Maryland Baltimore Cty
+10.1142/S0219749912500396,IN,Indian Inst Sci
+10.1103/PhysRevB.109.085302,AU,UNSW Sydney
+10.1103/PhysRevApplied.5.034011,"FR,GB","Univ Oxford,Univ Cambridge,Univ Paris Diderot"
+10.1021/acs.jpcc.4c07265,ES,"Univ Zaragoza,CSIC,UPV,Fdn ARAID,IMDEA Nanociencia"
+10.1038/s41467-020-20424-5,"AU,JP","UNSW Sydney,Univ Melbourne,Keio Univ"
+10.1038/srep11321,CN,"Yanbian Univ,Harbin Inst Technol"
+10.1063/1.5021491,AU,"Univ Melbourne,Melbourne Ctr Nanofabricat"
+10.1364/OE.487467,CA,Univ Calgary
+10.1103/PhysRevA.98.062340,IR,"Univ Isfahan,Inst Res Fundamental Sci IPM"
+10.1103/PhysRevLett.117.167401,"CA,FR","Polytech Montreal,Univ Joseph Fourier"
+10.1103/PhysRevLett.113.020506,US,Princeton Univ
+10.1103/PhysRevLett.106.156804,US,Univ Wisconsin
+10.1103/PhysRevB.88.165102,US,"Univ Calif Berkeley,Lawrence Livermore Natl Lab"
+10.1103/PhysRevB.98.214307,"IT,US","Univ Firenze,CNR,MIT"
+10.1103/PhysRevMaterials.8.066201,CH,"Univ Basel,Swiss Nanosci Inst"
+10.3788/COL201614.062701,CN,S China Normal Univ
+10.1038/s41598-021-85231-4,JP,Tokyo Inst Technol
+10.1038/NPHYS2881,"NL,US,GB","Delft Univ Technol,Element Six Ltd,Ames Lab,Iowa State Univ"
+10.1109/JSSC.2023.3237603,"IN,IT,NL,CH","Delft Univ Technol,QuTech,Univ Pisa,Kavli Inst Nanosci,NXP Semicond,Ecole Polytech Fed Lausanne EPFL"
+10.1063/1.4945736,"AU,FR,GB","Univ New S Wales,Hitachi Cambridge Lab,Univ Grenoble Alpes,CEA"
+10.1021/acs.jpclett.8b01813,"DE,ES","Univ Valencia,Max Planck Inst Struct & Dynam Matter"
+10.1088/0953-4075/48/11/115302,"ES,UZ","Univ Basque Country UPV EHU,Samarkand Agr Inst,Samarkand State Univ,IKERBASQUE Basque Fdn Sci"
+10.1103/PhysRevB.102.155404,US,Princeton Univ
+10.1063/1.5021349,US,MIT
+10.1103/PhysRevLett.108.206811,"DK,DE,HU,US","Univ Konstanz,Eotvos Lorand Univ,Harvard Univ,Univ Copenhagen"
+10.1103/PhysRevB.99.081301,US,Univ Maryland Baltimore Cty
+10.1103/PhysRevB.98.155202,PL,Polish Acad Sci
+10.1103/PhysRevB.94.161302,"AU,CA,JP,NL","Univ New South Wales,Keio Univ,Univ Melbourne,Simon Fraser Univ,Univ Queensland,Delft Univ Technol,AMOLF"
+10.1155/2010/342915,US,Univ Cent Florida
+10.1103/PhysRevA.87.052315,DE,"Univ Dusseldorf,Max Planck Inst Sci Light,Univ Erlangen Nurnberg,Johannes Gutenberg Univ Mainz"
+10.1103/PhysRevA.92.062346,CN,Univ Sci & Technol China
+10.1038/ncomms1581,NL,Leiden Univ
+10.1103/PhysRevB.94.205309,"IT,GB","Univ St Andrews,Ist Italiano Tecnol"
+10.35848/1347-4065/ad27bd,JP,"Tokyo Inst Technol,Kobe Univ"
+10.1038/s41534-020-0276-2,"DE,JP,PL","Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Regensburg,Tokyo City Univ,Leibniz Inst Kristallzuchtung IKZ,Polish Acad Sci"
+10.1088/1674-1056/acf208,CN,"Chinese Acad Sci,Univ Chinese Acad Sci"
+10.1103/PhysRevA.82.062120,TW,"Natl Tsing Hua Univ,Acad Sinica,Natl Ctr Theoret Sci"
+10.1007/s10909-023-03033-6,"DE,JP","Okinawa Inst Sci & Technol,Univ Konstanz"
+10.1016/j.cap.2023.04.013,KR,Korea Univ
+10.1103/PhysRevB.95.205420,"DE,US","Univ Konstanz,Univ Chicago"
+10.1021/acs.jpclett.0c01681,IE,Trinity Coll Dublin
+10.1209/0295-5075/110/33001,"IE,ES","Univ Valencia,Univ Dublin Trinity Coll"
+10.1103/PhysRevB.105.155411,US,Univ Maryland
+10.1103/PhysRevB.94.125204,"JP,US","Princeton Univ,Lawrence Berkeley Natl Lab,Univ Calif Berkeley,Keio Univ"
+10.1063/5.0145278,"US,GB","Univ Oxford,Northwestern Univ"
+10.35848/1347-4065/abd533,"DE,JP,GB","Osaka Univ,Ruhr Univ Bochum"
+10.1103/PhysRevLett.120.213603,"AT,SG,US","TU Wien,Harvard Univ,CALTECH,Natl Univ Singapore"
+10.1103/PhysRevLett.121.060401,"AU,DE,GB","Univ Ulm,Element Six,Univ Melbourne"
+10.1116/6.0000549,US,"Natl Inst Stand & Technol,Univ Maryland,Sci Syst & Applicat Inc"
+10.3390/electronics11152327,DK,Univ Copenhagen
+10.1103/PhysRevLett.122.190503,"FR,DE","Ulm Univ,Univ Paris 13,PSL Res Univ"
+10.1063/5.0118391,"FI,JP,GB","NTT Corp,Univ Tokyo,VTT Tech Res Ctr Finland"
+10.1088/1367-2630/ac430c,"CN,US","Southern Univ Sci & Technol,Int Quantum Acad,Univ Buffalo SUNY"
+10.1103/PhysRevLett.105.266603,"DE,CH","Univ Basel,Univ Regensburg"
+10.1103/PhysRevA.86.042329,"DE,US","Dartmouth Coll,Rhein Westfal TH Aachen"
+10.1016/j.physb.2013.09.031,CN,Chinese Acad Sci
+10.1103/PhysRevB.110.115413,"PL,CH","AGH Univ Krakow,Univ Basel"
+10.1038/s41524-024-01361-z,"DE,HU,SE,US","HUN REN Wigner Res Ctr Phys,MTA ELTE Lendulet Momentum NewQubit Res Grp,Budapest Univ Technol & Econ,Univ Texas Austin,Linkoping Univ,Tech Univ Munich,MTA WFK Lendulet Momentum Semicond Nanostruct Res,Eotvos Lorand Univ"
+10.1103/PhysRevB.88.085402,DE,Univ Konstanz
+10.1038/s41467-019-13495-6,"HU,RU,SE,US","Wigner Res Ctr Phys,Linkoping Univ,Argonne Natl Lab,Univ Chicago,IBM TJ Watson Res Ctr,Natl Univ Sci & Technol MISIS,Budapest Univ Technol & Econ"
+10.1103/PhysRevApplied.14.044019,SE,Linkoping Univ
+10.1038/s41598-021-95562-x,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen,Univ Regensburg"
+10.1103/PhysRevLett.106.110504,"US,GB","Univ Oxford,Princeton Univ,Heriot Watt Univ"
+10.1088/1367-2630/ad4c5f,CN,Shandong Normal Univ
+10.1103/PhysRevApplied.18.064040,DK,"Univ Copenhagen,QDevil"
+10.1021/acs.nanolett.2c04049,"CN,JP","Tohoku Univ,Natl Inst Technol KOSEN,Josai Univ,Nankai Univ"
+10.1063/5.0088840,"JP,GB","Osaka Univ,Kyushu Univ"
+10.1038/s41534-021-00377-3,"NL,KR,GB","Seoul Natl Univ,Delft Univ Technol,UCL"
+10.1038/s41565-019-0443-9,FR,"Univ Grenoble Alpes,CEA"
+10.1103/PhysRevLett.126.017701,US,"Univ Rochester,Purdue Univ,Univ Buffalo"
+10.1021/acs.jpca.2c04730,US,"Univ Chicago,Argonne Natl Lab"
+10.1007/s11128-015-1088-8,IR,Urmia Univ
+10.1103/PhysRevLett.108.187401,US,"Univ Michigan,USN,Univ Calif San Diego"
+10.1103/PhysRevApplied.15.044042,"CN,US","Univ Sci & Technol China,Chinese Acad Sci,Southern Univ Sci & Technol,SUNY Buffalo,Univ Calif Los Angeles,Origin Quantum Comp Co Ltd"
+10.1007/s00723-016-0857-6,"US,GB","Univ Manchester,Univ Illinois"
+10.1063/5.0039521,JP,"Teikyo Univ,RIKEN"
+10.1103/PhysRevLett.110.167402,"DE,HU","Univ Stuttgart,Hungarian Acad Sci,Budapest Univ Technol & Econ,Univ Ulm,Max Planck Inst Solid State Res"
+10.1063/1.4712595,CN,Shandong Univ
+10.1088/2053-1583/aac17f,DE,Univ Konstanz
+10.1103/PhysRevB.82.165320,US,Harvard Smithsonian Ctr Astrophys
+10.1103/PhysRevA.100.022343,"AT,DE,US","Austrian Acad Sci,Univ Innsbruck,Max Planck Inst Quantum Opt,Harvard Univ"
+10.1038/NNANO.2014.211,"AU,JP","Univ New S Wales,Keio Univ,Univ Melbourne"
+10.1103/PhysRevB.86.125204,DE,Univ Konstanz
+10.21468/SciPostPhys.17.1.004,"IT,US","Univ Firenze,MIT,Abdus Salam Int Ctr Theoret Phys,INFN,SISSA,Univ Trieste,Consiglio Nazl Ric CNR INO"
+10.1016/j.chaos.2017.03.029,"IT,SA","Abdus Salam Int Ctr Theoret Phys,Al Imam Mohammad Ibn Saud Islamic Univ IMSIU"
+10.1103/PhysRevB.110.045419,"AT,CA,DE,ES,US","Univ Autonoma Madrid,TU Wien,Austrian Acad Sci,Nord Quant,Univ Calif Berkeley,Lawrence Berkeley Natl Lab,Bayer Akad Wissensch,Tech Univ Munich,Munich Ctr Quantum Sci & Technol MCQST"
+10.1002/qute.202300316,"AU,JP","Univ New South Wales,Univ Melbourne,Diraq,Keio Univ"
+10.1103/PhysRevB.105.075303,NO,Norwegian Univ Sci & Technol
+10.1038/s41534-022-00576-6,US,Univ Wisconsin
+10.1038/s41467-019-09194-x,"AU,DK,US","Univ Copenhagen,Univ Sydney,Purdue Univ"
+10.1063/1.4875909,"JP,US","RIKEN,Purdue Univ,Univ Tokyo"
+10.1021/acs.nanolett.3c04301,US,"MIT,Sandia Natl Labs,MITRE Corp,US Army,Univ Arizona"
+10.1209/0295-5075/130/17003,CN,"Renmin Univ China,Univ Chinese Acad Sci,Univ Sci & Technol China"
+10.1103/PhysRevB.100.165305,US,"Univ Rochester,HRL Labs LLC"
+10.1103/PhysRevLett.121.123604,"JP,ES,US","RIKEN,Univ Autonoma Madrid,Univ Michigan"
+10.1016/j.physleta.2017.01.052,KR,"Chungbuk Natl Univ,Korea Inst Sci & Technol,Natl Secur Res Inst"
+10.1103/PhysRevA.102.042614,DE,Johannes Gutenberg Univ Mainz
+10.1021/jacs.6b05574,IT,"Univ Firenze,Univ Torino"
+10.1364/OPTICA.394138,US,Stanford Univ
+10.1021/acs.nanolett.3c03349,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1038/nature17404,US,MIT
+10.1007/s11128-016-1499-1,CN,Zhejiang Sci Tech Univ
+10.1103/PhysRevB.107.035302,DE,"Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,Univ Konstanz"
+10.1016/j.commatsci.2016.12.032,CN,"East China Normal Univ,Chinese Acad Sci"
+10.1038/NNANO.2016.114,"DE,CH","Univ Basel,Ruhr Univ Bochum"
+10.1063/1.4705287,"DE,US","Purdue Univ,USN,Univ Duisburg Essen"
+10.1103/PhysRevB.91.035305,CN,"Univ Hong Kong,Shenzhen Univ"
+10.3390/molecules24244582,RU,"Int Tomog Ctr SB RAS,Novosibirsk State Univ,Russian Acad Sci"
+10.1002/qute.202100002,DE,"Tech Univ Berlin,Ruhr Univ Bochum,Univ Bremen,Tech Univ Munich,Univ Paderborn"
+10.1103/PhysRevB.94.155407,"PL,CH","AGH Univ Sci & Technol,Univ Basel"
+10.1038/s41467-018-06039-x,"AU,JP,NL,US,GB","Univ New South Wales,Delft Univ Technol,Keio Univ,HRL Labs LLC,UCL"
+10.1002/chem.202301771,CN,"Nanjing Univ,Gannan Normal Univ,Chinese Acad Sci"
+10.1364/JOSAB.32.001323,CN,Fuzhou Univ
+10.1140/epjp/s13360-021-01974-z,PK,COMSATS Univ Islamabad
+10.1103/PhysRevLett.114.053603,JP,Yokohama Natl Univ
+10.1103/PhysRevApplied.17.034047,FR,"Univ Grenoble Alpes,CEA"
+10.1103/PhysRevLett.112.236801,"AU,BR,US","UNSW Australia,Univ Fed Rio de Janeiro,Univ Wisconsin,Univ Melbourne"
+10.1103/PhysRevA.110.012417,HU,"Budapest Univ Technol & Econ,HUN REN Wigner Res Ctr Phys,HUN REN BME Quantum Dynam & Correlat Res Grp"
+10.1557/s43577-021-00139-8,US,"Sandia Natl Labs,Univ Maryland,Zyvex Labs"
+10.1103/PhysRevLett.128.213602,"DE,IL,US","Harvard Univ,AWS Ctr Quantum Comp,Univ Hamburg,Hamburg Ctr Ultrafast Imaging,Hebrew Univ Jerusalem"
+10.1021/acs.nanolett.3c04376,CN,Univ Sci & Technol China
+10.1103/PRXQuantum.2.010353,"FR,GB","UCL,Quantum Mot Technol,CEA,Hitachi Cambridge Lab,Univ Grenoble Alpes"
+10.1103/PhysRevB.109.155164,SI,"Jozef Stefan Inst,Univ Ljubljana"
+10.1364/OE.525337,"AU,DE,IT","RMIT Univ,Univ Padua,Ulm Univ"
+10.1103/PhysRevB.107.014403,US,Univ Maryland
+10.1103/PhysRevB.92.161403,"CN,GB","Chinese Acad Sci,Chinese Univ Hong Kong,Univ Sci & Technol China,UCL,Univ Oxford"
+10.1002/adma.202300472,"DE,IL,IT,US","Univ Parma,INFN,Consorzio Interuniv Nazl Sci & Tecnol Mat INSTM,Univ Florence,Free Univ Berlin,Weizmann Inst Sci,Northwestern Univ"
+10.3390/magnetochemistry9020053,"ES,US","Univ Tennessee,Univ Illinois,Univ Valencia"
+10.1038/ncomms4371,"DE,IT","Univ Stuttgart,SCOPE,ISI Fdn,Univ Ulm,Univ Leipzig,Tech Univ Munich"
+10.1016/j.carbon.2019.10.068,CN,"Chinese Acad Sci,Peking Univ,Inner Mongolia Univ"
+10.1103/PhysRevB.92.165201,"CA,DE,US,GB","UCL,Univ Oxford,Princeton Univ,Inst Crystal Growth,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1103/PhysRevA.89.012313,CA,McGill Univ
+10.1103/PhysRevLett.108.086802,"PL,US","Harvard Univ,Polish Acad Sci,Univ Calif Santa Barbara"
+10.1103/PhysRevLett.113.246801,"AU,US","Ctr Excellence Quantum Computat & Commun Technol,Univ New South Wales Australia,Purdue Univ,Univ Melbourne"
+10.1002/anie.201706181,"FR,DE","KIT,Univ Grenoble Alpes,Univ Strasbourg"
+10.1063/5.0179921,"SE,US","Linkoping Univ,Univ Florida,Washington State Univ"
+10.1103/PhysRevLett.124.163604,"AT,DE,ES,US","Harvard Univ,Austrian Acad Sci,Univ Innsbruck,Max Planck Inst Quantum Opt,ICFO Inst Ciencies Foton"
+10.1140/epjb/e2011-20072-7,CN,"Hunan Normal Univ,Hunan Inst Sci & Technol"
+10.1038/s41598-017-12217-6,"DE,JP,SK,CH","RIKEN,Univ Tokyo,JST,Slovak Acad Sci,Univ Basel,Ruhr Univ Bochum"
+10.1021/acs.jpcb.2c07096,US,Northwestern Univ
+10.1021/acs.nanolett.3c01511,US,"MIT,Sandia Natl Labs,MITRE Corp,Univ Arizona"
+10.1103/PhysRevB.96.195424,"CN,US","Univ Maryland,City Univ Hong Kong,Virginia Tech"
+10.1063/1.4959153,"AU,CA,NL","UNSW Australia,Univ Queensland,Delft Univ Technol,Simon Fraser Univ,FOM Inst AMOLF"
+10.1103/PhysRevB.83.235322,US,Univ Maryland
+10.1103/PhysRevLett.126.250505,"DE,US","Harvard Univ,Amazon Quantum Solut Lab,AWS Ctr Quantum Comp,IAV GmbH"
+10.1103/PhysRevA.96.012318,CN,City Univ Hong Kong
+10.1038/NNANO.2016.170,"DK,PL,US","Univ Copenhagen,Virginia Tech,Univ Maryland,Polish Acad Sci,Niels Bohr Int Acad,Purdue Univ"
+10.1002/jcc.24313,"FR,IE,ES","Univ Dublin Trinity Coll,Univ Valencia,Univ Paris 11"
+10.1038/s41534-023-00796-4,GB,"Univ Exeter,Hitachi Europe Ltd"
+10.1038/s41534-022-00646-9,"AU,US","Univ New South Wales,Univ Buffalo SUNY"
+10.1103/PhysRevB.101.235133,"AU,NL,US","Delft Univ Technol,Univ Wisconsin,Intel Corp,Univ New South Wales"
+10.1088/1367-2630/acc126,"DK,FR","Univ Copenhagen,Univ Grenoble Alpes"
+10.1038/s41586-021-04293-6,US,CALTECH
+10.7567/1347-4065/ab5b62,"DE,JP","Univ Tokyo,Osaka Univ,Ruhr Univ Bochum,Univ Electrocommun"
+10.1007/s11082-023-04604-3,MA,"Mohammed V Univ Rabat,Hassan II Univ"
+10.1103/PhysRevB.103.125201,"AU,BR,US","Univ Fed Campina Grande,Univ New South Wales,Univ Wisconsin,Univ Buffalo SUNY,Univ Fed Rio de Janeiro"
+10.1021/ja507846k,US,"Northwestern Univ,Argonne Natl Lab"
+10.1103/PhysRevB.81.115324,US,Univ Wisconsin
+10.1021/acs.nanolett.4c00222,US,CUNY
+10.1038/srep10076,"CN,JP,US","Toshiba Co Ltd,RIKEN,Tsinghua Univ,Tsinghua Natl Lab Informat Sci & Technol TNList,Univ Michigan"
+10.1103/PhysRevLett.110.076401,"CN,US","Univ Maryland,Hong Kong Univ Sci & Technol,Tsinghua Univ,MIT"
+10.1103/PRXQuantum.3.010339,US,"Univ Chicago,Argonne Natl Lab"
+10.1103/PhysRevB.93.085301,US,Univ Michigan
+10.1103/PhysRevLett.118.177702,"DK,PL,US","Univ Copenhagen,Polish Acad Sci,Niels Bohr Int Acad,Purdue Univ"
+10.1088/2058-9565/acb56b,US,Case Western Reserve Univ
+10.1016/j.optcom.2014.02.019,CN,"Ocean Univ China,Qingdao Technol Univ"
+10.1103/PhysRevA.86.062309,"CN,US","Princeton Univ,Sandia Natl Labs,Tsinghua Univ"
+10.1103/PhysRevB.96.125416,ES,Univ Autonoma Madrid
+10.1038/s41534-022-00552-0,"DE,JP,GB","Univ Saarland,Tokyo Inst Technol,Natl Inst Mat Sci,Ruhr Univ Bochum,Element Six Global Innovat Ctr"
+10.1103/PhysRevLett.122.096801,"PL,GB","Univ Sheffield,Univ Warsaw"
+10.1103/PhysRevApplied.17.064043,"CN,US","Fuzhou Univ,Univ Buffalo"
+10.1103/PhysRevLett.109.140403,"PL,US","Univ Maryland,Polish Acad Sci"
+10.1103/PhysRevApplied.19.044010,FR,Univ Grenoble Alpes
+10.1103/PhysRevB.90.241203,"CN,DE","Beijing Computat Sci Res Ctr,Univ Stuttgart,Univ Sci & Technol China"
+10.1103/PhysRevX.12.041008,"AU,JP","UNSW Sydney,Ctr Excellence Quantum Computat & Commun Technol,Keio Univ,Univ Melbourne"
+10.1002/chem.202101922,"CN,ES","Univ Valencia,Peking Univ"
+10.1103/PhysRevB.92.195428,DE,Rhein Westfal TH Aachen
+10.1038/ncomms1034,"DK,FR,KR,SE,UA,GB","Univ Copenhagen,Univ Lancaster,Univ Gothenburg,BI Verkin Inst Low Temp Phys & Engn,Heriot Watt Univ,Konkuk Univ,CNRS"
+10.1038/nnano.2012.160,NL,Delft Univ Technol
+10.1088/1367-2630/15/1/013041,"AU,US","Univ Melbourne,Harvard Univ"
+10.1038/NPHYS1679,"AT,US","Harvard Smithsonian Ctr Astrophys,Harvard Univ,Yale Univ,Austrian Acad Sci,Univ Innsbruck"
+10.1103/PhysRevB.102.075415,FR,Univ Grenoble Alpes
+10.1103/PhysRevB.106.174113,US,Univ Calif Santa Barbara
+10.1038/s41567-021-01344-7,"FR,GB","Univ Cambridge,Univ Sheffield,Univ Cote dAzur"
+10.1103/PhysRevLett.123.090404,AT,"Univ Vienna,Austrian Acad Sci"
+10.1209/0295-5075/104/47005,"DZ,FR","Univ Strasbourg,Univ Ferhat Abbas Setif 1"
+10.1021/acs.nanolett.8b03921,"FR,DE,IT","Univ Stuttgart,Max Planck Inst Struct & Dynam Matter,Max Planck Inst Solid State Res,Univ Firenze,Synchrotron SOLEIL"
+10.1038/s41467-022-35048-0,"KR,US","Univ Texas Dallas,Incheon Natl Univ,Univ Calif Santa Cruz,Univ Calif SantaCruz,Univ Washington"
+10.1063/5.0004454,"DE,SE,US","Linkoping Univ,Univ Chicago,Univ Stuttgart,IQST,Max Planck Inst Solid State Res,Argonne Natl Lab"
+10.1039/c8ra03343a,CN,Natl Univ Def Technol
+10.1364/OE.482008,"CA,DE","Simon Fraser Univ,Photonic Inc,Univ Montreal,Leibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH"
+10.1021/acsami.8b00427,"JP,GB","Japan Adv Inst Sci & Technol,Natl Inst Adv Ind Sci & Technol,Hitachi Europe Ltd"
+10.1103/PhysRevB.105.174412,"IL,CH,US","Harvard Univ,Dept Phys,Harvard Smithsonian Ctr Astrophys,Stanford Univ,Inst Theoret Phys"
+10.1103/PhysRevB.90.235315,US,SUNY Buffalo
+10.1103/PRXQuantum.5.020334,AU,Univ Melbourne
+10.1063/5.0055630,US,"NIST,Univ Maryland"
+10.1103/PhysRevMaterials.5.074602,US,"Univ Chicago,Argonne Natl Lab"
+10.1103/PRXQuantum.2.020347,"DE,US","Univ Konstanz,Princeton Univ"
+10.1021/jacs.7b12170,"CN,GB","Peking Univ,Univ Oxford"
+10.1140/epjb/e2013-40677-x,"FI,NO,SE","Univ Bergen,Stockholm Univ,Tampere Univ Technol"
+10.1038/ncomms3053,"CN,US","Univ Hong Kong,Beijing Inst Technol,Carnegie Mellon Univ,Univ Washington"
+10.1038/nnano.2010.252,US,Univ Washington
+10.1021/jacs.3c04021,"FR,DE","Univ Freiburg,Univ Strasbourg"
+10.1021/acs.nanolett.2c03161,"BR,IT","Univ Florence,Univ Fed Parana,Univ Roma La Sapienza,Univ Rome,CNR"
+10.1021/acs.jpcc.1c03549,"AT,CN,US","Naval Res Lab,Univ Vienna,Northwest Univ,Oak Ridge Natl Lab"
+10.1038/s42005-019-0262-1,"CA,JP,US","Natl Res Council Canada,Tohoku Univ,Sandia Natl Labs"
+10.1038/s41467-023-37513-w,US,Yale Univ
+10.1103/PhysRevA.101.032320,CA,"Univ Waterloo,Canadian Inst Adv Res,Perimeter Inst Theoret Phys"
+10.1007/s11128-021-03063-7,"IN,US","Indian Inst Technol,Univ Pittsburgh"
+10.1103/PhysRevX.3.041023,"CH,GB",Univ Basel
+10.1103/PhysRevA.101.052302,CN,"South China Normal Univ,City Univ Hong Kong"
+10.1103/PhysRevX.5.031024,"AU,FR,GB","UCL,Univ New S Wales,CEA Grenoble,Hitachi Cambridge Lab"
+10.1103/PhysRevA.81.044304,CN,"Nanjing Univ,Hubei Normal Univ,Chinese Acad Sci"
+10.1021/acsphotonics.2c00076,DE,Univ Leipzig
+10.1038/s41467-022-35458-0,"AU,CA,NL,US","Delft Univ Technol,Univ Wisconsin,Ecole Polytech Montreal,QuTech,Netherlands Org Appl Sci Res TNO,Univ New South Wales"
+10.1103/PhysRevA.101.022329,"US,GB","Univ Cambridge,Hitachi Cambridge Lab,MIT"
+10.1038/s41534-018-0075-1,"NL,PL,US","Purdue Univ,Delft Univ Technol,AGH Univ Sci & Technol,Univ Wisconsin"
+10.1021/acs.nanolett.5b04356,"FR,JP,US,UA,GB","Hitachi Cambridge Lab,B Verkin Inst Low Temp Phys & Engn,V Karazin Kharkov Natl Univ,RIKEN,CEA Grenoble,Univ Cambridge,Univ Michigan"
+10.1038/s41534-020-00306-w,US,Purdue Univ
+10.1039/d1nr02877d,FR,"Univ Strasbourg,CNRS"
+10.1021/jacs.6b08467,US,"Northwestern Univ,Argonne Natl Lab"
+10.1393/ncr/i2010-10056-y,CH,Univ Basel
+10.1103/PhysRevB.100.035416,DE,"Rhein Westfal TH Aachen,JARA,Forschungszentrum Julich"
+10.1103/PhysRevB.90.060404,"FR,DE,US","Aix Marseille Univ,Florida State Univ,Univ Stuttgart,Univ Grenoble Alpes,CNRS"
+10.1038/srep17013,"CN,US","SUNY Buffalo,Jilin Univ"
+10.1103/PhysRevB.92.075302,"JP,NL,SK,CH","RIKEN,Slovak Acad Sci,Univ Basel,Delft Univ Technol"
+10.1088/1361-648X/aadcb8,CN,Yanshan Univ
+10.1103/PRXQuantum.4.040343,"NL,GB","Univ Cambridge,Univ Twente,Univ Oxford"
+10.1109/TMTT.2023.3254600,US,Univ Penn
+10.1103/PhysRevApplied.21.064064,JP,Univ Tokyo
+10.1007/s00723-019-01125-9,"JP,RU","RAS,Novosibirsk State Univ,Osaka City Univ"
+10.1038/s41534-020-0247-7,US,"Univ Chicago,Argonne Natl Lab,Sandia Natl Labs"
+10.1038/s41534-023-00717-5,"DK,FR,DE,GB","Univ Copenhagen,Ruhr Univ Bochum,Univ PSL,Univ Cambridge"
+10.1103/PhysRevB.82.045311,"DE,SK,US","Univ Regensburg,Slovak Acad Sci,Univ Arizona"
+10.1038/s41567-023-02238-6,"JP,SK,CH","Tokyo Inst Technol,RIKEN,Slovak Acad Sci,Univ Basel"
+10.1103/PhysRevA.107.052411,"IT,KZ,MX,US","AF Res Lab,SUNY Polytech Inst,Univ Camerino,Al Farabi Kazakh Natl Univ,Politecn Bari,INFN,Univ Nacl Autonoma Mexico,Univ Roma La Sapienza"
+10.1103/PhysRevB.105.165201,"DE,JP","Univ Tsukuba,Natl Inst Mat Sci,Bruker Japan KK,Sumitomo Elect Ind Ltd,Natl Inst Quantum Sci & Technol,Ulm Univ,Univ Stuttgart"
+10.1109/TVLSI.2023.3290262,TW,Natl Taiwan Univ Sci & Technol NTUST
+10.1103/PhysRevB.89.115438,"JP,CH","Univ Basel,RIKEN"
+10.1088/1402-4896/ab1358,CN,Yanshan Univ
+10.1021/jacs.2c11787,US,Univ Calif Los Angeles
+10.1039/d4sc03290j,"BR,IT","Univ Fed Parana,Univ Florence,Univ Turin,Inst Chem Organometall Cpds ICCOM CNR"
+10.1126/sciadv.aat9199,"AU,FR","UNSW,Univ Grenoble Alpes,CEA"
+10.1103/PhysRevB.106.235312,NO,Norwegian Univ Sci & Technol
+10.1038/s41534-024-00826-9,"NL,ES","Delft Univ Technol,QuTech & Netherlands Org Appl Sci Res TNO,Catalan Inst Nanosci & Nanotechnol ICN2,BIST,ICREA"
+10.1038/nmat4959,"DE,PK,GB","Univ Sheffield,LUMS,IFW Dresden,Paul Drude Inst Festkorperelekt,Leibniz Univ Hannover"
+10.1103/PhysRevB.89.115401,"US,GB",Univ Wisconsin
+10.1103/PhysRevApplied.19.054029,"DK,US","MIT,Univ Arizona,Tech Univ Denmark,Univ Massachusetts,Brookhaven Natl Lab"
+10.1088/2058-9565/ac107f,"IN,US","Indian Inst Sci Educ & Res Thiruvananthapuram,Sandia Natl Labs"
+10.1142/S0219749910006435,"AU,JP,US","Keio Univ,Stanford Univ,Res Org Informat & Syst,Univ Melbourne"
+10.1103/PhysRevB.81.161305,JP,"JST CREST,AIST,Tohoku Univ"
+10.1103/PhysRevB.103.L081404,"DE,JP","Rhein Westfal TH Aachen,Forschungszentrum Julich,AMO GmbH,Natl Inst Mat Sci"
+10.1063/PT.3.5290,US,"Univ Illinois,Univ Chicago,Argonne Natl Lab Lemont"
+10.1103/PhysRevMaterials.5.014601,AU,"Univ Melbourne,Silicon Quantum Comp,Univ New South Wales Sydney,Univ New South Wales"
+10.1103/PhysRevA.94.042323,CN,City Univ Hong Kong
+10.1038/NMAT4704,"FR,DE,CH","Univ Basel,Univ Lyon 1,Ruhr Univ Bochum"
+10.1038/s41467-024-50667-5,"JP,US","Harvard Univ,Univ Chicago,Univ Tokyo,Argonne Natl Lab"
+10.1140/epjd/e2015-60223-4,CN,"Univ Elect Sci & Technol China,Expt Middle Sch Chengdu Econ & Technol Dev Zone"
+10.1103/PhysRevLett.119.233602,DE,Univ Ulm
+10.1039/d3nh00573a,"RU,ES,CH","Ecole Polytech Fed Lausanne EPFL,Solid State Lab,CSIC,BIST,ICREA,St Petersburg State Univ"
+10.1038/s41563-024-01887-z,"AU,GB","Univ Cambridge,Univ Manchester,Hitachi Europe Ltd,Univ Technol Sydney,Australian Natl Univ"
+10.1021/acs.jpcb.9b06636,US,Argonne Natl Lab
+10.1103/PhysRevB.97.241401,"AU,NL,US","Purdue Univ,Univ New South Wales,Delft Univ Technol"
+10.1021/jacs.1c12414,"ML,US",Northwestern Univ
+10.1103/PhysRevB.86.245301,"CA,DE,US,GB","UCL,Univ Oxford,Princeton Univ,Inst Crystal Growth,Phys Tech Bundesanstalt,Vitcon Projectconsult GmbH,Simon Fraser Univ"
+10.1039/c9cp03052b,FR,Aix Marseille Univ
+10.1038/s41565-019-0400-7,"AU,GB","Univ New South Wales,Univ Sydney,Univ Cambridge,Hitachi Cambridge Lab"
+10.1103/PhysRevX.9.041003,"AU,SG","Univ New South Wales,Nanyang Technol Univ"
+10.1088/1367-2630/abd2e5,US,MIT
+10.1039/c8sc01695j,"DE,IT","Univ Firenze,Univ Parma,Forschungszentrum Julich,Univ Torino"
+10.1103/PhysRevB.104.075301,DE,"IFW Dresden,Leibniz Univ Hannover,Tech Univ Chemnitz,Tech Univ Dresden,Fraunhofer Inst Angew Festkorper Phys IAF"
+10.1103/PhysRevB.95.201304,"CN,GB","Cavendish Lab,Univ Cambridge,Chinese Acad Sci"
+10.1103/PhysRevB.109.L041411,GB,Univ York
+10.1063/1.5075486,US,Princeton Univ
+10.1021/acsami.3c06725,US,Lawrence Livermore Natl Lab
+10.1021/acsnano.3c11739,"FR,DE,RU,ES","Univ Bordeaux,Inst Opt,CNRS,Mat Phys Ctr CSIC,Donostia Int Phys Ctr DIPC,Ulm Univ,L F Vereshchagin Inst High Pressure Phys,Tours Univ,Basque Fdn Sci,Univ Basque Country UPV EHU"
+10.1038/s41467-022-32807-x,"CA,DE,JP,GB","Leibniz Inst Forsch Verbund Berlin eV,NTT Corp,Queens Univ"
+10.1103/PhysRevB.103.035430,DE,"Rhein Westfal TH Aachen,Forschungszentrum Julich"
+10.1021/acs.inorgchem.7b02616,IT,"Univ Florence,Univ Turin"
+10.1103/PhysRevA.84.032337,CN,Univ Hong Kong
+10.1103/PhysRevApplied.14.064024,"HU,GB","Budapest Univ Technol & Econ,Hitachi Cambridge Lab,Quantum Mot Technol"
+10.1088/1612-202X/aca759,CN,"State Grid FuJian Elect Power Co Ltd,Nanjing NARI Informat & Commun Technol Co Ltd,Fuzhou Univ,Harbin Inst Technol"
+10.1364/OE.22.000593,CN,"Beijing Normal Univ,Beijing Univ Posts & Telecommun"
+10.1103/PhysRevB.104.235303,"AU,JP,NL,CH,US,GB","Univ New South Wales,Hitachi Cambridge Lab,Univ Basel,HRL Labs LLC,Delft Univ Technol,Keio Univ"
+10.1103/PhysRevB.101.144109,"FI,DE,SE","Helmholtz Zentrum Dresden Rossendoif,Aalto Univ,Univ Oulu,Chalmers Univ Technol,Tech Univ Dresden"
+10.1103/PhysRevB.89.195302,US,SUNY Buffalo
+10.1038/s41467-018-05700-9,"AU,NL","Univ New South Wales,Delft Univ Technol"
+10.1088/1367-2630/aaa910,"BY,DE,UA","Nat Acad Sci Belarus,Belarusian State Univ,Belarusian State Univ Informat & Radioelect,Nat Acad Sci Ukraine,Ulm Univ"
+10.1016/j.mssp.2024.108231,"AT,BE,FR,GB","IMEC,IST Austria,Katholieke Univ Leuven,Univ Ghent,Soitec"
+10.1103/PhysRevA.96.012309,US,"Univ Maryland,Virginia Tech,Univ Maryland Baltimore Cty"
+10.1038/s41467-024-49057-8,"SE,US","Linkoping Univ,Univ Chicago,Argonne Natl Lab"
+10.1021/jacs.4c04720,"CN,ES","Soochow Univ,Univ Rovira & Virgili,Westlake Univ,Westlake Inst Adv Study"
+10.1039/c5dt02609a,RU,"Southern Fed Univ,Russian Acad Sci"
+10.1103/PhysRevB.106.235426,FR,Univ Grenoble Alpes
+10.1073/pnas.2211786119,"CN,GB","Xiamen Univ,Univ Warwick"
+10.1103/PhysRevB.95.165429,"NL,US","Delft Univ Technol,Univ Wisconsin,Intel Corp"
+10.1021/acs.jpcc.1c08998,"CN,IL,US","Harvard Univ,Bar Ilan Univ,Westlake Univ,Westlake Inst Adv Study"
+10.22331/q-2021-06-17-478,"IN,PL,SG","Indian Inst Sci Educ & Res,Nanyang Technol Univ,Univ Gdansk"
+10.1038/s41467-024-55077-1,"KR,GB","Korea Adv Inst Sci & Technol,Korea Basic Sci Inst KBSI,Kyungpook Natl Univ KNU,Inha Univ,Korea Adv Nano Fab Ctr KANC"
+10.1103/PhysRevA.95.052325,CN,City Univ Hong Kong
+10.1103/PhysRevB.86.085301,DE,Univ Wurzburg
+10.1364/OPTICA.2.000233,US,Cornell Univ
+10.1103/PhysRevB.89.045403,GB,"UCL,Univ Oxford"
+10.1103/PhysRevB.103.205402,US,Univ Maryland
+10.1039/c8sc04500c,GB,"Univ Glasgow,Cardiff Univ"
+10.1038/s41586-018-0200-5,"NL,GB","Delft Univ Technol,Element Six Innovat"
+10.1103/PhysRevX.9.021028,"AU,JP,GB","Univ New South Wales,Keio Univ,ARC Ctr Excellence Future Low Energy Elect Techno,UCL"
+10.1021/acs.nanolett.0c04771,"AU,JP,US","Univ New South Wales,Purdue Univ,Keio Univ"
+10.1038/s41467-017-01993-4,"JP,US","Univ Chicago,Tohoku Univ,Argonne Natl Lab"
+10.1209/0295-5075/108/36004,RO,Natl Inst Mat Phys
+10.1103/PhysRevE.108.054116,IN,Indian Inst Sci Educ & Res Kolkata
+10.1103/PhysRevB.108.235312,CN,"Univ Sci & Technol China,Sichuan Univ,ZJU Hangzhou Global Sci & Technol Innovat Ctr,Chinese Acad Sci"
+10.1039/d0cc04841k,DE,Univ Stuttgart
+10.1038/s42004-020-00422-w,ES,"CSIC,Univ Zaragoza,Univ Barcelona,Fdn ARAID"
+10.1103/PhysRevA.102.033701,CA,Univ Calgary
+10.1103/PRXQuantum.2.020309,US,"Princeton Univ,HRL Labs LLC,Google Inc"
+10.1140/epjb/e2015-50768-3,"DZ,FR","Univ Strasbourg,Univ Ferhat,CNRS"
+10.1063/1.5096610,JP,"Natl Inst Adv Ind Sci & Technol,Nagoya Univ"
+10.1002/qute.202200049,"FR,DE,IL","Tech Univ Munich,Technion Israel Inst Technol,Univ Grenoble Alpes,Ruhr Univ Bochum,Tech Univ Berlin,Univ Paderborn"
+10.1103/PhysRevB.104.085421,"BE,NO","Norwegian Univ Sci & Technol,IMEC,Katholieke Univ Leuven"
+10.1515/nanoph-2024-0485,"CL,US","Univ Maryland Baltimore Cty,Natl Inst Stand & Technol,Theiss Res,Univ Maryland Coll Pk,Joint Quantum Inst"
+10.1021/acs.nanolett.7b00927,"CN,SE","Peking Univ,Chinese Acad Sci,Lund Univ"
+10.1103/PhysRevLett.107.117203,ES,"Univ Zaragoza,Univ Barcelona"
+10.1103/PhysRevX.8.031049,"AU,US","Univ New South Wales,Purdue Univ,Univ Melbourne"
+10.1103/PhysRevB.109.235427,"IT,KR,CH","Inst Basic Sci IBS,Ewha Womans Univ,Politecn Milan,Paul Scherrer Inst PSI,Empa Swiss Fed Labs Mat Sci & Technol"
+10.1038/s41467-024-46519-x,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen,ARQUE Syst GmbH"
+10.1039/c7sc05464e,"DE,ES","Univ Valencia,Max Planck Inst Struct & Dynam Matter"
+10.1002/pssr.202200398,DE,Leibniz Inst Kristallzuchtung
+10.1021/acsnano.3c07752,"JP,US","Penn State Univ,Penn State Abington,Auburn Univ,Shinshu Univ"
+10.1103/PRXQuantum.2.010321,"NO,CH,US","Swiss Fed Inst Technol,Purdue Univ,Norwegian Univ Sci & Technol"
+10.1103/PhysRevB.90.075436,"FR,DE","Univ Grenoble Alpes,CNRS,Ruhr Univ Bochum"
+10.1103/PhysRevA.103.052430,"IN,US","Indian Inst Technol,Univ Pittsburgh"
+10.1103/PhysRevB.94.115404,"DE,ES","CSIC,Max Planck Inst Quantum Opt,Donostia Int Phys Ctr,Basque Fdn Sci"
+10.1038/s41565-019-0587-7,"AU,JP,NL,US","Univ New South Wales,Keio Univ,HRL Labs,Delft Univ Technol"
+10.1103/PhysRevB.109.125405,US,Univ Maryland
+10.1021/jacs.3c03402,"TD,DE,US","Univ Nebraska,Indiana Univ,Univ Tubingen,Univ Washington"
+10.1021/acs.nanolett.0c01466,"AT,CN","IST Austria,Chinese Acad Sci,Univ Chinese Acad Sci,Vienna Univ Technol"
+10.1021/acsphotonics.4c00340,"DE,US","Forschungszentrum Julich,Julich Aachen Res Alliance,MIT,Rhein Westfal TH Aachen"
+10.1016/j.physe.2009.12.041,CN,Hubei Normal Univ
+10.1039/c2sc21490c,ES,Univ Valencia
+10.1134/S1070328415080060,RU,"Southern Fed Univ,Russian Acad Sci"
+10.1103/PhysRevLett.106.240501,DE,Tech Univ Dortmund
+10.1103/PhysRevLett.128.247701,"AU,US","Univ Wisconsin,Univ New South Wales"
+10.1103/PhysRevLett.110.016804,GB,"Toshiba Res Europe Ltd,Univ Cambridge"
+10.1134/S0012500817030053,RU,Southern Fed Univ
+10.1103/PhysRevB.81.121306,"ES,CH","CSIC,Univ Geneva"
+10.1088/0957-4484/22/33/335704,AU,Univ New S Wales
+10.1103/PhysRevB.102.125406,CA,Univ Waterloo
+10.1134/S1063776123080113,RU,"Lomonosov Moscow State Univ,Peter Great St Petersburg Polytech Univ,Russian Quantum Ctr"
+10.1103/PhysRevB.88.155321,JP,"Osaka Prefecture Univ,AIST,Tohoku Univ"
+10.1088/1367-2630/12/9/093028,"CA,JP,US","Stanford Univ,Univ Tokyo,Panasonic Corp,Natl Inst Informat,Simon Fraser Univ"
+10.1103/PhysRevA.84.032308,GB,"Univ York,Univ Leeds"
+10.1103/PhysRevB.106.235408,CH,Univ Basel
+10.1007/s10773-013-1689-x,IR,Univ Tabriz
+10.1103/PhysRevB.82.245314,"BR,US","Univ Fed Rio de Janeiro,Univ Wisconsin"
+10.1103/PhysRevLett.118.067701,CA,Natl Res Council Canada
+10.1140/epjd/e2010-00065-0,CN,Hunan Normal Univ
+10.1103/PhysRevB.88.161408,DE,"Forschungszentrum Julich,Rhein Westfal TH Aachen,Julich Aachen Res Alliance"
+10.1021/acs.jpclett.7b00479,"FR,ES","Univ Valencia,Univ Toulouse"
+10.1088/1367-2630/ac2dab,"DE,SG","Max Planck Inst Phys Komplexer Syst,Agcy Sci Technol & Res,Goethe Univ,Univ Leipzig"
+10.1142/S0219887824400097,US,"US Air Force,SUNY Albany,SUNY Polytech Inst"
+10.1007/s11128-020-02803-5,IR,"Payame Noor Univ,Azarbaijan Shahid Madani Univ"
+10.1103/PhysRevB.86.115318,ES,CSIC
+10.1103/PhysRevB.82.195305,JP,"Univ Tokyo,RIKEN ASI"
+10.1063/1.5063741,JP,Tokyo Inst Technol
+10.7567/APEX.10.103004,"JP,US,GB","Japan Adv Inst Sci & Technol,CUNY City Coll,Kyoto Univ,CREST JST,Tokyo Inst Technol,Tohoku Univ,Japan Atom Energy Agcy,RIKEN,CUNY,Univ New Mexico"
+10.1134/S002136401705006X,RU,Russian Acad Sci
+10.1103/PhysRevLett.112.026801,"DK,US","Harvard Univ,Niels Bohr Inst,Univ Calif Santa Barbara"
+10.1103/PhysRevA.81.020305,GR,NCSR Demokritos
+10.1103/PhysRevLett.110.156402,"AT,US","Harvard Univ,Austrian Acad Sci,Univ Innsbruck,TU Wien"
+10.1088/0953-4075/47/15/155502,"BY,PL","Sci Pract Mat Res Ctr NAS Belarus,Univ Szczecin"
+10.1103/PhysRevA.81.014302,CN,"Changshu Inst Technol,Suzhou Univ"
+10.1038/s41534-024-00853-6,US,Univ Wisconsin Madison
+10.1007/s10773-019-04273-7,CN,Nanjing Univ Posts & Telecommun
+10.1103/PhysRevLett.131.097001,"DK,IT,NL,SI,ES,US,GB","Delft Univ Technol,Jozef Stefan Inst,Univ Ljubljana,Univ Copenhagen,CSIC,Univ Illinois,Leiden Univ,Univ Roma La Sapienza"
+10.1021/acs.nanolett.0c02342,"AU,CN,FR,SG","Nanyang Technol Univ,Sorbonne Univ,Univ Technol Sydney,Harbin Inst Technol"
+10.1103/PhysRevLett.106.187601,"DE,GB","Tech Univ Munich,Bayer Akad Wissensch"
+10.1103/PhysRevB.84.195314,"CH,US","Univ Basel,Univ Calif Los Angeles"
+10.1021/jacs.8b08105,US,Northwestern Univ
+10.1103/PhysRevLett.124.223601,CN,"Univ Sci & Technol China,Wuhan Univ"
+10.1103/PhysRevB.92.155314,DE,Univ Wurzburg
+10.1016/j.ssc.2020.114014,US,"US Naval Acad,US Naval Res Lab"
+10.1038/s41534-022-00554-y,"PK,US","Univ Buffalo,Quaid i Azam Univ Campus"
+10.1103/PhysRevLett.110.177602,"DE,CH","Univ Munich,Univ Regensburg,Swiss Fed Inst Technol,Max Planck Inst Quantum Opt"
+10.1103/PhysRevLett.107.026602,JP,"RIKEN,Tokyo Inst Technol,Univ Tokyo"
+10.1103/PhysRevD.110.116009,US,SUNY Stony Brook
+10.1103/PhysRevX.11.011019,US,Univ Calif Berkeley
+10.1063/1.3666232,US,Univ Wisconsin
+10.1063/5.0147586,DE,Fraunhofer Inst Photon Microsyst IPMS
+10.1134/S1070328417110094,RU,Southern Fed Univ
+10.1103/PhysRevB.109.075427,AU,Univ New South Wales
+10.1103/PhysRevApplied.18.054017,"CA,JP","Univ Ottawa,Natl Res Council Canada,Natl Inst Mat Sci"
+10.1088/1361-648X/ab0686,"ES,US","Univ Barcelona,CUNY"
+10.1103/PhysRevLett.116.116801,"DK,US","Univ Copenhagen,Virginia Tech,Univ Maryland,Purdue Univ"
+10.1103/PhysRevB.86.104428,"US,GB","UCL,Univ Warwick,Sandia Natl Labs"
+10.1103/PhysRevLett.105.257402,CH,Swiss Fed Inst Technol
+10.1103/PhysRevApplied.20.044062,FR,"C12 Quantum Elect,Univ Lorraine"
+10.1103/PhysRevLett.109.237601,CA,McGill Univ
+10.1103/PhysRevLett.133.260604,"FI,DE","Karlsruhe Inst Technol,Stuttgart Univ,IQM Quantum Comp"
+10.1038/s41467-019-13822-x,US,"Harvard Univ,CALTECH,Univ Texas Austin"
+10.1039/c7nj01071k,RU,Southern Fed Univ
+10.1103/PhysRevB.92.035403,"PL,CH","Univ Basel,AGH Univ Sci & Technol"
+10.1103/PhysRevA.100.012332,CN,"Fuzhou Univ,Harbin Inst Technol"
+10.1103/PhysRevB.107.085427,"AU,JP,CH","Univ New South Wales,Diraq,Keio Univ,Tokyo Inst Technol,Otto Stern Weg 1"
+10.1103/PhysRevApplied.17.034046,CN,"Univ Sci & Technol China,Chinese Acad Sci"
+10.1364/OL.522770,CN,"Sichuan Univ,Harbin Inst Technol,Quantum Sci Ctr Guangdong Hong Kong"
+10.1088/2632-2153/ad88d5,"BE,CA","Univ Sherbrooke,IMEC,Natl Res Council Canada,Univ Waterloo,Perimeter Inst Theoret Phys"
+10.1103/PhysRevLett.109.107201,"BE,PL","AGH Univ Sci & Technol,Univ Antwerp"
+10.1039/c3tc30800f,"CN,US","Harbin Univ Sci & Technol,Hefei Univ Technol,Univ Nebraska"
+10.1063/1.5049506,"AU,DE,US","Univ Sydney,Q CTRL Pty Ltd,Univ Calif Los Angeles,Hella Corp"
+10.1103/PhysRevLett.106.027402,GB,Univ Sheffield
+10.1039/d0sc01187h,ES,Univ Valencia
+10.1103/PhysRevB.108.155433,CH,Univ Basel
+10.1002/adts.202100254,US,"Univ Chicago,Argonne Natl Lab"
+10.1142/S2010324713500070,"EG,SA","Kafr Elsheikh Univ,Umm Al Qura Univ,Ain Shams Univ"
+10.1103/PhysRevApplied.21.014034,"NL,US","Harvard Univ,Delft Univ Technol,Virginia Tech,AWS Ctr Quantum Networking"
+10.1063/5.0139825,"CH,GB","Univ Basel,IBM Res Europe Zurich,UCL"
+10.1103/PhysRevB.89.045432,"AU,CN","Univ Sci & Technol China,Univ New S Wales"
+10.1126/science.1239584,"CA,DE,GB","Simon Fraser Univ,Univ Oxford,Leibniz Inst Kristallzuchtung,PTB Braunschweig,VITCON Projectconsult,UCL"
+10.1364/JOSAB.33.000804,CN,"Univ Sci & Technol Beijing,Beijing Normal Univ"
+10.1103/PhysRevLett.130.090801,DE,"Tech Univ Dortmund,Quantum Brilliance GmbH"
+10.1103/PhysRevB.105.205435,AU,Univ New South Wales
+10.1063/5.0151029,"DE,NL,PL","Polish Acad Sci,Forschungszentrum Julich,Rhein Westfal TH Aachen,Leiden Univ"
+10.1021/nl9037399,US,"Univ Maryland,Carnegie Inst Sci"
+10.1103/PhysRevLett.108.247213,"DE,ES,GB","Univ Zaragoza,Univ Valencia,Univ Stuttgart,Univ Nottingham"
+10.1039/d0sc05856d,"CN,FR,ES","Univ Zaragoza,Univ Paris Saclay,Univ Paul Sabatier,Univ Grenoble Alpes,Ocean Univ China"
+10.1088/1612-202X/aca02c,RU,"Russian Acad Sci,Kazan Fed Univ"
+10.1126/sciadv.abm5912,"JP,SE,US","Univ Chicago,Natl Inst Quantum Sci & Technol,Linkoping Univ,Argonne Natl Lab"
+10.1021/acs.nanolett.7b02627,AT,"IST Austria,Johannes Kepler Univ Linz"
+10.1103/PhysRevB.87.155315,GB,"Univ Cambridge,Univ Glasgow"
+10.3390/nano11010072,"AU,JP","RMIT Univ,Swinburne Univ Technol,Natl Inst Quantum & Radiol Sci & Technol,Univ Melbourne,Tokyo Inst Technol"
+10.1016/j.jcrysgro.2017.05.008,"FR,DE,CH","Ruhr Univ Bochum,Univ Basel,Univ Lyon 1"
+10.1140/epjd/e2014-50140-5,CN,"Hubei Normal Univ,Nanjing Univ Posts & Telecommun"
+10.1039/c6dt02258h,"CL,FR,IE,ES","Univ Valencia,Univ Austral Chile,Sorbonne Univ,Trinity Coll Dublin"
+10.1088/1361-648X/aa6aac,"CN,US","Tsinghua Univ,Univ Michigan"
+10.1103/PhysRevB.85.115319,"CN,US","Ocean Univ China,Univ Calif San Diego,Univ Maryland,Natl Inst Stand & Technol"
+10.1021/acs.nanolett.9b05295,"DE,JP","Rhein Westfal TH Aachen,Forschungszentrum Julich,Natl Inst Mat Sci"
+10.1103/PhysRevB.105.L020405,AU,Univ Melbourne
+10.1126/sciadv.abj5030,"DE,RU","Leibniz Inst Forsch Verbund Berlin eV,Russian Acad Sci,Helmholtz Zentrum Dresden Rossendorf,Tech Univ Dresden"
+10.1038/ncomms5065,DE,Univ Ulm
+10.1038/srep03405,SE,Uppsala Univ
+10.1088/1367-2630/ab9bc0,US,Virginia Tech
+10.1038/s41467-018-04544-7,"DE,JP,US","RIKEN Ctr Emergent Matter Sci,JST,Tohoku Univ,Univ Tokyo,Ruhr Univ Bochum,SUNY Buffalo,RIKEN Cluster Pioneering Res,Univ Michigan"
+10.1038/ncomms12912,"DE,JP,KR,US","Pohang Univ Sci & Technol,Chung Ang Univ,Max Planck Inst Chem Phys Solid,RIKEN,NIST,Korea Atom Energy Res Inst"
+10.35848/1347-4065/acac36,"JP,GB","Hitachi Ltd,Tokyo Inst Technol,Tokyo Tech Acad Super Smart Soc"
+10.1038/s41534-022-00534-2,"DE,RU","Ioffe Inst,Northern Arctic Fed Univ,Helmholtz Zentrum Dresden Rossendorf,Tech Univ Dresden,Tech Univ Dortmund"
+10.1038/NPHYS2826,"DE,RU","Univ Wurzburg,Ioffe Phys Tech Inst,Bavarian Ctr Appl Energy Res ZAE Bayern"
+10.1016/j.nanoen.2021.106310,"CN,GB","Univ Elect Sci & Technol China,Swansea Univ,Chinese Acad Sci,Univ Chinese Acad Sci"
+10.1002/pssb.201100145,"AU,US,GB","UCL,Univ Sydney,Univ Utah,Florida State Univ"
+10.1103/PhysRevB.83.161301,US,Univ Maryland
+10.1007/s11128-016-1280-5,IR,Univ Isfahan
+10.1063/5.0156358,"NL,PL","Polish Acad Sci,Leiden Univ"
+10.1109/JSTQE.2014.2321523,CN,Beijing Univ Posts & Telecommun
+10.1103/PhysRevB.89.205439,HU,"Budapest Univ Technol & Econ,Hungarian Acad Sci,Eotvos Lorand Univ"
+10.1103/PhysRevApplied.21.014019,US,"Princeton Univ,Univ Calif Los Angeles"
+10.1103/PhysRevApplied.20.034066,"AU,CH,US","Univ New South Wales,Silicon Quantum Comp,Univ Basel,PsiQuantum Ltd,Univ Queensland"
+10.1038/s41534-023-00802-9,"JP,NL,TW","Natl Taiwan Univ,RIKEN,QuTech,Netherlands Org Appl Sci Res TNO,Delft Univ Technol,Natl Ctr Theoret Sci"
+10.1088/1367-2630/17/12/122003,"FR,GB","Univ Oxford,Univ Grenoble Alpes,Inst Neel"
+10.1103/PhysRevMaterials.8.036202,DE,Univ Konstanz
+10.1103/PhysRevLett.131.097002,FR,Univ Grenoble Alpes
+10.1007/s11128-019-2497-x,KP,"Kim Il Sung Univ,Univ Sci"
+10.1039/c5qi00142k,"FR,DE,ES,US","Univ Valencia,Univ Paris 11,Florida State Univ,Jacobs Univ Bremen"
+10.1103/PhysRevApplied.19.054090,"NO,US","Univ Washington,Sandia Natl Labs,Univ Oslo,Pacific Northwest Natl Lab"
+10.1103/PhysRevApplied.20.064019,"FI,DE,GB","Univ Regensburg,Aalto Univ,Univ Lancaster"
+10.1126/science.aaa4298,US,"Harvard Univ,Univ Maryland"
+10.1103/PhysRevA.86.062328,US,"Univ Wisconsin,Yale Univ,SUNY Buffalo"
+10.1109/TED.2024.3393947,"BE,IN","IIT Delhi,IMEC"
+10.1021/acs.nanolett.2c04417,AU,"Univ New South Wales,Diraq"
+10.1038/s41534-019-0129-z,CN,Univ Sci & Technol China
+10.1038/ncomms2854,US,"Univ Calif Santa Barbara,Ames Lab,Iowa State Univ,Case Western Reserve Univ"
+10.1002/jcc.27120,"DK,DE,GB","Carl von Ossietzky Univ Oldenburg,Unicontrol,Univ Exeter,Univ Oxford"
+10.1103/PhysRevLett.108.136803,"CH,GB",Univ Basel
+10.1103/PRXQuantum.3.020343,"JP,CH","Swiss Fed Inst Technol,Natl Inst Mat Sci"
+10.1103/PhysRevB.88.075206,"DE,JP,GB","Japan Atom Energy Agcy,Univ Tsukuba,Natl Inst Mat Sci,Element Six Ltd,Univ Ulm,Univ Stuttgart"
+10.1038/s41524-022-00862-z,US,"Colorado Sch Mines,Natl Renewable Energy Lab"
+10.1073/pnas.2313754120,"JP,NL,US","Univ Chicago,Argonne Natl Lab,Univ Iowa,Tohoku Univ,Eindhoven Univ Technol"
+10.1103/PhysRevB.98.075201,"DE,HU","Eotvos Lorand Univ,Hungarian Acad Sci,Univ Konstanz,Budapest Univ Technol & Econ"
+10.1103/PhysRevB.88.085314,"PL,US","SUNY Buffalo,Polish Acad Sci,Univ Maryland"
+10.1063/5.0230736,"HU,KR,SE,US","Sungkyunkwan Univ,Ajou Univ,Univ Wisconsin Madison,Korea Inst Sci & Technol,Eotvos Lorand Univ,MTA ELTE Lendulet Momentum NewQubit Res Grp,Linkoping Univ"
+10.1016/j.isci.2024.109328,CN,Anhui Univ Sci & Technol
+10.1063/1.5043108,FR,"Univ Grenoble Alpes,Aix Marseille Univ"
+10.1038/s41598-018-24004-y,"AT,NL","Univ Twente,IST Austria"
+10.1103/PhysRevB.92.121202,"FI,JP,RU,KR","Univ Turku,Kazan Fed Univ,Univ Fukui,Korea Basic Sci Inst,Korea Adv Inst Sci & Technol,Russian Acad Sci"
+10.1038/NPHYS2731,"NL,CH","Univ Basel,Eindhoven Univ Technol,Delft Univ Technol"
+10.1021/acs.nanolett.4c01247,"SE,US",Lund Univ
+10.1021/acs.jpclett.3c00314,US,MIT
+10.1063/1.5040474,"FR,ES,GB","Univ Bristol,Hitachi Cambridge Lab,Univ Grenoble Alpes,CSIC,Univ Cambridge,CEA Grenoble"
+10.1021/acs.nanolett.4c04112,"NL,US","Univ Penn,IBM Res,Nokia Bell Labs,Delft Univ Technol"
+10.1021/acsphotonics.3c00621,"US,GB",Purdue Univ
+10.1021/acs.nanolett.9b04495,US,"Stanford Univ,SLAC Natl Accelerator Lab"
+10.1021/acsnano.4c02470,"FR,ES","Univ Strasbourg,Ctr Fiis Mat CFM MPC"
+10.1002/cphc.202200478,FR,Univ Strasbourg
+10.1103/PhysRevB.101.121302,"AU,CN","Univ New South Wales,Beijing Computat Sci Res Ctr"
+10.1021/acs.cgd.3c00046,ES,Univ Valencia
+10.1038/s41598-018-19977-9,"CN,ES","Zhejiang Univ,Basque Country Univ EHU UPV,IKERBASQUE"
+10.1002/pssr.201600029,BR,"Univ Brasilia,Univ Fed Uberlandia,Univ Fed Goias"
+10.1021/jacs.9b09101,FR,"Univ Strasbourg,Sorbonne Univ"
+10.1021/nl500299h,FR,"UMR E CEA UJF Grenoble 1,CEA"
+10.1103/PhysRevLett.131.193601,"SG,TW","Nanyang Technol Univ,Natl Taiwan Univ"
+10.1021/acs.nanolett.6b02522,"CN,US","Tsinghua Univ,Univ Michigan"
+10.1103/PhysRevB.103.174106,CN,"Wenzhou Univ,Zhejiang Univ,Anhui Univ,Hefei Presch Educ Coll,Hefei Univ"
+10.1038/s41534-024-00852-7,"DE,PL","Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,ARQUE Syst GmbH,Forschungszentrum Julich,Polish Acad Sci"
+10.1021/jacs.9b12797,"AT,ES,US","Univ Wien,Florida State Univ,Univ Valencia"
+10.1038/s41467-017-00534-3,"FR,DE","Univ Grenoble Alpes,CNRS,Ruhr Univ Bochum"
+10.1103/PhysRevB.97.115445,"CN,US","Renmin Univ China,Chinese Acad Sci,Texas Tech Univ,Univ Chinese Acad Sci,Collaborat Innovat Ctr Quantum Matter,Hong Kong Polytech Univ,Shanghai Jiao Tong Univ,Collaborat Innovat Ctr Adv Microstruct"
+10.1103/PhysRevLett.129.116805,CH,Univ Basel
+10.1103/PhysRevB.95.245411,DE,Univ Konstanz
+10.1103/PhysRevLett.133.040401,CN,"Southern Univ Sci & Technol,City Univ Hong Kong,Quantum Sci Ctr Guangdong Hong Kong Macao Greater,Huawei Technol Co Ltd,Univ Hong Kong,Int Quantum Acad"
+10.1016/j.commatsci.2021.111041,US,"CUNY,Flatiron Inst"
+10.1021/acsnano.4c07184,"PL,US","Warsaw Univ Technol,Univ Warsaw,Univ Calif Santa Barbara,Polish Acad Sci,Univ South Carolina"
+10.1063/5.0158262,NL,"Delft Univ Technol,QuTech,Netherlands Org Appl Sci Res TNO"
+10.1021/jacs.0c06073,US,"Northwestern Univ,Argonne Natl Lab"
+10.1140/epjb/e2014-50147-8,FR,Univ Strasbourg
+10.1063/5.0023722,CN,"Peking Univ,Chinese Acad Sci,Beijing Acad Quantum Informat Sci"
+10.1002/qute.201900123,SG,"ASTAR,Natl Univ Singapore"
+10.22331/q-2023-08-31-1099,"FR,IT,SG,US","Univ Bari,Univ Grenoble Alpes,Quandela SAS,Chapman Univ,Univ Rochester,Univ Paris Cite,NUS,Natl Univ Singapore"
+10.1117/1.AP.4.6.066003,"CN,DE","Univ Sci & Technol China,Jinan Inst Quantum Technol,Chinese Acad Sci,Univ Wurzburg,Carl von Ossietzky Univ Oldenburg,Univ Kassel,NYU ECNU Inst Phys NYU Shanghai"
+10.1103/PhysRevA.101.032322,CN,"Fuzhou Univ,Harbin Inst Technol"
+10.1038/s41534-019-0206-3,"DK,FR,NL,GB","Univ Cambridge,Tech Univ Denmark,Univ Sheffield,Univ Cote Azur,Delft Univ Technol"
+10.1021/ic302068c,"MD,ES","Univ Valencia,Moldavian Acad Sci"
+10.1103/PhysRevB.110.235305,US,"Univ Rochester,Sandia Natl Labs"
+10.1007/s10909-022-02749-1,"DE,JP","Okinawa Inst Sci & Technol,Univ Konstanz"
+10.1038/s41524-020-00448-7,"US,GB","Univ Calif Santa Barbara,US Naval Res Lab,Univ Kansas,UCL"
+10.1038/nphys2514,"FR,RU,GB","Univ Sheffield,RAS,St Petersburg State Univ,Lab Photon & Nanostruct"
+10.1103/PhysRevD.110.076008,"US,GB",SUNY Stony Brook
+10.1103/PhysRevApplied.12.014013,"NL,US","Delft Univ Technol,Intel Corp,URENCO Stable Isotopes,Air Liquide Adv Mat North Branch"
+10.1038/NMAT3499,"CH,US,GB","UCL,Swiss Fed Inst Technol,Sandia Natl Labs"
+10.1364/OME.434083,US,"CUNY City Coll,CUNY,Flatiron Inst"
+10.1021/acsnano.4c10357,"CZ,ES","Palacky Univ,Czech Acad Sci,Czech Tech Univ,Univ Autonoma,Univ Complutense,Campus Univ Cantoblanco,CSIC UNIOVI PA"
+10.1038/NPHYS3686,"DE,GB","Univ Sheffield,Univ Cambridge,Cambridge Res Lab,Univ Konstanz"
+10.1103/PhysRevB.87.205432,DE,Univ Konstanz
+10.1103/PhysRevB.109.075433,"DE,GB","Univ Strathclyde,Carl von Ossietzky Univ Oldenburg,Julius Maximilians Univ Wurzburg"
+10.1002/smll.201901522,CN,Chinese Acad Sci
+10.3390/ma12152487,DE,Friedrich Alexander Univ Erlangen Nurnberg FAU
+10.1021/jacs.4c07288,US,Northwestern Univ
+10.1103/PhysRevLett.133.017001,"DE,JP,NO,CH","Swiss Fed Inst Technol,Univ Konstanz,Rhein Westfal TH Aachen,Natl Inst Mat Sci,Norwegian Univ Sci & Technol"
+10.1039/d3mh01926h,DE,Leibniz Inst Surface Engn IOM
+10.1103/PhysRevB.102.085413,"CA,CN","McGill Univ,Beijing Computat Sci Res Ctr,Univ Chinese Acad Sci,Univ Sci & Technol China"
+10.1021/nl3012903,AU,Univ New S Wales
+10.1149/2162-8777/acb734,DE,"Leibniz Inst Kristallzuchtung,IHP Leibniz Inst innovat Mikroelekt"
+10.1103/PhysRevB.97.241202,"BE,HU","Hungarian Acad Sci,IMEC,Hasselt Univ,Budapest Univ Technol & Econ"
+10.1088/2053-1583/acddf6,US,"Univ Wisconsin Madison,Univ Calif Santa Cruz"
+10.1038/s41467-020-20280-3,"DK,FR","Univ Copenhagen,CEA"
+10.1103/PhysRevLett.121.256804,"BR,US","Univ Sao Paulo,Univ Iowa,Univ Fed Rio Grande do Norte"
+10.1039/d2dt03999k,JP,Nihon Univ
+10.1038/s41563-020-00802-6,"JP,SE,US","Univ Chicago,Natl Inst Quantum & Radiol Sci & Technol,Linkoping Univ,Argonne Natl Lab"
+10.1103/PhysRevLett.124.067701,"BD,FR,US,GB","UCL,Univ Cambridge,Hitachi Cambridge Lab,CEA,Univ Calif Berkeley,Univ Dhaka,MIT"
+10.1103/PhysRevA.100.063840,CN,"Zhejiang Sci Tech Univ,Huazhong Univ Sci & Technol"
+10.1073/pnas.2404298121,DE,"RWTH Achen Univ,Forsch Zentrum Julich"
+10.1038/s41534-017-0029-z,US,"Univ Chicago,Argonne Natl Lab"
+10.1103/PhysRevB.91.195417,"DE,CH","Ludwig Maximilians Univ Munchen,Univ Regensburg,ETH"
+10.1021/jacs.4c10632,"IT,US","Univ Parma,UdR INSTM Parma,INFN Sez Milano Bicocca,Univ Florence,UdR INSTM Firenze,Northwestern Univ,North Western Univ,Univ Padua"
+10.1039/c7cp03872k,"IL,MD,RU,ES","Inst Problems Chem Phys,Moldavian Acad Sci,Ben Gurion Univ Negev,Univ Valencia"
+10.1063/1.3577962,JP,"Tohoku Univ,CREST JST"
+10.7566/JPSJ.91.044004,"JP,MY,GB","Univ Teknol Malaysia,Osaka Univ,PRESTO,Natl Inst Quantum & Radiol Sci & Technol"
+10.1103/PhysRevB.98.035432,"AU,DE","Univ Melbourne,Bayerische Akad Wissensch,Tech Univ Munich,Nanosyst Initiat Munich"
+10.1016/j.scib.2017.04.024,CN,Univ Sci & Technol China
+10.1038/srep28996,CN,City Univ Hong Kong
+10.1063/5.0094900,US,"Sandia Natl Labs,Univ Texas Austin,Ctr Integrated Nanotechnol"
+10.1103/PhysRevB.90.155306,US,"Univ Maryland,Univ Maryland Baltimore Cty"
+10.1038/s41467-024-53890-2,"JP,GB","Tohoku Univ,Natl Inst Mat Sci NIMS,Univ Tokyo,RIKEN"
+10.1103/PhysRevB.82.125437,US,"Univ Colorado,NIST,Harvard Univ"
+10.1038/s41928-024-01214-z,"FI,CH,GB","UCL,Univ Basel,VTT Tech Res Ctr Finland Ltd"
+10.1038/NPHYS1856,"IL,US","Harvard Univ,Weizmann Inst Sci"
+10.1109/TED.2023.3244133,"CA,FR","Univ Sherbrooke,3IT,Univ Lille"
+10.1038/s41467-024-46075-4,"NL,US,GB","Delft Univ Technol,Univ Penn,Element Six Innovat"
+10.1103/PhysRevApplied.15.L031002,US,Univ Maryland
+10.1103/PhysRevApplied.15.064010,US,Stanford Univ
+10.1103/PhysRevA.87.022306,US,"Harvard Univ,Univ Michigan,CALTECH,Yale Univ"
+10.1002/aelm.202300753,CN,"Huazhong Univ Sci & Technol,Hubei Univ,Shenzhen Huazhong Univ Sci & Technol"
+10.1021/acs.inorgchem.0c02573,"FR,IE,IT","Univ Firenze,Univ Grenoble Alpes,Univ Torino,Trinity Coll Dublin"
+10.1051/epjap/2023230014,MA,Cadi Ayyad Univ
+10.1038/s41467-023-39568-1,"DE,CH,US","Univ Basel,Ruhr Univ Bochum,Univ Oklahoma"
+10.1103/PhysRevB.82.245306,PL,AGH Univ Sci & Technol
+10.1021/jacs.1c07058,ES,"IMDEA Nanociencia,Univ Autonoma Madrid,Univ Zaragoza,CSIC,Univ Complutense Madrid"
+10.1038/s42005-023-01152-w,"ES,US","Florida State Univ,Univ Florida,Univ Valencia"
+10.1039/d0nr00775g,"CN,SE","Lund Univ,Peking Univ,Beijing Acad Quantum Informat Sci"
+10.1021/acs.jpcb.3c06658,US,"Argonne Natl Lab,Lawrence Berkeley Natl Lab"
+10.1103/PhysRevB.88.085201,"DE,PL,PT","Univ Halle Wittenberg,Max Planck Inst Microstruct Phys,Rzeszow Univ Technol,Univ Tecn Lisboa,Heidelberg Univ"
+10.1063/5.0240801,US,Univ Washington
+10.1021/acs.jpcc.1c06473,US,Northwestern Univ
+10.1088/1674-1056/ace3a9,CN,"Univ Sci & Technol China,Chinese Acad Sci,Beijing Superstring Acad Memory Technol,Origin Quantum Comp Co Ltd"
+10.1038/NNANO.2015.60,CH,"ETH,Ecole Polytech Fed Lausanne"
+10.1021/acsnano.0c10601,US,"Harvard Univ,Flatiron Inst"
+10.1103/PhysRevB.102.195418,"DE,US","Univ Konstanz,Princeton Univ"
+10.1039/c5nr04273a,"CN,FR,SE","Peking Univ,UMR CNRS 8520,Lund Univ"
+10.1021/acsaelm.8b00006,DE,"Forschungszentrum Julich,JARA Julich Aachen Res Alliance"
+10.1103/PhysRevApplied.22.064089,"AT,FR,JP,SK,CH,GB","Tech Univ Wien,RIKEN,Slovak Acad Sci,Univ Basel,Univ Grenoble Alpes"
+10.1103/PhysRevA.107.012604,CN,"Guangxi Univ,South China Normal Univ"
+10.1088/1367-2630/12/6/065016,AU,Univ Melbourne
+10.1063/5.0160792,CA,"Univ Waterloo,Northern Quantum Lights Inc"
+10.1038/nature10416,"FR,DE,JP","CNRS,Univ Grenoble 1,Univ Tokyo,ERATO JST,ICORP Int Cooperat Res Project Quantum Spin Infor,Ruhr Univ Bochum,Inst Univ France"
+10.1103/PhysRevB.88.045307,"US,GB","South Dakota Sch Mines & Technol,NASA Ames Res Ctr"
+10.1063/5.0209702,"DE,GB","Max Planck Inst Solid State Res,Univ Cambridge"
+10.1021/jacs.3c11172,"BG,CN,FR,DE,NL,ES","Max Planck Inst Microstruct Phys,Fac Chem & Food Chem,Tech Univ Dresden,Univ Strasbourg,Univ Valencia,Univ Sci & Technol China,Univ Sofia,Max Planck Inst Polymer Res,Cent Facil Electron Microscopy,Univ Utrecht,Shandong Univ"
+10.1103/PhysRevA.110.032612,"NL,US","Univ Colorado,Univ Calif Santa Barbara,Harvard Smithsonian Ctr Astrophys,Harvard Univ,Delft Univ Technol"
+10.1063/5.0177200,"CZ,LT","Czech Acad Sci,Brno Univ Technol,Vilnius Univ"
+10.1021/acs.jpclett.4c00294,US,"NYU Abu Dhabi,Dartmouth Coll,Univ Calif Santa Barbara"
+10.1063/1.5048949,NZ,"Natl Isotope Ctr,Victoria Univ"
+10.1002/adma.202305703,CA,Ecole Polytech Montreal
+10.1038/nature09150,US,Univ Maryland
+10.1063/5.0056648,US,Princeton Univ
+10.1021/acsnano.3c00191,"NL,TR,US","Univ Penn,Bilkent Univ,Univ Iowa,Eindhoven Univ Technol"
+10.1038/s41467-021-23471-8,"CN,HU","Univ Sci & Technol China,Budapest Univ Technol & Econ,Wigner Res Ctr Phys"
+10.3390/molecules29133033,"CN,FR,IT,RU","Harbin Inst Technol,Kazan Fed Univ,Sorbonne Univ,ISM CNR,IM Sechenov First Moscow State Med Univ"
+10.1103/PhysRevB.99.205306,"AU,CN,JP,US","UNSW Sydney,Keio Univ,Univ Melbourne,Univ Wisconsin,Univ Chinese Acad Sci"
+10.1039/d4dt01290a,BR,"Univ Fed Minas Gerais,Univ Fed Goias,Univ Brasilia,Ctr Fed Educ Tecnol Minas Gerais,Univ Estado Rio de Janeiro,BioSmart Nanotechnol LTDA,Univ Sao Paulo,Univ Fed Sergipe,Univ Fed Fluminense,Univ Estadual Campinas"
+10.1103/PhysRevB.101.035303,PL,Polish Acad Sci
+10.1007/s11467-009-0067-x,"CN,DE","Univ Dortmund,Univ Sci & Technol China"
+10.1039/d4dt00786g,US,Univ Iowa
+10.1103/PhysRevB.104.075439,PL,Polish Acad Sci
+10.1103/PhysRevX.7.031010,"BR,CN,CH,US","Univ Basel,Univ Sao Paulo,Univ Calif Santa Barbara,Univ Chicago,Qufu Normal Univ,Naval Res Lab"
+10.1039/c2cp40778g,"JP,GB","Osaka City Univ,Japan Sci & Technol Agcy JST,Osaka Univ"
+10.1080/00268976.2013.811304,"JP,GB","Osaka City Univ,Osaka Univ"
