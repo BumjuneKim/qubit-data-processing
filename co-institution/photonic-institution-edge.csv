@@ -1,0 +1,3283 @@
+Source,Target,Weight
+Austrian Acad Sci,Univ Vienna,11
+Argonne Natl Lab,Univ Chicago,9
+Hangzhou Normal Univ,Nanjing Univ,9
+Nanyang Technol Univ,Natl Univ Singapore,9
+Austrian Acad Sci,Univ Innsbruck,8
+Harvard Univ,MIT,7
+Peking Univ,Shanxi Univ,7
+Toshiba Res Europe Ltd,Univ Cambridge,7
+CALTECH,NIST,6
+Nanjing Univ,Shangrao Normal Univ,6
+Natl Res Council Canada,Univ Ottawa,6
+Barcelona Inst Sci & Technol,ICREA Inst Catalana Recerca & Estudis Avancats,5
+Beijing Computat Sci Res Ctr,Southeast Univ,5
+Chinese Acad Sci,Univ Chinese Acad Sci,5
+Hangzhou Normal Univ,Shangrao Normal Univ,5
+MIT,MITRE Corp,5
+MIT,Sandia Natl Labs,5
+MIT,Univ Arizona,5
+Nanjing Univ,Univ Sci & Technol China,5
+Natl Inst Informat,Stanford Univ,5
+Perimeter Inst Theoret Phys,Univ Waterloo,5
+Ruhr Univ Bochum,Univ Copenhagen,5
+Sandia Natl Labs,Univ Arizona,5
+Univ Calif Santa Barbara,Univ Chicago,5
+Abdus Salam Int Ctr Theoret Phys,Al Imam Mohammad Ibn Saud Islamic Univ IMSIU,4
+Acad Sci Czech Republ,Palacky Univ,4
+Beijing Computat Sci Res Ctr,Univ Sci & Technol China,4
+Brookhaven Natl Lab,MIT,4
+CALTECH,Univ Sydney,4
+CNR,Politecn Milan,4
+Dublin City Univ,Southwest Jiaotong Univ,4
+East China Normal Univ,Univ Sci & Technol China,4
+Fuzhou Univ,Hangzhou Normal Univ,4
+Fuzhou Univ,Univ Michigan,4
+Harbin Inst Technol,Yanbian Univ,4
+Harvard Univ,Univ Chicago,4
+Harvard Univ,Univ Copenhagen,4
+Korea Inst Sci & Technol KIST,Korea Univ Sci & Technol,4
+Korea Univ Sci & Technol,Yonsei Univ,4
+MIT,Univ Massachusetts,4
+MITRE Corp,Sandia Natl Labs,4
+MITRE Corp,Univ Arizona,4
+NIST,Univ Maryland,4
+Natl Inst Informat,Univ Wurzburg,4
+Natl Univ Singapore,Univ Vienna,4
+Peking Univ,Univ Bristol,4
+RIKEN,Univ Michigan,4
+RIKEN Cluster Pioneering Res,Univ Michigan,4
+Shanghai Jiao Tong Univ,Univ Sci & Technol China,4
+Shangrao Normal Univ,Univ Sci & Technol China,4
+Southeast Univ,Univ Calgary,4
+Southeast Univ,Univ Sci & Technol China,4
+Stanford Univ,Univ Wurzburg,4
+Univ Bristol,Univ Western Australia,4
+Univ Calgary,Univ Sci & Technol China,4
+Univ Cambridge,Univ Sheffield,4
+ASTAR,Nanyang Technol Univ,3
+AWS Ctr Quantum Comp,CALTECH,3
+Adam Mickiewicz Univ,Palacky Univ,3
+Austrian Acad Sci,Harvard Univ,3
+Austrian Acad Sci,Univ Sci & Technol China,3
+Barcelona Inst Sci & Technol,Univ Concepcion,3
+Barcelona Inst Sci & Technol,Univ Fed Rio de Janeiro,3
+Basque Fdn Sci,Univ Basque Country UPV EHU,3
+Beijing Computat Sci Res Ctr,Nanjing Univ Sci & Technol,3
+Brookhaven Natl Lab,Univ Arizona,3
+CNRS,Univ Grenoble Alpes,3
+CSIC,Fdn ARAID,3
+CSIC,Univ Zaragoza,3
+Canadian Inst Adv Res,Southeast Univ,3
+Canadian Inst Adv Res,Univ Calgary,3
+Canadian Inst Adv Res,Univ Sci & Technol China,3
+Chinese Acad Sci,Univ Sci & Technol China,3
+Chinese Acad Sci,Zhejiang Univ,3
+Collaborat Innovat Ctr Quantum Matter,Tsinghua Univ,3
+Consiglio Nazl Ric IFN CNR,Politecn Milan,3
+Delft Univ Technol,MIT,3
+Delft Univ Technol,Univ Waterloo,3
+East China Normal Univ,NYU Shanghai,3
+East China Normal Univ,Shanxi Univ,3
+East China Normal Univ,Southeast Univ,3
+Fdn ARAID,Univ Zaragoza,3
+Forschungszentrum Julich,Rhein Westfal TH Aachen,3
+Hangzhou Normal Univ,Univ Sci & Technol China,3
+Harvard Smithsonian Ctr Astrophys,Harvard Univ,3
+Harvard Univ,Univ Innsbruck,3
+Hefei Natl Lab,Peking Univ,3
+Hefei Natl Lab,Shanxi Univ,3
+Hefei Natl Lab,Tsinghua Univ,3
+Hengyang Normal Univ,Hunan Normal Univ,3
+Heriot Watt Univ,Natl Inst Informat,3
+Heriot Watt Univ,Stanford Univ,3
+Heriot Watt Univ,Univ Glasgow,3
+Heriot Watt Univ,Univ Wurzburg,3
+Humboldt Univ,Univ Washington,3
+Hunan Normal Univ,Hunan Univ Sci & Technol,3
+Hungarian Acad Sci,Univ Basque Country,3
+Inst Quantum Comp,Univ Waterloo,3
+Korea Inst Sci & Technol KIST,Korea Univ,3
+Korea Inst Sci & Technol KIST,Yonsei Univ,3
+MIT,Tech Univ Denmark,3
+MIT,US Army,3
+Max Planck Inst Quantum Opt,Munich Ctr Quantum Sci & Technol MCQST,3
+Max Planck Inst Quantum Opt,TOPTICA Photon AG,3
+NIST,Univ Colorado,3
+NTT Corp,Natl Inst Informat,3
+NYU Shanghai,New York Univ Shanghai,3
+Natl Res Council Canada,Univ Calgary,3
+Natl Res Council Canada,Univ Waterloo,3
+Natl Univ Singapore,Singapore Univ Technol & Design,3
+Natl Univ Singapore,Univ Oxford,3
+Oak Ridge Natl Lab,Purdue Univ,3
+Osaka Univ,Univ Tokyo,3
+Peking Univ,Sun Yat sen Univ,3
+Peking Univ,Tech Univ Denmark,3
+Peking Univ,Univ Western Australia,3
+RIKEN,Univ Tokyo,3
+Ruhr Univ Bochum,Univ Basel,3
+Simon Fraser Univ,Vitcon Projectconsult GmbH,3
+Singapore Univ Technol & Design,Univ Vienna,3
+Sun Yat sen Univ,Univ Bristol,3
+Sun Yat sen Univ,Univ Western Australia,3
+Tech Univ Denmark,Univ Bristol,3
+Tech Univ Denmark,Univ Massachusetts,3
+Tianjin Normal Univ,Univ Sci & Technol Beijing,3
+US Army,Univ Massachusetts,3
+Univ Chicago,Yale Univ,3
+Univ Electrocommun,Univ Tokyo,3
+Univ Glasgow,Univ Strathclyde,3
+Univ Guelph,Univ Waterloo,3
+Univ St Andrews,Univ Wurzburg,3
+Univ Tokyo,Univ Toronto,3
+Univ Toronto,Univ Waterloo,3
+Univ Toronto,Xanadu,3
+Univ Vienna,Univ Waterloo,3
+ASTAR,Australian Natl Univ,2
+ASTAR,Natl Univ Singapore,2
+AWS Ctr Quantum Comp,Univ Chicago,2
+AWS Ctr Quantum Networking,Harvard Univ,2
+Adam Mickiewicz Univ,RIKEN Cluster Pioneering Res,2
+Adam Mickiewicz Univ,Univ Michigan,2
+Adv Fiber Resources Milan Srl,LIGENTEC SA,2
+Adv Fiber Resources Milan Srl,SOITEC SA,2
+Adv Fiber Resources Milan Srl,Univ Grenoble Alpes,2
+Adv Fiber Resources Milan Srl,Univ Pavia,2
+Adv Fiber Resources Milan Srl,Univ Toronto,2
+Air Force Res Lab,Oak Ridge Natl Lab,2
+Air Force Res Lab,Tulane Univ,2
+Air Force Res Lab,Univ Brescia,2
+Anhui Univ,Beijing Computat Sci Res Ctr,2
+Anhui Xinhua Univ,Nanjing Univ,2
+Argonne Natl Lab,Harvard Univ,2
+Australian Natl Univ,Friedrich Schiller Univ Jena,2
+Austrian Acad Sci,Harvard Smithsonian Ctr Astrophys,2
+Austrian Acad Sci,Lund Univ,2
+Austrian Acad Sci,Natl Univ Singapore,2
+Austrian Acad Sci,Univ Catolica Santisima Concepcion,2
+Austrian Acad Sci,Univ Concepcion,2
+Austrian Acad Sci,Univ Fed Rio de Janeiro,2
+Austrian Acad Sci,Univ Geneva,2
+Austrian Acad Sci,Univ Oxford,2
+Austrian Acad Sci,Univ Waterloo,2
+Barcelona Inst Sci & Technol,ICREA,2
+Barcelona Inst Sci & Technol,Technol Innovat Inst,2
+Basque Fdn Sci,CSIC,2
+Basque Fdn Sci,Shanghai Univ,2
+Basque Fdn Sci,Univ Basque Country,2
+Basque Fdn Sci,Univ Pais Vasco UPV EHU,2
+Beijing Acad Quantum Informat Sci,Chinese Acad Sci,2
+Beijing Acad Quantum Informat Sci,Peking Univ,2
+Beijing Acad Quantum Informat Sci,Tech Univ Denmark,2
+Beijing Acad Quantum Informat Sci,Univ Bristol,2
+Beijing Acad Quantum Informat Sci,Univ Western Australia,2
+Beijing Computat Sci Res Ctr,Budapest Univ Technol & Econ,2
+Beijing Computat Sci Res Ctr,East China Normal Univ,2
+Beijing Computat Sci Res Ctr,HUN REN Wigner Res Ctr Phys,2
+Beijing Computat Sci Res Ctr,MTA WFK Lendulet Momentum Semicond Nanostruct Res,2
+Beijing Computat Sci Res Ctr,Univ Calgary,2
+Beijing Inst Technol,Hunan Normal Univ,2
+Beijing Inst Technol,Hunan Univ Sci & Technol,2
+Beijing Normal Univ,King Abdulaziz Univ,2
+Birla Inst Technol & Sci Pilani,Univ Sci & Technol,2
+Boston Univ,Univ Camerino,2
+Boston Univ,Univ Cent Florida,2
+Brookhaven Natl Lab,MITRE Corp,2
+Brookhaven Natl Lab,Sandia Natl Labs,2
+Budapest Univ Technol & Econ,HUN REN Wigner Res Ctr Phys,2
+Budapest Univ Technol & Econ,Linkoping Univ,2
+Budapest Univ Technol & Econ,MTA WFK Lendulet Momentum Semicond Nanostruct Res,2
+CALTECH,IST Austria,2
+CALTECH,Univ Chicago,2
+CALTECH,Univ Colorado,2
+CAS Ctr Excellence Quantum Informat & Quantum Phy,Univ Sci & Technol China,2
+CNR,Ecole Polytech Fed Lausanne,2
+CNR,Univ Roma La Sapienza,2
+CNR INO,Univ Firenze,2
+CNRS,Cardiff Univ,2
+CNRS,Griffith Univ,2
+CNRS,Univ Bordeaux,2
+CNRS,Univ Queensland,2
+CNRS,Univ Wurzburg,2
+Canadian Inst Adv Res,East China Normal Univ,2
+Canadian Inst Adv Res,Univ Waterloo,2
+Capital Normal Univ,Univ Sci & Technol China,2
+Cardiff Univ,Univ Wurzburg,2
+Chinese Acad Sci,Qufu Normal Univ,2
+Chinese Acad Sci,Univ Glasgow,2
+Chungbuk Natl Univ,Korea Inst Sci & Technol,2
+Chungbuk Natl Univ,Natl Secur Res Inst,2
+Chungbuk Natl Univ,Yanbian Univ,2
+Collaborat Innovat Ctr Quantum Matter,Peking Univ,2
+Collaborat Innovat Ctr Quantum Matter,Tsinghua Natl Lab Informat Sci & Technol,2
+Consiglio Nazl Ric IFN CNR,Sapienza Univ Roma,2
+Delft Univ Technol,Eindhoven Univ Technol,2
+Delft Univ Technol,Harvard Univ,2
+Delft Univ Technol,Natl Res Council Canada,2
+Delft Univ Technol,Netherlands Org Appl Sci Res TNO,2
+Delft Univ Technol,Univ Chicago,2
+Delft Univ Technol,Univ Copenhagen,2
+Duke Univ,Natl Inst Stand & Technol,2
+Duke Univ,Univ Maryland,2
+ETH,Princeton Univ,2
+East China Normal Univ,NYU,2
+East China Normal Univ,Natl Inst Informat,2
+East China Normal Univ,New York Univ Shanghai,2
+East China Normal Univ,Shanghai Jiao Tong Univ,2
+East China Normal Univ,Univ Calgary,2
+Forschungszentrum Julich,Julich Aachen Res Alliance,2
+Fraunhofer Inst Appl Opt & Precis Engn,Univ Rostock,2
+Friedrich Schiller Univ Jena,Univ Cambridge,2
+Friedrich Schiller Univ Jena,Univ Rostock,2
+Frontier Sci Ctr Quantum Informat,Tsinghua Univ,2
+Fudan Univ,Univ Sci & Technol China,2
+Fuzhou Univ,RIKEN,2
+Fuzhou Univ,RIKEN Cluster Pioneering Res,2
+Fuzhou Univ,Tsinghua Univ,2
+Griffith Univ,Univ Sci & Technol China,2
+HUN REN Wigner Res Ctr Phys,MTA WFK Lendulet Momentum Semicond Nanostruct Res,2
+Hangzhou Normal Univ,RIKEN,2
+Hangzhou Normal Univ,Univ Calgary,2
+Hangzhou Normal Univ,Univ Michigan,2
+Hangzhou Normal Univ,Zhejiang Univ Sci & Technol,2
+Harvard Univ,Humboldt Univ,2
+Harvard Univ,Max Planck Inst Quantum Opt,2
+Harvard Univ,Stanford Univ,2
+Harvard Univ,Technion Israel Inst Technol,2
+Hefei Natl Lab,Univ Sci & Technol China,2
+Heidelberg Univ,Univ Sci & Technol China,2
+Heriot Watt Univ,Tech Univ Denmark,2
+Heriot Watt Univ,Univ Bristol,2
+Heriot Watt Univ,Univ Strathclyde,2
+Hokkaido Univ,Kyoto Univ,2
+Hokkaido Univ,Osaka Univ,2
+Hong Kong Univ Sci & Technol,Nanjing Univ,2
+Hong Kong Univ Sci & Technol,Univ Guelph,2
+Hong Kong Univ Sci & Technol,Univ Waterloo,2
+Huazhong Univ Sci & Technol,Nanjing Univ,2
+Huazhong Univ Sci & Technol,S China Normal Univ,2
+Huazhong Univ Sci & Technol,Univ Hong Kong,2
+Huazhong Univ Sci & Technol,Wuhan Inst Technol,2
+Humboldt Univ,Princeton Univ,2
+ICFO Inst Ciencies Foton,ICREA,2
+ICFO Inst Ciencies Foton,Univ Naples Federico II,2
+ICFO Inst Ciencies Foton,Univ Roma La Sapienza,2
+INFN,Nanyang Technol Univ,2
+INFN,Natl Univ Singapore,2
+INFN,Univ Catania,2
+Imperial Coll London,Nanyang Technol Univ,2
+Imperial Coll London,Natl Univ Singapore,2
+Imperial Coll London,UCL,2
+Imperial Coll London,Univ Sci & Technol China,2
+Inst Quantum Comp,Ki3 Photon Technol,2
+Inst Quantum Comp,Perimeter Inst Theoret Phys,2
+Inst Telecomunicacoes,Univ Lisbon,2
+Inst Univ France,Univ Montpellier,2
+Int Iberian Nanotechnol Lab INL,Sapienza Univ Roma,2
+Int Iberian Nanotechnol Lab INL,Univ Fed Fluminense,2
+Johannes Gutenberg Univ Mainz,Univ Tokyo,2
+Ki3 Photon Technol,Univ Waterloo,2
+Korea Inst Sci & Technol,Natl Secur Res Inst,2
+Korea Univ,Korea Univ Sci & Technol,2
+Kyoto Univ,Osaka Univ,2
+LIGENTEC SA,SOITEC SA,2
+LIGENTEC SA,Univ Grenoble Alpes,2
+LIGENTEC SA,Univ Pavia,2
+LIGENTEC SA,Univ Toronto,2
+Leibniz Inst Kristallzuchtung,Simon Fraser Univ,2
+Leibniz Inst Kristallzuchtung,Vitcon Projectconsult GmbH,2
+Louisiana State Univ,US Army,2
+Louisiana State Univ,Univ Massachusetts,2
+Ludwig Maximilians Univ Munchen,Max Planck Inst Quantum Opt,2
+Ludwig Maximilians Univ Munchen,Munich Ctr Quantum Sci & Technol MCQST,2
+Lund Univ,Univ Sci & Technol China,2
+MIT,Technion Israel Inst Technol,2
+MIT,Univ Cambridge,2
+Max Planck Inst Phys Lichts,Univ Erlangen Nurnberg,2
+Max Planck Inst Quantum Opt,Natl Univ Singapore,2
+Max Planck Inst Quantum Opt,Univ Munich,2
+Max Planck Inst Sci Light,Univ Erlangen Nurnberg,2
+Moscow MV Lomonosov State Univ,RAS,2
+Moscow MV Lomonosov State Univ,Russian Quantum Ctr,2
+Moscow MV Lomonosov State Univ,Skolkovo Inst Sci & Technol,2
+Munich Ctr Quantum Sci & Technol MCQST,Tech Univ Munich,2
+NEC Corp Ltd,RIKEN,2
+NEC Corp Ltd,Univ Tokyo,2
+NIST,Univ Sydney,2
+NYU,NYU Shanghai,2
+NYU,Natl Inst Informat,2
+NYU,New York Univ Shanghai,2
+NYU,Univ Sci & Technol China,2
+NYU Shanghai,Natl Inst Informat,2
+NYU Shanghai,Univ Sci & Technol China,2
+Nanjing Univ,S China Normal Univ,2
+Nanjing Univ,Univ Calgary,2
+Nanjing Univ,Univ Hong Kong,2
+Nanjing Univ Posts & Telecommun,Univ Sci & Technol China,2
+Nanjing Univ Sci & Technol,Southeast Univ,2
+Nanyang Technol Univ,Univ Catania,2
+Natl Cheng Kung Univ,Univ Sci & Technol China,2
+Natl Inst Informat,New York Univ Shanghai,2
+Natl Inst Informat,Univ Sci & Technol China,2
+Natl Inst Stand & Technol,Univ Maryland,2
+Natl Univ Singapore,Univ Bristol,2
+Natl Univ Singapore,Univ Catania,2
+Natl Univ Singapore,Univ Edinburgh,2
+Natl Univ Singapore,Univ Queensland,2
+New York Univ Shanghai,Univ Sci & Technol China,2
+Nokia Res Ctr,Univ Bristol,2
+Oak Ridge Natl Lab,Tulane Univ,2
+Oak Ridge Natl Lab,Univ Brescia,2
+Oak Ridge Natl Lab,Univ Tennessee,2
+Oklahoma State Univ,Tech Univ Darmstadt,2
+Osaka Univ,Ruhr Univ Bochum,2
+Osaka Univ,Univ Electrocommun,2
+Pacific Northwest Natl Lab,Univ Washington,2
+Peking Univ,Univ Sci & Technol China,2
+Perimeter Inst Theoret Phys,Xanadu,2
+Photonic Inc,Simon Fraser Univ,2
+Photonic Inc,Univ Montreal,2
+Phys Tech Bundesanstalt PTB Braunschweig,Simon Fraser Univ,2
+Phys Tech Bundesanstalt PTB Braunschweig,Vitcon Projectconsult GmbH,2
+Politecn Bari,Univ Massachusetts,2
+Politecn Milan,Sapienza Univ Roma,2
+Politecn Milan,Univ Vienna,2
+Princeton Univ,Univ Calif Santa Barbara,2
+Princeton Univ,Univ Chicago,2
+Princeton Univ,Univ Washington,2
+Pukyong Natl Univ,Univ Trento,2
+Purdue Univ,Swiss Fed Inst Technol Lausanne EPFL,2
+Purdue Univ,Univ Tennessee,2
+Quandela,Univ Paris Saclay,2
+Queens Univ Belfast,Univ Roma La Sapienza,2
+Queens Univ Belfast,Univ Ulm,2
+RIKEN Cluster Pioneering Res,RIKEN Ctr Quantum Comp,2
+RIKEN Ctr Quantum Comp,Univ Michigan,2
+RMIT Univ,Univ Sydney,2
+RMIT Univ,Univ Toronto,2
+RMIT Univ,Xanadu,2
+Rhein Westfal TH Aachen,Univ Queensland,2
+Rice Univ,Univ Chicago,2
+Ruhr Univ Bochum,Tech Univ Berlin,2
+Ruhr Univ Bochum,Tech Univ Munich,2
+Ruhr Univ Bochum,Univ Elect Sci & Technol China,2
+Ruhr Univ Bochum,Univ Electrocommun,2
+Ruhr Univ Bochum,Univ Grenoble Alpes,2
+Ruhr Univ Bochum,Univ Paderborn,2
+Ruhr Univ Bochum,Univ Tokyo,2
+Ruhr Univ Bochum,Zhejiang Univ,2
+Russian Acad Sci,Tatarstan Acad Sci,2
+S China Normal Univ,Univ Hong Kong,2
+SOITEC SA,Univ Grenoble Alpes,2
+SOITEC SA,Univ Pavia,2
+SOITEC SA,Univ Toronto,2
+Sapienza Univ Roma,Univ Fed Fluminense,2
+Sapienza Univ Roma,Univ Fed Rio Grande do Norte,2
+Sapienza Univ Roma,Univ Vienna,2
+Shanghai Jiao Tong Univ,Shanxi Univ,2
+Shanghai Univ,Univ Basque Country UPV EHU,2
+Shanghai Univ,Univ Santiago Chile USACH,2
+Shanxi Univ,Univ Sci & Technol China,2
+Simon Fraser Univ,Univ Montreal,2
+Soochow Univ,Tongji Univ,2
+Southern Univ Sci & Technol,Univ Sci & Technol China,2
+Southwest Jiaotong Univ,Southwest Univ,2
+Southwest Jiaotong Univ,Univ Michigan,2
+Stanford Univ,Univ Calif Davis,2
+Sun Yat sen Univ,Tech Univ Denmark,2
+Tech Univ Berlin,Tech Univ Munich,2
+Tech Univ Berlin,Technion Israel Inst Technol,2
+Tech Univ Berlin,Univ Paderborn,2
+Tech Univ Denmark,US Army,2
+Tech Univ Denmark,Univ Western Australia,2
+Tech Univ Munich,Univ Grenoble Alpes,2
+Tech Univ Munich,Univ Paderborn,2
+Technion Israel Inst Technol,Univ Washington,2
+Technol Innovat Inst,Univ Concepcion,2
+Technol Innovat Inst,Univ Fed Rio de Janeiro,2
+Toshiba Res Europe Ltd,Univ Sheffield,2
+Tours Univ,Ulm Univ,2
+Tsinghua Natl Lab Informat Sci & Technol,Tsinghua Univ,2
+Tsinghua Univ,Univ Michigan,2
+Tulane Univ,Univ Brescia,2
+Univ Arizona,Univ Chicago,2
+Univ Arizona,Univ Pittsburgh,2
+Univ Bristol,Univ Copenhagen,2
+Univ Bristol,Univ Glasgow,2
+Univ Bristol,Univ Oxford,2
+Univ Bristol,Univ Queensland,2
+Univ Bristol,Univ Southampton,2
+Univ Bristol,Univ Strathclyde,2
+Univ Calif Davis,Univ Stuttgart,2
+Univ Calif Santa Barbara,Univ Konstanz,2
+Univ Camerino,Univ Cent Florida,2
+Univ Catolica Santisima Concepcion,Univ Concepcion,2
+Univ Chicago,Univ Konstanz,2
+Univ Chicago,Univ Massachusetts,2
+Univ Chicago,Univ Pittsburgh,2
+Univ Colorado,Univ Sydney,2
+Univ Concepcion,Univ Fed Rio de Janeiro,2
+Univ Copenhagen,Univ Innsbruck,2
+Univ Cote Azur,Univ Geneva,2
+Univ Edinburgh,Univ Oxford,2
+Univ Edinburgh,Univ Vienna,2
+Univ Fed Minas Gerais,Univ Pavia,2
+Univ Grenoble Alpes,Univ Pavia,2
+Univ Grenoble Alpes,Univ Toronto,2
+Univ Innsbruck,Univ Oxford,2
+Univ Innsbruck,Univ Queensland,2
+Univ Innsbruck,Univ Vienna,2
+Univ Maryland,Univ Oxford,2
+Univ Naples Federico II,Univ Roma La Sapienza,2
+Univ New Mexico,Univ Tokyo,2
+Univ New Mexico,Univ Toronto,2
+Univ New Mexico,Xanadu,2
+Univ Ottawa,Univ Waterloo,2
+Univ Oxford,Univ Vienna,2
+Univ Pavia,Univ Toronto,2
+Univ Queensland,Univ Technol Sydney,2
+Univ Rostock,Univ Vienna,2
+Univ Sci & Technol China,Univ St Andrews,2
+Univ Sci & Technol China,Univ Vienna,2
+Univ Sci & Technol China,Univ Wurzburg,2
+Univ Tokyo,Xanadu,2
+Univ Vienna,VitreaLab GmbH,2
+Univ Waterloo,Xanadu,2
+Xian Univ,Xidian Univ,2
+Zhejiang Univ Sci & Technol,Zhejiang Univ Technol,2
+3rd Inst Phys,IQST,1
+3rd Inst Phys,Max Planck Inst Solid State Res,1
+AMOLF,Eindhoven Univ Technol,1
+AMOLF,Kavli Inst Nanosci,1
+AMOLF,QphoX BV,1
+AMS,Natl Univ Def Technol,1
+AMS,Peking Univ,1
+AMS,Sun Yat sen Univ,1
+AMS,Univ Bristol,1
+AMS,Univ Queensland,1
+AMS,Univ Western Australia,1
+ASTAR,Adv Micro Foundry,1
+ASTAR,Alpine Quantum Technol AQT,1
+ASTAR,Amazon Web Serv,1
+ASTAR,CALTECH,1
+ASTAR,Fraunhofer Inst Appl Opt & Precis Engn IOF,1
+ASTAR,Friedrich Schiller Univ Jena,1
+ASTAR,Hong Kong Polytech Univ,1
+ASTAR,Humboldt Univ,1
+ASTAR,Inst Expt Phys,1
+ASTAR,Inst Quantum Opt & Quantum Informat,1
+ASTAR,Korea Inst Sci & Technol KIST,1
+ASTAR,Korea Univ,1
+ASTAR,Korea Univ Sci & Technol,1
+ASTAR,Macquarie Univ,1
+ASTAR,Max Planck Sch Photon,1
+ASTAR,NIST,1
+ASTAR,Pacific Northwest Natl Lab,1
+ASTAR,Princeton Univ,1
+ASTAR,Tongji Univ,1
+ASTAR,Univ Bristol,1
+ASTAR,Univ Cambridge,1
+ASTAR,Univ Colorado,1
+ASTAR,Univ Copenhagen,1
+ASTAR,Univ Sydney,1
+ASTAR,Univ Washington,1
+ASTAR,Yonsei Univ,1
+AWS Ctr Quantum Comp,CSIC,1
+AWS Ctr Quantum Comp,Hamburg Ctr Ultrafast Imaging,1
+AWS Ctr Quantum Comp,Harvard Univ,1
+AWS Ctr Quantum Comp,Hebrew Univ Jerusalem,1
+AWS Ctr Quantum Comp,IFF CSIC,1
+AWS Ctr Quantum Comp,MIT,1
+AWS Ctr Quantum Comp,Rice Univ,1
+AWS Ctr Quantum Comp,Univ Hamburg,1
+AWS Ctr Quantum Comp,Xi An Jiao Tong Univ,1
+AWS Ctr Quantum Comp,Yale Univ,1
+AWS Ctr Quantum Networking,DRS Daylight Solut,1
+AWS Ctr Quantum Networking,MIT,1
+Aalto Univ,Acad Sinica,1
+Aalto Univ,Natl Taiwan Univ,1
+Aalto Univ,Univ Ulm,1
+Aarhus Univ,Leibniz Univ Hannover,1
+Abdus Salaam Int Ctr Theoret Phys,Austrian Acad Sci,1
+Abdus Salaam Int Ctr Theoret Phys,Donostia Int Phys Ctr,1
+Abdus Salaam Int Ctr Theoret Phys,Ikerbasque Fdn Sci,1
+Abdus Salaam Int Ctr Theoret Phys,Univ Fed Fluminense,1
+Abdus Salaam Int Ctr Theoret Phys,Univ Tecnol Fed Parana UTFPR,1
+Abdus Salam Int Ctr Theoret Phys,Imam Mohammad Ibn Saud Islamic Univ IMSIU,1
+Abu Dhabi Univ,Imam Mohammad Ibn Saud Islamic Univ IMSIU,1
+Abu Dhabi Univ,Univ Sharjah,1
+Acad Sci Czech Republ,Adam Mickiewicz Univ,1
+Acad Sci Czech Republ,IP AS CR,1
+Acad Sci Czech Republ,Univ Waterloo,1
+Acad Sci Czech Republic,Adam Mickiewicz Univ,1
+Acad Sci Czech Republic,Palacky Univ,1
+Acad Sinica,Natl Chang Hua Univ Educ,1
+Acad Sinica,Natl Chung Hsing Univ,1
+Acad Sinica,Natl Taiwan Univ,1
+Adam Mickiewicz Univ,Chinese Acad Sci,1
+Adam Mickiewicz Univ,Fuzhou Univ,1
+Adam Mickiewicz Univ,RIKEN Ctr Quantum Comp,1
+Adam Mickiewicz Univ,RIKEN Ctr Quantum Comp RQC,1
+Adam Mickiewicz Univ,South China Univ Technol,1
+Adam Mickiewicz Univ,Univ Chinese Acad Sci,1
+Adam Mickiewicz Univ,Univ Messina,1
+Adam Mickiewicz Univ,Zhejiang Univ,1
+Adv Fiber Resources Milan Srl,Ctr Europeen Ceram,1
+Adv Fiber Resources Milan Srl,Ecole Polytech Fed Lausanne,1
+Adv Fiber Resources Milan Srl,Univ Limoges,1
+Adv Micro Foundry,Columbia Univ,1
+Adv Micro Foundry,Hong Kong Polytech Univ,1
+Adv Micro Foundry,Inst Microelect,1
+Adv Micro Foundry,MIT,1
+Adv Micro Foundry,Middle East Tech Univ,1
+Adv Micro Foundry,Nanjing Univ,1
+Adv Micro Foundry,Nanyang Technol Univ,1
+Adv Micro Foundry,Natl Univ Singapore,1
+Adv Micro Foundry,Shanghai Ind Technol Res Inst,1
+Adv Micro Foundry,Shanghai Inst Microsyst & Informat Technol,1
+Adv Micro Foundry,Tongji Univ,1
+Adv Micro Foundry,Univ Bristol,1
+Adv Micro Foundry,Univ Calif Los Angeles,1
+Adv Micro Foundry,Univ Copenhagen,1
+Aerosp Corp,CALTECH,1
+Aerosp Corp,Naval Res Lab,1
+Aerosp Corp,Univ Michigan,1
+Air Force Res Lab,Leidos,1
+Air Force Res Lab,Univ Dayton,1
+Aix Marseille Univ,City Univ Hong Kong,1
+Aix Marseille Univ,Ctr Tech Velizy,1
+Aix Marseille Univ,Oak Ridge Natl Lab,1
+Ajou Univ,Argonne Natl Lab,1
+Ajou Univ,Korea Inst Sci & Technol KIST,1
+Ajou Univ,Korea Univ Sci & Technol,1
+Ajou Univ,Univ Chicago,1
+Ajou Univ,Yonsei Univ,1
+Albanova Univ Ctr,Austrian Acad Sci,1
+Albanova Univ Ctr,Delft Univ Technol,1
+Albanova Univ Ctr,Micro Photon Devices,1
+Albanova Univ Ctr,Natl Res Council Canada,1
+Albanova Univ Ctr,Politecn Milan,1
+Albanova Univ Ctr,Royal Inst Technol,1
+Albanova Univ Ctr,Univ Vienna,1
+Albanova Univ Ctr,Univ Waterloo,1
+Albert Ludwigs Univ Freiburg,Fraunhofer Inst Appl Opt & Precis Engn,1
+Aliro Technol Inc,Harvard Univ,1
+Aliro Technol Inc,Princeton Univ,1
+Aliro Technol Inc,Univ Arizona,1
+Aliro Technol Inc,Univ Chicago,1
+Aliro Technol Inc,Univ Pittsburgh,1
+Alpine Quantum Technol AQT,Amazon Web Serv,1
+Alpine Quantum Technol AQT,Australian Natl Univ,1
+Alpine Quantum Technol AQT,Fraunhofer Inst Appl Opt & Precis Engn IOF,1
+Alpine Quantum Technol AQT,Friedrich Schiller Univ Jena,1
+Alpine Quantum Technol AQT,Inst Expt Phys,1
+Alpine Quantum Technol AQT,Inst Quantum Opt & Quantum Informat,1
+Alpine Quantum Technol AQT,Macquarie Univ,1
+Alpine Quantum Technol AQT,Max Planck Sch Photon,1
+Alpine Quantum Technol AQT,Nanyang Technol Univ,1
+Alpine Quantum Technol AQT,Univ Cambridge,1
+Alpine Quantum Technol GmbH,Entrop Labs,1
+Alpine Quantum Technol GmbH,Horizon Quantum Comp,1
+Alpine Quantum Technol GmbH,Natl Univ Singapore,1
+Alpine Quantum Technol GmbH,Osterreich Akad Wissenscha,1
+Alpine Quantum Technol GmbH,Singapore Univ Technol & Design,1
+Alpine Quantum Technol GmbH,Univ Innsbruck,1
+Alpine Quantum Technol GmbH,Univ Oxford,1
+Alpine Quantum Technol GmbH,Univ Vienna,1
+Alpine Quantum Technol GmbH,VitreaLab GmbH,1
+Amazon Web Serv,Australian Natl Univ,1
+Amazon Web Serv,Fraunhofer Inst Appl Opt & Precis Engn IOF,1
+Amazon Web Serv,Friedrich Schiller Univ Jena,1
+Amazon Web Serv,Inst Expt Phys,1
+Amazon Web Serv,Inst Quantum Opt & Quantum Informat,1
+Amazon Web Serv,Macquarie Univ,1
+Amazon Web Serv,Max Planck Sch Photon,1
+Amazon Web Serv,Nanyang Technol Univ,1
+Amazon Web Serv,Univ Cambridge,1
+Anhui Univ,CAS Ctr Excellence Quantum Informat & Quantum Phy,1
+Anhui Univ,Capital Normal Univ,1
+Anhui Univ,Huaibei Normal Univ,1
+Anhui Univ,Univ Sci & Technol China,1
+Anhui Xinhua Univ,Hefei Normal Univ,1
+Anhui Xinhua Univ,Huazhong Univ Sci & Technol,1
+Anhui Xinhua Univ,S China Normal Univ,1
+Anhui Xinhua Univ,Tsinghua Univ,1
+Anhui Xinhua Univ,Univ Hong Kong,1
+Argonne Natl Lab,Arizona State Univ,1
+Argonne Natl Lab,CUNY,1
+Argonne Natl Lab,Ctr Nanoscale Mat,1
+Argonne Natl Lab,Natl Inst Quantum & Radiol Sci & Technol,1
+Argonne Natl Lab,Univ Tokyo,1
+Argonne Natl Lab,Yale Univ,1
+Arizona State Univ,Lanzhou Univ,1
+Arizona State Univ,Univ Aberdeen,1
+Arizona State Univ,Univ Chicago,1
+Asansol Girls Coll,Triveni Devi Bhalotia Coll,1
+Australian Natl Univ,Collaborat Innovat Ctr Quantum Matter,1
+Australian Natl Univ,ENS PSL Res Univ,1
+Australian Natl Univ,Fraunhofer Inst Appl Opt & Precis Engn,1
+Australian Natl Univ,Fraunhofer Inst Appl Opt & Precis Engn IOF,1
+Australian Natl Univ,Griffith Univ,1
+Australian Natl Univ,ITMO Univ,1
+Australian Natl Univ,Inst Expt Phys,1
+Australian Natl Univ,Inst Quantum Opt & Quantum Informat,1
+Australian Natl Univ,Ioffe Inst,1
+Australian Natl Univ,Korea Inst Sci & Technol KIST,1
+Australian Natl Univ,Korea Univ,1
+Australian Natl Univ,Korea Univ Sci & Technol,1
+Australian Natl Univ,Macquarie Univ,1
+Australian Natl Univ,Max Planck Sch Photon,1
+Australian Natl Univ,Nanyang Technol Univ,1
+Australian Natl Univ,Peking Univ,1
+Australian Natl Univ,Sun Yat sen Univ,1
+Australian Natl Univ,Swinburne Univ Technol,1
+Australian Natl Univ,Tianjin Univ,1
+Australian Natl Univ,Univ Bristol,1
+Australian Natl Univ,Univ Cambridge,1
+Australian Natl Univ,Univ New South Wales,1
+Australian Natl Univ,Univ Rostock,1
+Australian Natl Univ,Univ Shanghai Sci & Technol,1
+Australian Natl Univ,Univ Sydney,1
+Australian Natl Univ,Univ Technol Sydney,1
+Australian Natl Univ,Univ Tokyo,1
+Australian Natl Univ,Yonsei Univ,1
+Australian Res Council Ctr Excellence Engn Quantu,Univ Queensland,1
+Australian Res Council Ctr Excellence Engn Quantu,Univ Technol Sydney,1
+Austrian Acad Sci,BCAM Basque Ctr Appl Math,1
+Austrian Acad Sci,Barcelona Inst Sci & Technol,1
+Austrian Acad Sci,Beijing Acad Quantum Informat Sci,1
+Austrian Acad Sci,CALTECH,1
+Austrian Acad Sci,CAS Ctr Excellence Quantum Informat & Quantum Phy,1
+Austrian Acad Sci,CNRS Telecom ParisTech,1
+Austrian Acad Sci,Constructor Univ,1
+Austrian Acad Sci,Delft Univ Technol,1
+Austrian Acad Sci,Donostia Int Phys Ctr,1
+Austrian Acad Sci,Heriot Watt Univ,1
+Austrian Acad Sci,IASBS,1
+Austrian Acad Sci,Ikerbasque Fdn Sci,1
+Austrian Acad Sci,Inst Fis Fundamental IFF,1
+Austrian Acad Sci,Inst Math Sci ICMAT CSIC UAM UC3M UCM,1
+Austrian Acad Sci,Max Planck Inst Quantum Opt,1
+Austrian Acad Sci,Micro Photon Devices,1
+Austrian Acad Sci,Natl Res Council Canada,1
+Austrian Acad Sci,Oklahoma State Univ,1
+Austrian Acad Sci,Peking Univ,1
+Austrian Acad Sci,Politecn Milan,1
+Austrian Acad Sci,Rhein Westfal TH Aachen,1
+Austrian Acad Sci,Sch Informat,1
+Austrian Acad Sci,Sun Yat sen Univ,1
+Austrian Acad Sci,Swiss Fed Inst Technol,1
+Austrian Acad Sci,TU Wien,1
+Austrian Acad Sci,Tech Univ Darmstadt,1
+Austrian Acad Sci,Tech Univ Denmark,1
+Austrian Acad Sci,Tech Univ Wien,1
+Austrian Acad Sci,Technol Innovat Inst,1
+Austrian Acad Sci,Univ Belgrade,1
+Austrian Acad Sci,Univ Bristol,1
+Austrian Acad Sci,Univ Coll Dublin,1
+Austrian Acad Sci,Univ Copenhagen,1
+Austrian Acad Sci,Univ Edinburgh,1
+Austrian Acad Sci,Univ Fed Fluminense,1
+Austrian Acad Sci,Univ Grenoble Alpes,1
+Austrian Acad Sci,Univ Innsbruck A,1
+Austrian Acad Sci,Univ Paris Diderot,1
+Austrian Acad Sci,Univ Queensland,1
+Austrian Acad Sci,Univ Tecnol Fed Parana UTFPR,1
+Austrian Acad Sci,Univ Western Australia,1
+Austrian Acad Sci,VitreaLab GmbH,1
+Austrian Acad Sci,Weizmann Inst Sci,1
+Austrian Acad Sci,Xi An Jiao Tong Univ,1
+BCAM Basque Ctr Appl Math,Lund Univ,1
+BCAM Basque Ctr Appl Math,Univ Sci & Technol China,1
+BCAM Basque Ctr Appl Math,Univ Vienna,1
+Bar Ilan Univ,Tel Aviv Univ,1
+Barcelona Inst Sci & Technol,CNR,1
+Barcelona Inst Sci & Technol,Chalmers Univ Technol,1
+Barcelona Inst Sci & Technol,Ecole Polytech,1
+Barcelona Inst Sci & Technol,Ecole Polytech Fed Lausanne,1
+Barcelona Inst Sci & Technol,Ecole Polytech Fed Lausanne EPFL,1
+Barcelona Inst Sci & Technol,Henan Key Lab Quantum Informat & Cryptog,1
+Barcelona Inst Sci & Technol,Inria Saclay,1
+Barcelona Inst Sci & Technol,Karlsruhe Inst Technol,1
+Barcelona Inst Sci & Technol,Karlsruher Inst Technol,1
+Barcelona Inst Sci & Technol,Ludwig Maximilians Univ Munchen,1
+Barcelona Inst Sci & Technol,Max Planck Inst Quantum Opt,1
+Barcelona Inst Sci & Technol,PSL Univ,1
+Barcelona Inst Sci & Technol,S N Bose Natl Ctr Basic Sci,1
+Barcelona Inst Sci & Technol,Sorbonne Univ,1
+Barcelona Inst Sci & Technol,Southern Univ Sci & Technol,1
+Barcelona Inst Sci & Technol,Swiss Fed Inst Technol,1
+Barcelona Inst Sci & Technol,Univ Bristol,1
+Barcelona Inst Sci & Technol,Univ Calgary,1
+Barcelona Inst Sci & Technol,Univ Catolica Santisima Concepcion,1
+Barcelona Inst Sci & Technol,Univ Fed Rio Grande do Norte,1
+Barcelona Inst Sci & Technol,Univ Fed Santa Catarina,1
+Barcelona Inst Sci & Technol,Univ Geneva,1
+Barcelona Inst Sci & Technol,Univ Grenoble Alpes,1
+Barcelona Inst Sci & Technol,Univ Palermo,1
+Barcelona Inst Sci & Technol,Univ Sci & Technol China,1
+Barcelona Inst Sci & Technol,Univ libre Bruxelles ULB,1
+Barcelona Inst Technol,ICREA Inst Catalana Recerca & Estudis Avancats,1
+Basque Country Univ EHU UPV,Univ So Calif,1
+Basque Country Univ EHU UPV,Univ Vienna,1
+Basque Ctr Appl Math BCAM,IKERBASQUE,1
+Basque Ctr Appl Math BCAM,Inst Ciencia Mat Madrid,1
+Basque Ctr Appl Math BCAM,TECNALIA,1
+Basque Ctr Appl Math BCAM,Univ Basque Country UPV EHU,1
+Basque Ctr Appl Math BCAM,Univ Carlos III Madrid,1
+Basque Fdn Sci,CNRS,1
+Basque Fdn Sci,Chalmers Univ Technol,1
+Basque Fdn Sci,Ctr Dev Nanosci & Nanotechnol,1
+Basque Fdn Sci,Donostia Int Phys Ctr DIPC,1
+Basque Fdn Sci,Fdn ARAID,1
+Basque Fdn Sci,Hungarian Acad Sci,1
+Basque Fdn Sci,Inst Opt,1
+Basque Fdn Sci,L F Vereshchagin Inst High Pressure Phys,1
+Basque Fdn Sci,Leibniz Univ Hannover,1
+Basque Fdn Sci,Mat Phys Ctr CSIC,1
+Basque Fdn Sci,Max Planck Inst Quantum Opt,1
+Basque Fdn Sci,Tours Univ,1
+Basque Fdn Sci,Ulm Univ,1
+Basque Fdn Sci,Univ Bordeaux,1
+Basque Fdn Sci,Univ Munich,1
+Basque Fdn Sci,Univ Pais Vasco Euskal Herriko Unibertsitatea,1
+Basque Fdn Sci,Univ Queensland,1
+Basque Fdn Sci,Univ Santiago Chile USACH,1
+Basque Fdn Sci,Univ Sci & Technol China,1
+Basque Fdn Sci,Univ Ulm,1
+Basque Fdn Sci,Univ Zaragoza,1
+Bayer Akad Wissensch,CNRS,1
+Bayer Akad Wissensch,CSIC,1
+Bayer Akad Wissensch,Nanosyst Initiat Munich,1
+Bayer Akad Wissensch,Tech Univ Munich,1
+Bayer Akad Wissensch,Univ Grenoble Alpes,1
+Bayer Akad Wissensch,Univ Mayor,1
+Bedimens Spa,Ist Italiano Tecnol,1
+Bedimens Spa,Ist Nazl Fis Nucl,1
+Bedimens Spa,Scuola Normale Super Pisa,1
+Bedimens Spa,Univ Florence,1
+Bedimens Spa,Univ Genoa,1
+Beijing Acad Quantum Informat Sci,Beijing Inst Spacecraft Syst Engn,1
+Beijing Acad Quantum Informat Sci,Beijing Natl Res Ctr Informat Sci & Technol,1
+Beijing Acad Quantum Informat Sci,Frontier Sci Ctr Quantum Informat,1
+Beijing Acad Quantum Informat Sci,Heriot Watt Univ,1
+Beijing Acad Quantum Informat Sci,RIKEN,1
+Beijing Acad Quantum Informat Sci,Shanxi Univ,1
+Beijing Acad Quantum Informat Sci,Songshan Lake Mat Lab,1
+Beijing Acad Quantum Informat Sci,Sun Yat sen Univ,1
+Beijing Acad Quantum Informat Sci,Tsinghua Univ,1
+Beijing Acad Quantum Informat Sci,UCAS,1
+Beijing Acad Quantum Informat Sci,Univ Chinese Acad Sci,1
+Beijing Acad Quantum Informat Sci,Zhejiang Univ,1
+Beijing Computat Sci Res Ctr,CAS Ctr Excellence Quantum Informat & Quantum Phy,1
+Beijing Computat Sci Res Ctr,Canadian Inst Adv Res,1
+Beijing Computat Sci Res Ctr,Capital Normal Univ,1
+Beijing Computat Sci Res Ctr,Inst Appl Phys & Computat Math,1
+Beijing Computat Sci Res Ctr,Jiangnan Univ,1
+Beijing Computat Sci Res Ctr,Nanjing Univ Posts & Telecommun,1
+Beijing Computat Sci Res Ctr,Ningbo Univ,1
+Beijing Computat Sci Res Ctr,Ruhr Univ Bochum,1
+Beijing Computat Sci Res Ctr,Soochow Univ,1
+Beijing Computat Sci Res Ctr,Space Engn Univ,1
+Beijing Computat Sci Res Ctr,Stuttgart Res Ctr Photon Engn SCoPE,1
+Beijing Computat Sci Res Ctr,Tianjin Normal Univ,1
+Beijing Computat Sci Res Ctr,Univ Sci & Technol Beijing,1
+Beijing Computat Sci Res Ctr,Univ Sci & Technol China CAS,1
+Beijing Computat Sci Res Ctr,Univ Stuttgart,1
+Beijing Computat Sci Res Ctr,Wigner Res Ctr Phys,1
+Beijing Inst Mech & Elect Space,Canadian Inst Adv Res,1
+Beijing Inst Mech & Elect Space,East China Normal Univ,1
+Beijing Inst Mech & Elect Space,Southeast Univ,1
+Beijing Inst Mech & Elect Space,Univ Calgary,1
+Beijing Inst Mech & Elect Space,Univ Sci & Technol China,1
+Beijing Inst Spacecraft Syst Engn,Beijing Natl Res Ctr Informat Sci & Technol,1
+Beijing Inst Spacecraft Syst Engn,Frontier Sci Ctr Quantum Informat,1
+Beijing Inst Spacecraft Syst Engn,Tsinghua Univ,1
+Beijing Inst Technol,Collaborat Innovat Ctr Adv Microstruct,1
+Beijing Inst Technol,Fudan Univ,1
+Beijing Inst Technol,Nanjing Univ Posts & Telecommun,1
+Beijing Inst Technol,Univ Cologne,1
+Beijing Inst Technol,Univ Sci & Technol Beijing,1
+Beijing Inst Technol,Univ Sci & Technol China,1
+Beijing Inst Technol,Univ Siegen,1
+Beijing Natl Res Ctr Informat Sci & Technol,Frontier Sci Ctr Quantum Informat,1
+Beijing Natl Res Ctr Informat Sci & Technol,Tsinghua Univ,1
+Beijing Normal Univ,Capital Normal Univ,1
+Beijing Normal Univ,Natl Univ Def Technol,1
+Beijing Normal Univ,State Key Lab Cryptol,1
+Beijing Univ Chem Technol,Univ Sci & Technol Beijing,1
+Beijing Univ Posts & Telecommun,Dublin City Univ,1
+Beijing Univ Posts & Telecommun,Henan Univ,1
+Beijing Univ Posts & Telecommun,Southwest Jiaotong Univ,1
+Bell Labs,Univ Oregon,1
+Benemerita Univ Autonoma Puebla,Univ Zaragoza,1
+Birla Inst Technol & Sci,Univ Delhi,1
+Birla Inst Technol & Sci,Univ Sci & Technol,1
+Birla Inst Technol & Sci Pilani,Indian Inst Technol,1
+Birla Inst Technol & Sci Pilani,Jawaharlal Nehru Univ,1
+Birla Inst Technol & Sci Pilani,Univ Arizona,1
+Birla Inst Technol & Sci Pilani,Univ Chicago,1
+Birla Inst Technol & Sci Pilani,Univ Pittsburgh,1
+Bleximo Corp,Canadian Inst Adv Res,1
+Bleximo Corp,Univ Calif Berkeley,1
+Bleximo Corp,Univ Sherbrooke,1
+Bogazici Univ,Isik Univ,1
+Bohai Univ,Chuangchun Univ,1
+Bohai Univ,Henan Univ Engn,1
+Bohai Univ,Zhengzhou Univ,1
+Bosch Car Multimedia Portugal SA,Univ Bristol,1
+Bosch Car Multimedia Portugal SA,Univ Nottingham,1
+Bosch Car Multimedia Portugal SA,Univ Oxford,1
+Bosch Car Multimedia Portugal SA,Univ Southampton,1
+Boston Coll,San Jose State Univ,1
+Boston Univ,Columbia Univ,1
+Boston Univ,Stonehill Coll,1
+Brookhaven Natl Lab,Columbia Univ,1
+Brookhaven Natl Lab,Delft Univ Technol,1
+Brookhaven Natl Lab,Qunnect Inc,1
+Brookhaven Natl Lab,SUNY Albany,1
+Brookhaven Natl Lab,SUNY Stony Brook,1
+Brookhaven Natl Lab,Tech Univ Denmark,1
+Brookhaven Natl Lab,Univ Massachusetts,1
+Brookhaven Natl Lab,Univ Padua,1
+Budapest Univ Technol & Econ,Czech Acad Sci,1
+Budapest Univ Technol & Econ,Czech Tech Univ,1
+Budapest Univ Technol & Econ,Eotvos Lorand Univ,1
+Budapest Univ Technol & Econ,Hasselt Univ,1
+Budapest Univ Technol & Econ,Hungarian Acad Sci,1
+Budapest Univ Technol & Econ,IMEC,1
+Budapest Univ Technol & Econ,Natl Univ Sci & Technol MISIS,1
+Budapest Univ Technol & Econ,Salzburg Univ,1
+Budapest Univ Technol & Econ,Tomsk State Univ,1
+Budapest Univ Technol & Econ,Univ Basque Country,1
+Budapest Univ Technol & Econ,Univ Erlangen Nurnberg,1
+Budapest Univ Technol & Econ,Univ Vienna,1
+Budapest Univ Technol & Econ,Wigner Res Ctr Phys,1
+Bulgarian Acad Sci,Tel Aviv Univ,1
+Bushehr Nucl Power Plant Operating Co,Persian Gulf Univ,1
+CALTECH,CSIC,1
+CALTECH,Harvard Univ,1
+CALTECH,IFF CSIC,1
+CALTECH,MIT,1
+CALTECH,Natl Inst Stand & Technol,1
+CALTECH,Naval Res Lab,1
+CALTECH,Rice Univ,1
+CALTECH,Sandia Natl Labs,1
+CALTECH,Technion Israel Inst Technol,1
+CALTECH,USN,1
+CALTECH,Univ Basel,1
+CALTECH,Univ Calgary,1
+CALTECH,Univ Geneva,1
+CALTECH,Univ Innsbruck,1
+CALTECH,Univ London Imperial Coll Sci Technol & Med,1
+CALTECH,Univ Maryland,1
+CALTECH,Univ Michigan,1
+CALTECH,Univ Parma,1
+CALTECH,Univ Verona,1
+CALTECH,Xi An Jiao Tong Univ,1
+CAPSS,Natl Cheng Kung Univ,1
+CAPSS,Raman Res Inst,1
+CAPSS,SN Bose Natl Ctr Basic Sci,1
+CAS Ctr Excellence Quantum Informat & Quantum Phy,Capital Normal Univ,1
+CAS Ctr Excellence Quantum Informat & Quantum Phy,Univ Vienna,1
+CAS Univ Sci & Technol China,Peking Univ,1
+CAS Univ Sci & Technol China,Shanxi Univ,1
+CCDC Army Res Lab,Delft Univ Technol,1
+CCDC Army Res Lab,MIT,1
+CCDC Army Res Lab,Univ Cambridge,1
+CEA Grenoble,Univ Grenoble Alpes,1
+CEA Saclay,CNRS,1
+CEDENNA,Forschungszentrum Julich GmbH,1
+CEDENNA,Shanghai Univ,1
+CEDENNA,Univ Basque Country UPV EHU,1
+CEDENNA,Univ Santiago Chile USACH,1
+CITEDEF,Univ Buenos Aires,1
+CITEDEF CONICET,Consejo Nacl Invest Cient & Tecn,1
+CITEDEF CONICET,UBA,1
+CNR,CNRS,1
+CNR,Chalmers Univ Technol,1
+CNR,Collaborat Innovat Ctr Quantum Matter,1
+CNR,Ecole Polytech Fed Lausanne EPFL,1
+CNR,Eindhoven Univ Technol,1
+CNR,ICREA Inst Catalana Recerca & Estudis Avancats,1
+CNR,Max Planck Inst Quantum Opt,1
+CNR,Peking Univ,1
+CNR,Quandela SAS,1
+CNR,Queens Univ Belfast,1
+CNR,Qutools GmbH,1
+CNR,RMIT Univ,1
+CNR,Sapienza Univ Roma,1
+CNR,Shanxi Univ,1
+CNR,South Univ Sci & Technol China,1
+CNR,Swiss Fed Inst Technol,1
+CNR,Univ Bristol,1
+CNR,Univ Fed Sao Carlos,1
+CNR,Univ Lyon,1
+CNR,Univ Munich,1
+CNR,Univ Padua,1
+CNR,Univ Palermo,1
+CNR,Univ Paris Saclay,1
+CNR,Univ Pavia,1
+CNR,Univ Roma Tre,1
+CNR,Univ Sci & Technol China,1
+CNR,Univ Sydney,1
+CNR,Univ Vienna,1
+CNR IFN,ID Quant SA,1
+CNR IFN,Politecn Milan,1
+CNR IFN,Sicoya GmbH,1
+CNR IFN,Univ Geneva,1
+CNR INO,European Lab Nonlinear Spect LENS,1
+CNR INO,INFN,1
+CNR INO,LENS,1
+CNR INO,Tech Univ Munich,1
+CNR INO,Vinca Inst Nucl Sci,1
+CNR SPIN,ICFO Inst Ciencies Foton,1
+CNR SPIN,Univ Fed Rio de Janeiro,1
+CNR SPIN,Univ Naples Federico II,1
+CNR SPIN,Univ Roma La Sapienza,1
+CNRS,CSIC,1
+CNRS,Delft Univ Technol,1
+CNRS,Donostia Int Phys Ctr DIPC,1
+CNRS,Ecole Polytech,1
+CNRS,Inst Opt,1
+CNRS,L F Vereshchagin Inst High Pressure Phys,1
+CNRS,Mat Phys Ctr CSIC,1
+CNRS,Nanosyst Initiat Munich,1
+CNRS,Netherlands Org Appl Sci Res TNO,1
+CNRS,Politecn Milan,1
+CNRS,Tech Univ Munich,1
+CNRS,Tours Univ,1
+CNRS,Ulm Univ,1
+CNRS,Univ Basque Country UPV EHU,1
+CNRS,Univ Bristol,1
+CNRS,Univ Grenoble 1,1
+CNRS,Univ Mayor,1
+CNRS,Univ Montpellier,1
+CNRS,Univ Oxford,1
+CNRS,Univ Paris 07,1
+CNRS,Univ Paris 11,1
+CNRS,Univ Paris Saclay,1
+CNRS,Univ Roma La Sapienza,1
+CNRS,Univ St Andrews,1
+CNRS,Univ Strasbourg,1
+CNRS,Yale Univ,1
+CNRS Telecom ParisTech,Sch Informat,1
+CNRS Telecom ParisTech,Univ Innsbruck,1
+CNRS Telecom ParisTech,Univ Oxford,1
+CNRS UNS NUS NTU Int Joint Res Unit,INFN,1
+CNRS UNS NUS NTU Int Joint Res Unit,Nanyang Technol Univ,1
+CNRS UNS NUS NTU Int Joint Res Unit,Natl Univ Singapore,1
+CNRS UNS NUS NTU Int Joint Res Unit,Univ Catania,1
+COMSATS Inst Informat Technol,Natl Inst Lasers & Optron,1
+COMSATS Inst Informat Technol,Pakistan Inst Engn & Appl Sci,1
+CSIC,Chalmers Univ Technol,1
+CSIC,IFF CSIC,1
+CSIC,Max Planck Inst Quantum Opt,1
+CSIC,Nanosyst Initiat Munich,1
+CSIC,Tech Univ Munich,1
+CSIC,Univ Autonoma Madrid,1
+CSIC,Univ Grenoble Alpes,1
+CSIC,Univ Mayor,1
+CSIC,Univ Pais Vasco Euskal Herriko Unibertsitatea,1
+CSIC,Univ Pais Vasco UPV EHU,1
+CSIC,Univ Politecn Valencia,1
+CSIC,Univ Sheffield,1
+CSIR,Inst Math Sci,1
+CSIR,Univ KwaZulu Natal,1
+CUNY,CUNY City Coll,1
+CUNY,IST Austria,1
+CUNY,Indian Inst Sci,1
+CUNY,Res Univ,1
+CUNY,Russian Acad Sci,1
+CUNY,Univ Washington,1
+CUNY City Coll,IST Austria,1
+CUNY City Coll,Indian Inst Sci,1
+CUNY City Coll,Univ Washington,1
+CUNY City Coll New York,Univ Melbourne,1
+Calian Grp,Deutsch Telekom AG,1
+Calian Grp,Quantropi Inc,1
+Canadian Inst Adv Res,Ctr Quantum Informat & Quantum Control,1
+Canadian Inst Adv Res,Inst Opt Sci,1
+Canadian Inst Adv Res,Nanjing Univ Posts & Telecommun,1
+Canadian Inst Adv Res,Technion Israel Inst Technol,1
+Canadian Inst Adv Res,Univ Calif Berkeley,1
+Canadian Inst Adv Res,Univ Moncton,1
+Canadian Inst Adv Res,Univ Seville,1
+Canadian Inst Adv Res,Univ Sherbrooke,1
+Canadian Inst Adv Res,Univ Tokyo,1
+Canadian Inst Adv Res,Univ Toronto,1
+Capital Normal Univ,King Abdulaziz Univ,1
+Capital Normal Univ,Max Planck Inst Math Sci,1
+Capital Normal Univ,Natl Univ Def Technol,1
+Capital Normal Univ,Shanghai Jiao Tong Univ,1
+Capital Normal Univ,Southern Univ Sci & Technol,1
+Capital Normal Univ,State Key Lab Cryptol,1
+Capital Normal Univ,Wuhan Inst Technol,1
+Cardiff Univ,Toshiba Res Europe Ltd,1
+Cardiff Univ,Univ Cambridge,1
+Cardiff Univ,Univ Grenoble 1,1
+Cardiff Univ,Univ Grenoble Alpes,1
+Cardiff Univ,Univ Sheffield,1
+Cardiff Univ,Univ St Andrews,1
+Cardiff Univ,Univ Strasbourg,1
+Casablanca Hassan II Univ,Univ Mohammed V Agdal,1
+Centro Studi & Ric Enrico Fermi,Consiglio Nazl Ric IFN CNR,1
+Centro Studi & Ric Enrico Fermi,Consiglio Nazl Ric INO CNR,1
+Centro Studi & Ric Enrico Fermi,Museo Stor Fis,1
+Centro Studi & Ric Enrico Fermi,Politecn Milan,1
+Centro Studi & Ric Enrico Fermi,Sapienza Univ Roma,1
+Chalmers Univ Technol,Ecole Polytech Fed Lausanne,1
+Chalmers Univ Technol,Ecole Polytech Fed Lausanne EPFL,1
+Chalmers Univ Technol,ICREA Inst Catalana Recerca & Estudis Avancats,1
+Chalmers Univ Technol,MIT,1
+Chalmers Univ Technol,RIKEN Cluster Pioneering Res,1
+Chalmers Univ Technol,Swiss Fed Inst Technol,1
+Chalmers Univ Technol,Univ Michigan,1
+Chalmers Univ Technol,Univ Pais Vasco Euskal Herriko Unibertsitatea,1
+Chalmers Univ Technol,Univ Palermo,1
+Chapman Univ,Univ Vienna,1
+China Greatwall Technol Grp CO LTD,Natl Innovat Inst Def Technol,1
+China Greatwall Technol Grp CO LTD,Natl Univ Def Technol,1
+China Informat & Commun Technol Grp Corp CICT,Guangxi Univ,1
+China Informat & Commun Technol Grp Corp CICT,Natl Informat Optoelect Innovat Ctr NOE,1
+China Mobile Res Inst,Hefei Natl Lab,1
+China Mobile Res Inst,Peking Univ,1
+China Mobile Res Inst,Shanxi Univ,1
+China Mobile Res Inst,Univ Washington,1
+China Univ Geosci,Huazhong Univ Sci & Technol,1
+China Univ Geosci,Ludong Univ,1
+China Univ Geosci,Wuhan Inst Technol,1
+Chinese Acad Sci,City Univ Hong Kong,1
+Chinese Acad Sci,Ctr Energie Mat & Telecommun INRS EMT,1
+Chinese Acad Sci,Forschungszentrum Julich GmbH,1
+Chinese Acad Sci,Fuzhou Univ,1
+Chinese Acad Sci,Heriot Watt Univ,1
+Chinese Acad Sci,Lanzhou Univ,1
+Chinese Acad Sci,Natl Res Univ Informat Technol Mech & Opt,1
+Chinese Acad Sci,Natl Univ Def Technol,1
+Chinese Acad Sci,Natl Univ Singapore,1
+Chinese Acad Sci,Peking Univ,1
+Chinese Acad Sci,RIKEN,1
+Chinese Acad Sci,RIKEN Cluster Pioneering Res,1
+Chinese Acad Sci,RIKEN Ctr Quantum Comp RQC,1
+Chinese Acad Sci,Rhein Westfal TH Aachen,1
+Chinese Acad Sci,Ruhr Univ Bochum,1
+Chinese Acad Sci,SUNY Stony Brook,1
+Chinese Acad Sci,Shanxi Univ,1
+Chinese Acad Sci,Songshan Lake Mat Lab,1
+Chinese Acad Sci,Soochow Univ,1
+Chinese Acad Sci,South China Univ Technol,1
+Chinese Acad Sci,Swinburne Univ Technol,1
+Chinese Acad Sci,Tech Univ Denmark,1
+Chinese Acad Sci,UCAS,1
+Chinese Acad Sci,Univ Bristol,1
+Chinese Acad Sci,Univ Elect Sci & Technol China,1
+Chinese Acad Sci,Univ Michigan,1
+Chinese Acad Sci,Univ Palermo,1
+Chinese Acad Sci,Univ South Wales,1
+Chinese Acad Sci,Univ Strathclyde,1
+Chinese Acad Sci,Univ Sussex,1
+Chinese Acad Sci,Univ Western Australia,1
+Chinese Acad Sci,Xi An Jiao Tong Univ,1
+Chinese Univ Hong Kong,Huazhong Univ Sci & Technol,1
+Chinese Univ Hong Kong,Nanjing Univ,1
+Chinese Univ Hong Kong,S China Normal Univ,1
+Chinese Univ Hong Kong,Univ Hong Kong,1
+Chinese Univ Hong Kong,Univ Sci & Technol China,1
+Chongqing Univ Posts & Telecommun,Dublin City Univ,1
+Chongqing Univ Posts & Telecommun,North China Univ Water Resources & Elect Power,1
+Chongqing Univ Posts & Telecommun,Sichuan Univ Sci & Engn,1
+Chongqing Univ Posts & Telecommun,Southwest Jiaotong Univ,1
+Chongqing Univ Technol,Hengyang Normal Univ,1
+Chongqing Univ Technol,Hunan Normal Univ,1
+Chonnam Natl Univ,Pusan Natl Univ,1
+Chuangchun Univ,Henan Univ Engn,1
+Chuangchun Univ,Zhengzhou Univ,1
+Chungbuk Natl Univ,Dalian Univ Technol,1
+Chungbuk Natl Univ,Harbin Inst Technol,1
+Chungbuk Natl Univ,Korea Inst Sci & Technol KIST,1
+Chungbuk Natl Univ,Korea Univ,1
+Chungbuk Natl Univ,Korea Univ Sci & Technol,1
+Chungbuk Natl Univ,Korean Intellectual Property Off,1
+Chuo Univ,Hokkaido Univ,1
+Chuo Univ,Kyoto Univ,1
+Chuo Univ,Osaka Univ,1
+City Univ Hong Kong,Ctr Energie Mat & Telecommun INRS EMT,1
+City Univ Hong Kong,Ctr Tech Velizy,1
+City Univ Hong Kong,Heriot Watt Univ,1
+City Univ Hong Kong,Huawei Technol,1
+City Univ Hong Kong,Nanyang Technol Univ,1
+City Univ Hong Kong,Natl Inst Educ,1
+City Univ Hong Kong,Natl Res Univ Informat Technol Mech & Opt,1
+City Univ Hong Kong,Natl Univ Singapore,1
+City Univ Hong Kong,Oak Ridge Natl Lab,1
+City Univ Hong Kong,Shanghai Jiao Tong Univ,1
+City Univ Hong Kong,Shenzhen Key Lab Quantum Sci & Engn,1
+City Univ Hong Kong,South China Normal Univ,1
+City Univ Hong Kong,Southern Univ Sci & Technol,1
+City Univ Hong Kong,Sun Yat sen Univ,1
+City Univ Hong Kong,Swinburne Univ Technol,1
+City Univ Hong Kong,Univ Elect Sci & Technol China,1
+City Univ Hong Kong,Univ Glasgow,1
+City Univ Hong Kong,Univ Palermo,1
+City Univ Hong Kong,Univ Strathclyde,1
+City Univ Hong Kong,Univ Sussex,1
+Cluster Excellence PhoenixD Photon Opt & Engn Inn,Leibniz Univ Hannover,1
+Cluster Excellence PhoenixD Photon Opt & Engn Inn,MaX Born Inst,1
+Coll Informat & Nav,Xian Commun Coll,1
+Collaborat Innovat Ctr Adv Microstruct,Fudan Univ,1
+Collaborat Innovat Ctr Adv Microstruct,Nanjing Univ,1
+Collaborat Innovat Ctr Adv Microstruct,Nanjing Univ Posts & Telecommun,1
+Collaborat Innovat Ctr Adv Microstruct,Northwestern Univ,1
+Collaborat Innovat Ctr Adv Microstruct,Southeast Univ,1
+Collaborat Innovat Ctr Adv Microstruct,Univ Cologne,1
+Collaborat Innovat Ctr Adv Microstruct,Univ Sci & Technol China,1
+Collaborat Innovat Ctr Adv Microstruct,Univ Siegen,1
+Collaborat Innovat Ctr Quantum Matter,Frontier Sci Ctr Quantum Informat,1
+Collaborat Innovat Ctr Quantum Matter,Fudan Univ,1
+Collaborat Innovat Ctr Quantum Matter,Politecn Milan,1
+Collaborat Innovat Ctr Quantum Matter,Shanghai Artificial Intelligence Lab,1
+Collaborat Innovat Ctr Quantum Matter,Shanghai Qi Zhi Inst,1
+Collaborat Innovat Ctr Quantum Matter,Shanghai Res Ctr Quantum Sci,1
+Collaborat Innovat Ctr Quantum Matter,Shanxi Univ,1
+Collaborat Innovat Ctr Quantum Matter,Swinburne Univ Technol,1
+Collaborat Innovat Ctr Quantum Matter,Tianjin Univ,1
+Collaborat Innovat Ctr Quantum Matter,Univ Sci & Technol China,1
+Columbia Univ,Cornell Univ,1
+Columbia Univ,Humboldt Univ,1
+Columbia Univ,Inst Microelect,1
+Columbia Univ,MIT,1
+Columbia Univ,Middle East Tech Univ,1
+Columbia Univ,Nanjing Univ,1
+Columbia Univ,SUNY Albany,1
+Columbia Univ,Shanghai Ind Technol Res Inst,1
+Columbia Univ,Shanghai Inst Microsyst & Informat Technol,1
+Columbia Univ,Univ Calif Los Angeles,1
+Columbia Univ,Univ Camerino,1
+Columbia Univ,Univ Cent Florida,1
+Commiss Higher Educ,Mahidol Univ,1
+Commiss Higher Educ,Prince Songkla Univ,1
+Complesso Univ Monte S Angelo,ICFO Inst Ciencies Foton,1
+Complesso Univ Monte S Angelo,Ist Italiano Tecnol,1
+Complesso Univ Monte S Angelo,Univ Naples Federico II,1
+Complesso Univ Monte S Angelo,Univ Roma La Sapienza,1
+Consejo Nacl Invest Cient & Tecn,Inst Balseiro,1
+Consejo Nacl Invest Cient & Tecn,UBA,1
+Consejo Nacl Invest Cient & Tecn,Univ Nacl Cuyo,1
+Consiglio Nazl Ric IFN CNR,Consiglio Nazl Ric INO CNR,1
+Consiglio Nazl Ric IFN CNR,Erwin Schrodinger Int Inst Math & Phys,1
+Consiglio Nazl Ric IFN CNR,Int Iberian Nanotechnol Lab INL,1
+Consiglio Nazl Ric IFN CNR,Museo Stor Fis,1
+Consiglio Nazl Ric IFN CNR,Natl Univ Singapore,1
+Consiglio Nazl Ric IFN CNR,Singapore Univ Technol & Design,1
+Consiglio Nazl Ric IFN CNR,Univ Fed Fluminense,1
+Consiglio Nazl Ric IFN CNR,Univ Maryland,1
+Consiglio Nazl Ric IFN CNR,Univ Vienna,1
+Consiglio Nazl Ric INO CNR,Museo Stor Fis,1
+Consiglio Nazl Ric INO CNR,Politecn Milan,1
+Consiglio Nazl Ric INO CNR,Sapienza Univ Roma,1
+Constructor Univ,Inst Math Sci ICMAT CSIC UAM UC3M UCM,1
+Constructor Univ,Lund Univ,1
+Constructor Univ,Univ Geneva,1
+Constructor Univ,Univ Sci & Technol China,1
+Constructor Univ Bremen GmbH,Delft Univ Technol,1
+Constructor Univ Bremen GmbH,Univ Geneva,1
+Cornell Univ,Humboldt Univ,1
+Cornell Univ,Inst Telecomunicacoes,1
+Cornell Univ,Inst Univ France,1
+Cornell Univ,Univ Bristol,1
+Cornell Univ,Univ Innsbruck,1
+Cornell Univ,Univ Lisbon,1
+Cornell Univ,Univ Montpellier,1
+Cornell Univ,Univ Queensland,1
+Cornell Univ,Univ Wisconsin Milwaukee,1
+Corning Res & Dev Corp,ITMO Univ,1
+Ctr Dev Nanosci & Nanotechnol,Shanghai Univ,1
+Ctr Dev Nanosci & Nanotechnol,Univ Basque Country,1
+Ctr Dev Nanosci & Nanotechnol,Univ Santiago Chile USACH,1
+Ctr Dev Nanosci & Nanotechnol,Univ Sci & Technol China,1
+Ctr Energie Mat & Telecommun INRS EMT,Heriot Watt Univ,1
+Ctr Energie Mat & Telecommun INRS EMT,Natl Res Univ Informat Technol Mech & Opt,1
+Ctr Energie Mat & Telecommun INRS EMT,Swinburne Univ Technol,1
+Ctr Energie Mat & Telecommun INRS EMT,Univ Elect Sci & Technol China,1
+Ctr Energie Mat & Telecommun INRS EMT,Univ Glasgow,1
+Ctr Energie Mat & Telecommun INRS EMT,Univ Palermo,1
+Ctr Energie Mat & Telecommun INRS EMT,Univ Strathclyde,1
+Ctr Energie Mat & Telecommun INRS EMT,Univ Sussex,1
+Ctr Europeen Ceram,LIGENTEC SA,1
+Ctr Europeen Ceram,SOITEC SA,1
+Ctr Europeen Ceram,Univ Grenoble Alpes,1
+Ctr Europeen Ceram,Univ Pavia,1
+Ctr Europeen Ceram,Univ Toronto,1
+Ctr Europeen Sci Quant CESQ,Karlsruhe Inst Technol,1
+Ctr Europeen Sci Quant CESQ,Karlsruhe Inst Technol KIT,1
+Ctr Europeen Sci Quant CESQ,Univ Grenoble Alpes,1
+Ctr Europeen Sci Quant CESQ,Univ Panama,1
+Ctr Fis & Engn Mat Avancados CeFEMA,Inst Telecomunicacoes,1
+Ctr Fis & Engn Mat Avancados CeFEMA,MIT,1
+Ctr Fis & Engn Mat Avancados CeFEMA,PQI Portuguese Quantum Inst,1
+Ctr Fis & Engn Mat Avancados CeFEMA,Sorbonne Univ,1
+Ctr Fis & Engn Mat Avancados CeFEMA,Univ Lisbon,1
+Ctr Fis & Engn Mat Avancados CeFEMA,Univ Massachusetts,1
+Ctr Invest Cient & Educ Super,Univ Nacl Autonoma Mexico,1
+Ctr Invest Cient & Educ Super Ensenada,Univ Nacl Autonoma Mexico,1
+Ctr Nacl Metrol,Tecnol Monterrey,1
+Ctr Nanoscale Mat,Univ Chicago,1
+Ctr Quantum Informat & Quantum Control,Inst Opt Sci,1
+Ctr Quantum Sci & Engn EPFL,Purdue Univ,1
+Ctr Quantum Sci & Engn EPFL,Swiss Fed Inst Technol Lausanne EPFL,1
+Ctr Quantum Technol,Inst Atom & Mol Sci,1
+Ctr Quantum Technol,Natl Cheng Kung Univ,1
+Ctr Quantum Technol,Natl Taiwan Univ,1
+Ctr Tech Velizy,Oak Ridge Natl Lab,1
+Czech Acad Sci,Czech Tech Univ,1
+Czech Acad Sci,Hasselt Univ,1
+Czech Acad Sci,IMEC,1
+Czech Acad Sci,Linkoping Univ,1
+Czech Acad Sci,Univ Vienna,1
+Czech Acad Sci,Wigner Res Ctr Phys,1
+Czech Tech Univ,Hasselt Univ,1
+Czech Tech Univ,IMEC,1
+Czech Tech Univ,Linkoping Univ,1
+Czech Tech Univ,Univ Vienna,1
+Czech Tech Univ,Wigner Res Ctr Phys,1
+DEVCOM Army Res Lab,NASA,1
+DEVCOM Army Res Lab,Peraton,1
+DEVCOM Army Res Lab,Tulane Univ,1
+DEVCOM Army Res Lab,Univ Illinois,1
+DISSE INCT Nanodisposit Semicond,Univ Fed Minas Gerais,1
+DISSE INCT Nanodisposit Semicond,Univ Fed Rio de Janeiro,1
+DISSE INCT Nanodisposit Semicond,Univ Pavia,1
+DRS Daylight Solut,Harvard Univ,1
+Dalian Univ Technol,NASB,1
+Dalian Univ Technol,Yanbian Univ,1
+Damanhour Univ,King Abdulaziz Univ,1
+Damanhour Univ,Sohag Univ,1
+Damanhour Univ,Taif Univ,1
+Damanhour Univ,Univ Jordan,1
+Delft Univ Technol,Fathom Radiant,1
+Delft Univ Technol,Harvard Smithsonian Ctr Astrophys,1
+Delft Univ Technol,Humboldt Univ,1
+Delft Univ Technol,Inst Quantum Comp,1
+Delft Univ Technol,KTH Royal Inst Technol,1
+Delft Univ Technol,Micro Photon Devices,1
+Delft Univ Technol,Perimeter Inst Theoret Phys,1
+Delft Univ Technol,Philips Innovat Serv Eindhoven,1
+Delft Univ Technol,Politecn Milan,1
+Delft Univ Technol,Princeton Univ,1
+Delft Univ Technol,QphoX BV,1
+Delft Univ Technol,Rice Univ,1
+Delft Univ Technol,Royal Inst Technol KTH,1
+Delft Univ Technol,SandboxAQ,1
+Delft Univ Technol,Swiss Fed Inst Technol,1
+Delft Univ Technol,TNO,1
+Delft Univ Technol,Tsinghua Univ,1
+Delft Univ Technol,Univ Calif Santa Barbara,1
+Delft Univ Technol,Univ Cambridge,1
+Delft Univ Technol,Univ Geneva,1
+Delft Univ Technol,Univ Montpellier,1
+Delft Univ Technol,Univ Munster,1
+Delft Univ Technol,Univ Stuttgart,1
+Delft Univ Technol,Univ Vienna,1
+Delft Univ Technol,Waterloo Inst Nanotechnol,1
+Deutsch Telekom AG,Quantropi Inc,1
+Dodd Walls Ctr Photon & Quantum Technol,IST Austria,1
+Dodd Walls Ctr Photon & Quantum Technol,Univ Otago,1
+Donostia Int Phys Ctr,Ikerbasque Fdn Sci,1
+Donostia Int Phys Ctr,Univ Fed Fluminense,1
+Donostia Int Phys Ctr,Univ Tecnol Fed Parana UTFPR,1
+Donostia Int Phys Ctr DIPC,Inst Opt,1
+Donostia Int Phys Ctr DIPC,L F Vereshchagin Inst High Pressure Phys,1
+Donostia Int Phys Ctr DIPC,Mat Phys Ctr CSIC,1
+Donostia Int Phys Ctr DIPC,Tours Univ,1
+Donostia Int Phys Ctr DIPC,Ulm Univ,1
+Donostia Int Phys Ctr DIPC,Univ Basque Country UPV EHU,1
+Donostia Int Phys Ctr DIPC,Univ Bordeaux,1
+Dublin City Univ,Henan Univ,1
+Dublin City Univ,North China Univ Water Resources & Elect Power,1
+Dublin City Univ,Sichuan Univ Sci & Engn,1
+Dublin City Univ,Sichuan Univ Sci Engn,1
+Dublin City Univ,Southwest Univ,1
+Dublin City Univ,Univ Michigan,1
+Duke Univ,Georgia Inst Technol,1
+Duke Univ,Tsinghua Univ,1
+Duke Univ,Univ Arizona,1
+Duke Univ,Univ British Columbia,1
+Duke Univ,Univ Michigan,1
+E China Normal Univ,Hangzhou Normal Univ,1
+ENS PSL Res Univ,Univ Shanghai Sci & Technol,1
+ESIEA,East China Normal Univ,1
+ESIEA,NYU,1
+ESIEA,NYU Shanghai,1
+ESIEA,Natl Cheng Kung Univ,1
+ESIEA,Natl Inst Informat,1
+ESIEA,New York Univ Shanghai,1
+ESIEA,Univ Queensland,1
+ESIEA,Univ Sci & Technol China,1
+ETH,Natl Inst Stand & Technol,1
+ETH,Soochow Univ,1
+ETRI,Korea Adv Inst Sci & Technol,1
+ETRI,Pohang Univ Sci & Technol POSTECH,1
+ETRI,Univ Trento,1
+East China Normal Univ,Indiana Univ Purdue Univ,1
+East China Normal Univ,Louisiana State Univ,1
+East China Normal Univ,Nanjing Univ Posts & Telecommun,1
+East China Normal Univ,Natl Cheng Kung Univ,1
+East China Normal Univ,Natl Inst Informat & Commun Technol,1
+East China Normal Univ,Ningbo Univ,1
+East China Normal Univ,Southern Univ Sci & Technol,1
+East China Normal Univ,Tsung Dao Lee Inst,1
+East China Normal Univ,USTC,1
+East China Normal Univ,Univ Arizona,1
+East China Normal Univ,Univ Queensland,1
+East China Normal Univ,Univ Warwick,1
+Ecole Polytech,Inria Saclay,1
+Ecole Polytech,Univ Paris 11,1
+Ecole Polytech,Univ Paris Saclay,1
+Ecole Polytech,Univ Sci & Technol China,1
+Ecole Polytech,Yale Univ,1
+Ecole Polytech Fed Lausanne,Ecole Polytech Fed Lausanne EPFL,1
+Ecole Polytech Fed Lausanne,Eindhoven Univ Technol,1
+Ecole Polytech Fed Lausanne,ICREA Inst Catalana Recerca & Estudis Avancats,1
+Ecole Polytech Fed Lausanne,LIGENTEC SA,1
+Ecole Polytech Fed Lausanne,SOITEC SA,1
+Ecole Polytech Fed Lausanne,Swiss Fed Inst Technol,1
+Ecole Polytech Fed Lausanne,Univ Grenoble Alpes,1
+Ecole Polytech Fed Lausanne,Univ Limoges,1
+Ecole Polytech Fed Lausanne,Univ Lyon,1
+Ecole Polytech Fed Lausanne,Univ Palermo,1
+Ecole Polytech Fed Lausanne,Univ Pavia,1
+Ecole Polytech Fed Lausanne,Univ Toronto,1
+Ecole Polytech Fed Lausanne EPFL,ICREA Inst Catalana Recerca & Estudis Avancats,1
+Ecole Polytech Fed Lausanne EPFL,Swiss Fed Inst Technol,1
+Ecole Polytech Fed Lausanne EPFL,Univ Palermo,1
+Ecole Polytech Montreal,Univ Calgary,1
+Eindhoven Univ Technol,Kavli Inst Nanosci,1
+Eindhoven Univ Technol,Max Planck Inst Phys Komplexer Syst,1
+Eindhoven Univ Technol,Philips Innovat Serv Eindhoven,1
+Eindhoven Univ Technol,QphoX BV,1
+Eindhoven Univ Technol,Univ Lyon,1
+Element Six Ltd,Univ Cambridge,1
+Element Six Ltd,Univ Saarland,1
+Elenion Technol,Lightmatter,1
+Elenion Technol,MIT,1
+Empa,Max Planck Inst Polymer Res,1
+Empa,Rensselaer Polytech Inst,1
+Empa,Shanghai Jiao Tong Univ,1
+Empa,Tech Univ Dresden,1
+Empa,Univ Bern,1
+Entrop Labs,Horizon Quantum Comp,1
+Entrop Labs,Natl Univ Singapore,1
+Entrop Labs,Osterreich Akad Wissenscha,1
+Entrop Labs,Singapore Univ Technol & Design,1
+Entrop Labs,Univ Innsbruck,1
+Entrop Labs,Univ Oxford,1
+Entrop Labs,Univ Vienna,1
+Entrop Labs,VitreaLab GmbH,1
+Eotvos Lorand Univ,Hungarian Acad Sci,1
+Eotvos Lorand Univ,Linkoping Univ,1
+Eotvos Lorand Univ,Natl Univ Sci & Technol MISIS,1
+Eotvos Lorand Univ,Salzburg Univ,1
+Eotvos Lorand Univ,Tomsk State Univ,1
+Eotvos Lorand Univ,Univ Basque Country,1
+Eotvos Lorand Univ,Univ Erlangen Nurnberg,1
+Erwin Schrodinger Int Inst Math & Phys,Natl Univ Singapore,1
+Erwin Schrodinger Int Inst Math & Phys,Politecn Milan,1
+Erwin Schrodinger Int Inst Math & Phys,Singapore Univ Technol & Design,1
+Erwin Schrodinger Int Inst Math & Phys,Univ Maryland,1
+Erwin Schrodinger Int Inst Math & Phys,Univ Vienna,1
+European Lab Nonlinear Spect LENS,INFN,1
+European Lab Nonlinear Spect LENS,Tech Univ Munich,1
+European Lab Nonlinear Spect LENS,Univ Firenze,1
+Fathom Radiant,Princeton Univ,1
+Fathom Radiant,Rice Univ,1
+Fathom Radiant,Univ Calif Santa Barbara,1
+Fathom Radiant,Univ Chicago,1
+Fdn ARAID,Univ Pais Vasco UPV EHU,1
+Fdn Bruno Kessler,Pukyong Natl Univ,1
+Fdn Bruno Kessler,Univ Trento,1
+Fdn Res & Technol Hellas,Iowa State Univ,1
+Fdn Res & Technol Hellas,NYU Shanghai,1
+Fdn Res & Technol Hellas,New York Univ Shanghai,1
+Fdn Res & Technol Hellas,Polytech Montreal,1
+Fdn Res & Technol Hellas,Univ Crete,1
+Flux Photon Inc,NTT Res Inc,1
+Flux Photon Inc,Stanford Univ,1
+Forschungszentrum Julich,MIT,1
+Forschungszentrum Julich,UNSW,1
+Forschungszentrum Julich,Univ Maryland,1
+Forschungszentrum Julich GmbH,Rhein Westfal TH Aachen,1
+Forschungszentrum Julich GmbH,Ruhr Univ Bochum,1
+Forschungszentrum Julich GmbH,Shanghai Univ,1
+Forschungszentrum Julich GmbH,Univ Basque Country UPV EHU,1
+Forschungszentrum Julich GmbH,Univ Santiago Chile USACH,1
+Forschungszentrum Julich GmbH,Zhejiang Univ,1
+Fraunhofer Inst Appl Opt & Precis Engn,Friedrich Schiller Univ,1
+Fraunhofer Inst Appl Opt & Precis Engn,Friedrich Schiller Univ Jena,1
+Fraunhofer Inst Appl Opt & Precis Engn,Univ Technol Sydney,1
+Fraunhofer Inst Appl Opt & Precis Engn,Univ Vienna,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Friedrich Schiller Univ Jena,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Inst Expt Phys,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Inst Quantum Opt & Quantum Informat,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Macquarie Univ,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Max Planck Sch Photon,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Nanyang Technol Univ,1
+Fraunhofer Inst Appl Opt & Precis Engn IOF,Univ Cambridge,1
+Fraunhofer Inst Integrated Syst & Device Technol,Helmholtz Zentrum Dresden Rossendorf,1
+Fraunhofer Inst Integrated Syst & Device Technol,Kyoto Univ,1
+Fraunhofer Inst Integrated Syst & Device Technol,Leibniz Inst Surface Engn IOM,1
+Fraunhofer Inst Integrated Syst & Device Technol,Linkoping Univ,1
+Fraunhofer Inst Integrated Syst & Device Technol,Univ Calif Davis,1
+Fraunhofer Inst Integrated Syst & Device Technol,Univ Stuttgart,1
+Free Univ Berlin,Johannes Gutenberg Univ Mainz,1
+Friedrich Schiller Univ,Univ Rostock,1
+Friedrich Schiller Univ,Univ Vienna,1
+Friedrich Schiller Univ Jena,Inst Expt Phys,1
+Friedrich Schiller Univ Jena,Inst Quantum Opt & Quantum Informat,1
+Friedrich Schiller Univ Jena,Ludwig Maximilians Univ Munchen,1
+Friedrich Schiller Univ Jena,Macquarie Univ,1
+Friedrich Schiller Univ Jena,Max Planck Inst Quantum Opt,1
+Friedrich Schiller Univ Jena,Max Planck Sch Photon,1
+Friedrich Schiller Univ Jena,Munich Ctr Quantum Sci & Technol MCQST,1
+Friedrich Schiller Univ Jena,Nanyang Technol Univ,1
+Friedrich Schiller Univ Jena,Univ Technol Sydney,1
+Friedrich Schiller Univ Jena,Univ Vienna,1
+Frontier Sci Ctr Quantum Informat,Fudan Univ,1
+Frontier Sci Ctr Quantum Informat,Shanghai Artificial Intelligence Lab,1
+Frontier Sci Ctr Quantum Informat,Shanghai Qi Zhi Inst,1
+Frontier Sci Ctr Quantum Informat,Shanghai Res Ctr Quantum Sci,1
+Fudan Univ,Nanjing Univ Posts & Telecommun,1
+Fudan Univ,Shanghai Artificial Intelligence Lab,1
+Fudan Univ,Shanghai Qi Zhi Inst,1
+Fudan Univ,Shanghai Res Ctr Quantum Sci,1
+Fudan Univ,Tsinghua Univ,1
+Fudan Univ,Univ Cologne,1
+Fudan Univ,Univ Siegen,1
+Fuzhou Univ,Nanjing Univ,1
+Fuzhou Univ,RIKEN Ctr Quantum Comp,1
+Fuzhou Univ,RIKEN Ctr Quantum Comp RQC,1
+Fuzhou Univ,South China Univ Technol,1
+Fuzhou Univ,Univ Calgary,1
+Fuzhou Univ,Univ Chinese Acad Sci,1
+Fuzhou Univ,Univ Sci & Technol China,1
+Fuzhou Univ,Zhejiang Univ,1
+Georgia Inst Technol,Natl Inst Stand & Technol,1
+Georgia Inst Technol,Tsinghua Univ,1
+Georgia Inst Technol,Univ British Columbia,1
+Georgia Inst Technol,Univ Maryland,1
+Georgia Inst Technol,Univ Michigan,1
+Georgia Inst Technol,Xian Univ Posts & Telecommun,1
+Goldsmiths Univ London,Imperial Coll London,1
+Griffith Univ,Imperial Coll London,1
+Griffith Univ,Macquarie Univ,1
+Griffith Univ,Univ Bordeaux,1
+Griffith Univ,Univ Bristol,1
+Griffith Univ,Univ Grenoble Alpes,1
+Griffith Univ,Univ Oxford,1
+Griffith Univ,Univ Queensland,1
+Guangxi Univ,Natl Informat Optoelect Innovat Ctr NOE,1
+Gunma Univ,Univ Oxford,1
+Gunma Univ,Univ Vienna,1
+HBKU,Purdue Univ,1
+HH Wills Phys Lab,Peking Univ,1
+HH Wills Phys Lab,Tech Univ Denmark,1
+HH Wills Phys Lab,Univ Bristol,1
+HRL Labs LLC,Princeton Univ,1
+HRL Labs LLC,Univ Calif Santa Barbara,1
+Hamburg Ctr Ultrafast Imaging,Harvard Univ,1
+Hamburg Ctr Ultrafast Imaging,Hebrew Univ Jerusalem,1
+Hamburg Ctr Ultrafast Imaging,Univ Hamburg,1
+Hangzhou Dianzi Univ,Nanyang Technol Univ,1
+Hangzhou Normal Univ,Zhejiang Univ,1
+Hangzhou Normal Univ,Zhejiang Univ Technol,1
+Harbin Inst Technol,Quantum Sci Ctr Guangdong Hong Kong,1
+Harbin Inst Technol,Sichuan Univ,1
+Harbin Inst Technol Shenzhen,Soochow Univ,1
+Harvard Smithsonian Ctr Astrophys,Humboldt Univ,1
+Harvard Smithsonian Ctr Astrophys,Max Planck Inst Quantum Opt,1
+Harvard Smithsonian Ctr Astrophys,Natl Univ Singapore,1
+Harvard Smithsonian Ctr Astrophys,Univ Copenhagen,1
+Harvard Smithsonian Ctr Astrophys,Univ Innsbruck,1
+Harvard Smithsonian Ctr Astrophys,Univ Innsbruck A,1
+Harvard Smithsonian Ctr Astrophys,Univ Oxford,1
+Harvard Univ,Hebrew Univ Jerusalem,1
+Harvard Univ,Hefei Natl Lab,1
+Harvard Univ,Inst Quantum Comp,1
+Harvard Univ,Inst Quantum Opt & Quantum Informat,1
+Harvard Univ,Inst Theoret Atom Mol & Opt Phys,1
+Harvard Univ,Natl Inst Quantum & Radiol Sci & Technol,1
+Harvard Univ,Natl Univ Singapore,1
+Harvard Univ,Peking Univ,1
+Harvard Univ,Perimeter Inst Theoret Phys,1
+Harvard Univ,Pohang Univ Sci & Technol POSTECH,1
+Harvard Univ,Princeton Univ,1
+Harvard Univ,Raytheon BBN Technol,1
+Harvard Univ,Sandia Natl Labs,1
+Harvard Univ,Shanxi Univ,1
+Harvard Univ,Tech Univ Kaiserslautern,1
+Harvard Univ,Tech Univ Munich,1
+Harvard Univ,Tel Aviv Univ,1
+Harvard Univ,Texas A&M Univ,1
+Harvard Univ,Univ Arizona,1
+Harvard Univ,Univ Hamburg,1
+Harvard Univ,Univ Innsbruck A,1
+Harvard Univ,Univ Oxford,1
+Harvard Univ,Univ Pittsburgh,1
+Harvard Univ,Univ Queensland,1
+Harvard Univ,Univ Tokyo,1
+Harvard Univ,Univ Vienna,1
+Harvard Univ,Univ Waterloo,1
+Harvard Univ,Waterloo Inst Nanotechnol,1
+Hasselt Univ,IMEC,1
+Hasselt Univ,Linkoping Univ,1
+Hasselt Univ,Univ Vienna,1
+Hasselt Univ,Wigner Res Ctr Phys,1
+Hebrew Univ Jerusalem,Univ Hamburg,1
+Hefei Natl Lab,Lanzhou Univ,1
+Hefei Natl Lab,Univ Washington,1
+Hefei Normal Univ,Nanjing Univ,1
+Heidelberg Univ,Natl Cheng Kung Univ,1
+Heinrich Heine Univ Dusseldorf,Heriot Watt Univ,1
+Helmholtz Zentrum Dresden Rossendorf,Kyoto Univ,1
+Helmholtz Zentrum Dresden Rossendorf,Leibniz Inst Kristallzuchtung IKZ,1
+Helmholtz Zentrum Dresden Rossendorf,Leibniz Inst Surface Engn IOM,1
+Helmholtz Zentrum Dresden Rossendorf,Linkoping Univ,1
+Helmholtz Zentrum Dresden Rossendorf,Tech Univ Dresden,1
+Helmholtz Zentrum Dresden Rossendorf,Univ Calif Davis,1
+Helmholtz Zentrum Dresden Rossendorf,Univ Stuttgart,1
+Henan Key Lab Quantum Informat & Cryptog,S N Bose Natl Ctr Basic Sci,1
+Henan Key Lab Quantum Informat & Cryptog,Univ libre Bruxelles ULB,1
+Henan Normal Univ,Hengyang Normal Univ,1
+Henan Normal Univ,Hunan Normal Univ,1
+Henan Univ,Southwest Jiaotong Univ,1
+Henan Univ Engn,Zhengzhou Univ,1
+Heriot Watt Univ,Korea Inst Sci & Technol,1
+Heriot Watt Univ,Natl Inst Informat & Commun Technol,1
+Heriot Watt Univ,Natl Res Univ Informat Technol Mech & Opt,1
+Heriot Watt Univ,Peking Univ,1
+Heriot Watt Univ,RMIT Univ,1
+Heriot Watt Univ,Sun Yat sen Univ,1
+Heriot Watt Univ,Swinburne Univ Technol,1
+Heriot Watt Univ,Univ Calif Davis,1
+Heriot Watt Univ,Univ Edinburgh,1
+Heriot Watt Univ,Univ Elect Sci & Technol China,1
+Heriot Watt Univ,Univ Fed ABC,1
+Heriot Watt Univ,Univ Palermo,1
+Heriot Watt Univ,Univ Stuttgart,1
+Heriot Watt Univ,Univ Sussex,1
+Heriot Watt Univ,Univ Western Australia,1
+Hewlett Packard Labs,Macquarie Univ,1
+Hewlett Packard Labs,Natl Inst Nanotechnol,1
+Hewlett Packard Labs,Res Org Informat & Syst,1
+Hewlett Packard Labs,Univ Calgary,1
+Hewlett Packard Labs,Univ Washington,1
+Hiroshima Univ,Hokkaido Univ,1
+Hiroshima Univ,Japan Sci & Technol Agcy,1
+Hiroshima Univ,Kyoto Univ,1
+Hiroshima Univ,NEC Corp Ltd,1
+Hiroshima Univ,Osaka Univ,1
+Hiroshima Univ,RIKEN,1
+Hiroshima Univ,Tokyo Med & Dent Univ,1
+Hiroshima Univ,Univ Tokyo,1
+Honeywell Aerosp,Univ Calif Santa Barbara,1
+Hong Kong Polytech Univ,Hong Kong Univ Sci & Technol,1
+Hong Kong Polytech Univ,Iowa State Univ,1
+Hong Kong Polytech Univ,Nanjing Univ,1
+Hong Kong Polytech Univ,Nanyang Technol Univ,1
+Hong Kong Polytech Univ,Natl Univ Def Technol,1
+Hong Kong Polytech Univ,Natl Univ Singapore,1
+Hong Kong Polytech Univ,Tongji Univ,1
+Hong Kong Polytech Univ,Univ Bristol,1
+Hong Kong Polytech Univ,Univ Copenhagen,1
+Hong Kong Polytech Univ,Univ Guelph,1
+Hong Kong Polytech Univ,Univ Waterloo,1
+Hong Kong Univ Sci & Technol,Iowa State Univ,1
+Hong Kong Univ Sci & Technol,Natl Univ Def Technol,1
+Hong Kong Univ Sci & Technol,South China Normal Univ,1
+Hong Kong Univ Sci & Technol,Univ Texas Dallas,1
+Horizon Quantum Comp,Natl Univ Singapore,1
+Horizon Quantum Comp,Osterreich Akad Wissenscha,1
+Horizon Quantum Comp,Singapore Univ Technol & Design,1
+Horizon Quantum Comp,Univ Innsbruck,1
+Horizon Quantum Comp,Univ Oxford,1
+Horizon Quantum Comp,Univ Vienna,1
+Horizon Quantum Comp,VitreaLab GmbH,1
+Huaqiao Univ Xiamen,Univ Calgary,1
+Huawei Technol,Shenzhen Key Lab Quantum Sci & Engn,1
+Huawei Technol,South China Normal Univ,1
+Huawei Technol,Southern Univ Sci & Technol,1
+Huazhong Univ Sci & Technol,Hubei Univ Arts & Sci,1
+Huazhong Univ Sci & Technol,Key Lab Fundamental Phys Quant Measurement,1
+Huazhong Univ Sci & Technol,Ludong Univ,1
+Huazhong Univ Sci & Technol,Max Planck Inst Quantum Opt,1
+Huazhong Univ Sci & Technol,Natl Inst Lasers & Optron,1
+Huazhong Univ Sci & Technol,TOPTICA Photon AG,1
+Huazhong Univ Sci & Technol,Tsinghua Univ,1
+Huazhong Univ Sci & Technol,Univ Sci & Technol China,1
+Huazhong Univ Sci & Technol,Zhejiang Univ,1
+Hubei Univ Arts & Sci,Key Lab Fundamental Phys Quant Measurement,1
+Hubei Univ Arts & Sci,Wuhan Inst Technol,1
+Hubei Univ Automot Technol,Xi An Jiao Tong Univ,1
+Humboldt Univ,Leibniz Inst Hochstfrequenztech,1
+Humboldt Univ,Pacific Northwest Natl Lab,1
+Humboldt Univ,Stanford Univ,1
+Humboldt Univ,Univ Copenhagen,1
+Hungarian Acad Sci,Leibniz Univ Hannover,1
+Hungarian Acad Sci,Linkoping Univ,1
+Hungarian Acad Sci,Max Planck Inst Quantum Opt,1
+Hungarian Acad Sci,Natl Univ Sci & Technol MISIS,1
+Hungarian Acad Sci,Salzburg Univ,1
+Hungarian Acad Sci,Stockholm Univ,1
+Hungarian Acad Sci,Tomsk State Univ,1
+Hungarian Acad Sci,Univ Concepcion,1
+Hungarian Acad Sci,Univ Erlangen Nurnberg,1
+Hungarian Acad Sci,Univ Geneva,1
+Hungarian Acad Sci,Univ Munich,1
+Hungarian Acad Sci,Univ Seville,1
+IASBS,Univ Padua,1
+IASBS,Univ Vienna,1
+IASBS,Xi An Jiao Tong Univ,1
+IBM Corp,Princeton Univ,1
+IBM Corp,Univ Chicago,1
+IBM Corp,Univ Maryland,1
+IBM Corp,Yale Univ,1
+IBM Denmark,TJ Watson Res Ctr,1
+IBM Denmark,Univ Copenhagen,1
+IBM Res Europe,Swiss Fed Inst Technol,1
+IBM Res Europe,Swiss Fed Inst Technol Lausanne FPFL,1
+ICFO Inst Ciencies Foton,Ist Italiano Tecnol,1
+ICFO Inst Ciencies Foton,Univ Fed Rio de Janeiro,1
+ICFO Inst Ciencies Fotoniques,Nanyang Technol Univ,1
+ICFO Inst Ciencies Fotoniques,Natl Univ Singapore,1
+ICREA,Univ Concepcion,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Karlsruhe Inst Technol,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Karlsruher Inst Technol,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Ludwig Maximilians Univ Munchen,1
+ICREA Inst Catalana Recerca & Estudis Avancats,PSL Univ,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Sorbonne Univ,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Southern Univ Sci & Technol,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Swiss Fed Inst Technol,1
+ICREA Inst Catalana Recerca & Estudis Avancats,Univ Palermo,1
+ID Quant SA,Politecn Milan,1
+ID Quant SA,Sicoya GmbH,1
+ID Quant SA,Univ Geneva,1
+IIT Madras,Indian Inst Informat Technol Design & Mfg Kancheep,1
+IIT Madras,Manipal Acad Higher Educ,1
+IIT Madras,Natl Inst Technol,1
+IIT Madras,Shibaura Inst Technol,1
+IKERBASQUE,Inst Ciencia Mat Madrid,1
+IKERBASQUE,TECNALIA,1
+IKERBASQUE,Univ Basque Country UPV EHU,1
+IKERBASQUE,Univ Carlos III Madrid,1
+IMEC,Linkoping Univ,1
+IMEC,Univ Vienna,1
+IMEC,Wigner Res Ctr Phys,1
+INFN,Tech Univ Munich,1
+INFN,UMI 3654,1
+INFN,Univ Firenze,1
+INFN Sez Firenze,Ist NanoSci CNR,1
+INFN Sez Firenze,Ist Nazl Ottica CNR,1
+INFN Sez Firenze,NEST,1
+INFN Sez Firenze,Sorbonne Univ,1
+INFN Sez Firenze,Univ Firenze,1
+INFN Sez Firenze,Univ Roma Tre,1
+INO CNR,LENS,1
+INO CNR,Shanxi Univ,1
+INRIM,Politecn Torino,1
+INRS EMT,Islamic Azad Univ,1
+INRS EMT,Univ Guilan,1
+INRS EMT,Univ Ottawa,1
+INRS EMT,Univ Palermo,1
+IP AS CR,Palacky Univ,1
+IP AS CR,Univ Waterloo,1
+IQST,Max Planck Inst Solid State Res,1
+ISRO,Univ Allahabad,1
+IST Austria,Indian Inst Sci,1
+IST Austria,Ioffe Inst,1
+IST Austria,Univ Calgary,1
+IST Austria,Univ Otago,1
+IST Austria,Univ Washington,1
+IST Austria,Weizmann Inst Sci,1
+ITMO Univ,Ioffe Inst,1
+ITMO Univ,RAS,1
+ITMO Univ,St Petersburg Electrotech Univ LETI,1
+ITMO Univ,Sun Yat sen Univ,1
+ITMO Univ,Tech Univ Denmark,1
+Ikerbasque Fdn Sci,Univ Fed Fluminense,1
+Ikerbasque Fdn Sci,Univ Tecnol Fed Parana UTFPR,1
+Imam Mohammad Ibn Saud Islamic Univ IMSIU,Univ Sharjah,1
+Imperial Coll London,Kunming Univ,1
+Imperial Coll London,Ludwig Maximilians Univ Munchen,1
+Imperial Coll London,Max Planck Inst Quantum Opt,1
+Imperial Coll London,Munich Ctr Quantum Sci & Technol MCQST,1
+Imperial Coll London,NTU Int Joint Res Unit,1
+Imperial Coll London,Res Ctr Quantum Sensing,1
+Imperial Coll London,SUNY Stony Brook,1
+Imperial Coll London,Tech Univ Denmark,1
+Imperial Coll London,Univ Copenhagen,1
+Imperial Coll London,Univ Gdansk,1
+Imperial Coll London,Univ Geneva,1
+Imperial Coll London,Univ Manchester,1
+Imperial Coll London,Univ Oxford,1
+Imperial Coll London,Yunnan OceanDeepland Organ Optoelect Technol Ltd,1
+Imperial Coll London,Yunnan Univ,1
+Indian Inst Informat Technol Design & Mfg Kancheep,Manipal Acad Higher Educ,1
+Indian Inst Informat Technol Design & Mfg Kancheep,Natl Inst Technol,1
+Indian Inst Informat Technol Design & Mfg Kancheep,Shibaura Inst Technol,1
+Indian Inst Sci,Univ Washington,1
+Indian Inst Technol,Inst Math Sci,1
+Indian Inst Technol,Jawaharlal Nehru Univ,1
+Indian Inst Technol,Univ Sci & Technol,1
+Indian Inst Technol Delhi,Johannes Kepler Univ Linz,1
+Indian Inst Technol Delhi,Univ Cambridge,1
+Indian Inst Technol Delhi,Univ Oxford,1
+Indian Inst Technol Delhi,Univ Sheffield,1
+Indian Inst Technol Jodhpur,Natl Cheng Kung Univ,1
+Indian Inst Technol Jodhpur,Natl Inst Technol Patna,1
+Indian Inst Technol Jodhpur,Univ Warsaw,1
+Indiana Univ Purdue Univ,Louisiana State Univ,1
+Indiana Univ Purdue Univ,NYU,1
+Indiana Univ Purdue Univ,NYU Shanghai,1
+Indiana Univ Purdue Univ,Natl Inst Informat,1
+Indiana Univ Purdue Univ,Natl Inst Informat & Commun Technol,1
+Indiana Univ Purdue Univ,New York Univ Shanghai,1
+Indiana Univ Purdue Univ,Southern Univ Sci & Technol,1
+Indiana Univ Purdue Univ,USTC,1
+Indiana Univ Purdue Univ,Univ Arizona,1
+Indiana Univ Purdue Univ,Univ Sci & Technol China,1
+Inner Mongolia Univ Sci & Technol,Max Planck Inst Phys Komplexer Syst,1
+Inner Mongolia Univ Sci & Technol,Nanyang Technol Univ,1
+Inner Mongolia Univ Sci & Technol,Tech Univ Dresden,1
+Inria Saclay,Univ Sci & Technol China,1
+Inst Adv Studies Basic Sci,Max Planck Inst Phys Lichts,1
+Inst Adv Studies Basic Sci,Natl Res Council Canada,1
+Inst Adv Studies Basic Sci,Univ Erlangen Nurnberg,1
+Inst Adv Studies Basic Sci,Univ Ottawa,1
+Inst Adv Studies Basic Sci,Univ Rochester,1
+Inst Appl Phys & Computat Math,Ruhr Univ Bochum,1
+Inst Appl Phys & Computat Math,Stuttgart Res Ctr Photon Engn SCoPE,1
+Inst Appl Phys & Computat Math,Univ Sci & Technol China,1
+Inst Appl Phys & Computat Math,Univ Stuttgart,1
+Inst Atom & Mol Sci,Natl Taiwan Univ,1
+Inst Ciencia Mat Madrid,TECNALIA,1
+Inst Ciencia Mat Madrid,Univ Basque Country UPV EHU,1
+Inst Ciencia Mat Madrid,Univ Carlos III Madrid,1
+Inst Expt Phys,Inst Quantum Opt & Quantum Informat,1
+Inst Expt Phys,Macquarie Univ,1
+Inst Expt Phys,Max Planck Sch Photon,1
+Inst Expt Phys,Nanyang Technol Univ,1
+Inst Expt Phys,Univ Cambridge,1
+Inst Fed Alagoas,Secretaria Estado Educ Alagoas,1
+Inst Fed Alagoas,Univ Fed Pernambuco,1
+Inst Fed Norte Minas Gerais,Univ Fed Minas Gerais,1
+Inst Fed Norte Minas Gerais,Univ Fed Rural Pernambuco,1
+Inst Fed Rio de Janeiro,Univ Fed Fluminense,1
+Inst Fis Fundamental IFF,Tech Univ Wien,1
+Inst Fis Fundamental IFF,Univ Catolica Santisima Concepcion,1
+Inst Fis Fundamental IFF,Univ Concepcion,1
+Inst Fundamental Phys IFF CSIC,Max Planck Inst Quantum Opt,1
+Inst Mat Sci & Engn,Southern Univ Sci & Technol,1
+Inst Mat Sci & Engn,Washington Univ,1
+Inst Math Sci,Univ KwaZulu Natal,1
+Inst Math Sci ICMAT CSIC UAM UC3M UCM,Lund Univ,1
+Inst Math Sci ICMAT CSIC UAM UC3M UCM,Univ Geneva,1
+Inst Math Sci ICMAT CSIC UAM UC3M UCM,Univ Sci & Technol China,1
+Inst Microelect,MIT,1
+Inst Microelect,Middle East Tech Univ,1
+Inst Microelect,Nanjing Univ,1
+Inst Microelect,Shanghai Ind Technol Res Inst,1
+Inst Microelect,Shanghai Inst Microsyst & Informat Technol,1
+Inst Microelect,Univ Calif Los Angeles,1
+Inst Microelect Agcy Sci Technol & Res A STAR,Nanyang Technol Univ,1
+Inst Microelect Agcy Sci Technol & Res A STAR,Sony Elect,1
+Inst Opt,L F Vereshchagin Inst High Pressure Phys,1
+Inst Opt,Mat Phys Ctr CSIC,1
+Inst Opt,Tours Univ,1
+Inst Opt,Ulm Univ,1
+Inst Opt,Univ Basque Country UPV EHU,1
+Inst Opt,Univ Bordeaux,1
+Inst Polytech Paris,STMicroelectron SAS,1
+Inst Polytech Paris,Swiss Fed Inst Technol,1
+Inst Polytech Paris,Univ Amsterdam,1
+Inst Polytech Paris,Univ Cambridge,1
+Inst Polytech Paris,Univ Paris Saclay,1
+Inst Polytech Paris,Univ Ulm,1
+Inst Polytech Paris,Weizmann Inst Sci,1
+Inst Quantum Comp,Quantum Bridge Technol Inc,1
+Inst Quantum Comp,Univ Ottawa,1
+Inst Quantum Comp,Univ Toronto,1
+Inst Quantum Comp,Waterloo Inst Nanotechnol,1
+Inst Quantum Opt & Quantum Informat,Inst Theoret Atom Mol & Opt Phys,1
+Inst Quantum Opt & Quantum Informat,Macquarie Univ,1
+Inst Quantum Opt & Quantum Informat,Max Planck Sch Photon,1
+Inst Quantum Opt & Quantum Informat,Nanyang Technol Univ,1
+Inst Quantum Opt & Quantum Informat,Univ Cambridge,1
+Inst Quantum Opt & Quantum Informat,Univ Copenhagen,1
+Inst Quantum Opt & Quantum Informat,Univ Innsbruck,1
+Inst Quantum Opt & Quantum Informat,Univ Vienna,1
+Inst Quantum Sci & Technol,Ist Italiano Tecnol,1
+Inst Quantum Sci & Technol,Univ Bristol,1
+Inst Quantum Sci & Technol,Univ Cote Azur,1
+Inst Quantum Sci & Technol,Univ Geneva,1
+Inst Quantum Sci & Technol,Univ Stuttgart,1
+Inst Teknol Bandung,Natl Res & Innovat Agcy BRIN,1
+Inst Teknol Bandung,Res Collaborat Ctr Quantum Technol 2 0,1
+Inst Teknol Bandung,Univ Luxembourg,1
+Inst Telecomunicacoes,Inst Univ France,1
+Inst Telecomunicacoes,MIT,1
+Inst Telecomunicacoes,PQI Portuguese Quantum Inst,1
+Inst Telecomunicacoes,Sorbonne Univ,1
+Inst Telecomunicacoes,Univ Massachusetts,1
+Inst Telecomunicacoes,Univ Montpellier,1
+Inst Telecomunicacoes,Univ Wisconsin Milwaukee,1
+Inst Theoret Atom Mol & Opt Phys,Univ Copenhagen,1
+Inst Theoret Atom Mol & Opt Phys,Univ Innsbruck,1
+Inst Univ France,Univ Lisbon,1
+Inst Univ France,Univ Wisconsin,1
+Inst Univ France,Univ Wisconsin Milwaukee,1
+InstaDeep,Univ Oxford,1
+InstaDeep,Univ Paris Saclay,1
+Int Iberian Nanotechnol Lab INL,Politecn Milan,1
+Integrated Photon Technol Fdn,Ist TeCIP Scuola Super St Anna,1
+Integrated Photon Technol Fdn,PNTLab Consorzio Nazl Interuniv Telecomunicaz,1
+Integrated Photon Technol Fdn,Sorbonne Univ,1
+Integrated Photon Technol Fdn,Univ Padua,1
+Ioffe Inst,Sun Yat sen Univ,1
+Ioffe Inst,Weizmann Inst Sci,1
+IonQ Inc,Univ Maryland,1
+Iowa State Univ,NYU Shanghai,1
+Iowa State Univ,Nanjing Univ,1
+Iowa State Univ,Natl Univ Def Technol,1
+Iowa State Univ,New York Univ Shanghai,1
+Iowa State Univ,Northeastern Univ,1
+Iowa State Univ,Polytech Montreal,1
+Iowa State Univ,US DOE,1
+Iowa State Univ,Univ Chicago,1
+Iowa State Univ,Univ Crete,1
+Iowa State Univ,Univ Guelph,1
+Iowa State Univ,Univ Waterloo,1
+Islamic Azad Univ,Univ Guilan,1
+Islamic Azad Univ,Univ Ottawa,1
+Islamic Azad Univ,Univ Palermo,1
+Ist Italiano Tecnol,Ist Nazl Fis Nucl,1
+Ist Italiano Tecnol,Scuola Normale Super Pisa,1
+Ist Italiano Tecnol,Univ Bristol,1
+Ist Italiano Tecnol,Univ Cote Azur,1
+Ist Italiano Tecnol,Univ Florence,1
+Ist Italiano Tecnol,Univ Geneva,1
+Ist Italiano Tecnol,Univ Genoa,1
+Ist Italiano Tecnol,Univ Naples Federico II,1
+Ist Italiano Tecnol,Univ Roma La Sapienza,1
+Ist Italiano Tecnol,Univ Stuttgart,1
+Ist NanoSci CNR,Ist Nazl Ottica CNR,1
+Ist NanoSci CNR,NEST,1
+Ist NanoSci CNR,Sorbonne Univ,1
+Ist NanoSci CNR,Univ Firenze,1
+Ist NanoSci CNR,Univ Roma Tre,1
+Ist Nazl Fis Nucl,Scuola Normale Super Pisa,1
+Ist Nazl Fis Nucl,Univ Florence,1
+Ist Nazl Fis Nucl,Univ Genoa,1
+Ist Nazl Fis Nucl,Univ Milan,1
+Ist Nazl Fis Nucl,Univ Trieste,1
+Ist Nazl Ott INO CNR,Queens Univ Belfast,1
+Ist Nazl Ott INO CNR,Univ Roma La Sapienza,1
+Ist Nazl Ott INO CNR,Univ Ulm,1
+Ist Nazl Ottica CNR,NEST,1
+Ist Nazl Ottica CNR,Sorbonne Univ,1
+Ist Nazl Ottica CNR,Univ Firenze,1
+Ist Nazl Ottica CNR,Univ Roma Tre,1
+Ist TeCIP Scuola Super St Anna,PNTLab Consorzio Nazl Interuniv Telecomunicaz,1
+Ist TeCIP Scuola Super St Anna,Sorbonne Univ,1
+Ist TeCIP Scuola Super St Anna,Univ Padua,1
+Istanbul Univ,Tokyo Inst Technol,1
+Istanbul Univ,Tokyo Int Univ,1
+Istanbul Univ,Univ Tokyo,1
+JST,Kagawa Univ,1
+JST,Keio Univ,1
+JST,Natl Inst Informat & Commun Technol,1
+JST,Natl Inst Informat & Commun Technol NICT,1
+JST,Univ Tokyo,1
+JTEC Consulting,Kennesaw State Univ,1
+JTEC Consulting,Univ Texas Dallas,1
+Japan Sci & Technol Agcy,NEC Corp Ltd,1
+Japan Sci & Technol Agcy,RIKEN,1
+Japan Sci & Technol Agcy,Tokyo Med & Dent Univ,1
+Japan Sci & Technol Agcy,Univ Tokyo,1
+Japan Sci & Technol Agcy JST,Tohoku Univ,1
+Jawaharlal Nehru Univ,Univ Sci & Technol,1
+Jianghan Univ,Ocean Univ China,1
+Jianghan Univ,Qingdao Technol Univ,1
+Jiangnan Univ,Nanjing Univ Sci & Technol,1
+Jiangnan Univ,Soochow Univ,1
+Jiangnan Univ,Southeast Univ,1
+Jiangnan Univ,Univ Calgary,1
+Jiangnan Univ,Univ Sci & Technol China,1
+Jiangnan Univ,Univ Sci & Technol China CAS,1
+Jilin Univ,Univ Jinan,1
+Jilin Univ,Univ Sci & Technol China,1
+Johannes Kepler Univ Linz,Univ Cambridge,1
+Johannes Kepler Univ Linz,Univ Oxford,1
+Johannes Kepler Univ Linz,Univ Sheffield,1
+Johannes Kepler Univ Linz,Univ Vienna,1
+Julich Aachen Res Alliance,MIT,1
+Julich Aachen Res Alliance,Rhein Westfal TH Aachen,1
+Julich Aachen Res Alliance,Univ Maryland,1
+KACST,Taibah Univ,1
+KIER,Max Planck POSTECH KOREA Res Initiat,1
+KIER,Nanyang Technol Univ,1
+KIER,POSTECH,1
+KIER,UNIST,1
+KTH Royal Inst Technol,MIT,1
+KTH Royal Inst Technol,Univ Munster,1
+Kagawa Univ,Keio Univ,1
+Kagawa Univ,Natl Inst Informat & Commun Technol,1
+Kagawa Univ,Natl Inst Informat & Commun Technol NICT,1
+Karlsruhe Inst Technol,Karlsruhe Inst Technol KIT,1
+Karlsruhe Inst Technol,Karlsruher Inst Technol,1
+Karlsruhe Inst Technol,Landau Inst Theoret Phys,1
+Karlsruhe Inst Technol,Ludwig Maximilians Univ Munchen,1
+Karlsruhe Inst Technol,Natl Univ Sci & Technol MISIS,1
+Karlsruhe Inst Technol,PSL Univ,1
+Karlsruhe Inst Technol,Russian Quantum Ctr,1
+Karlsruhe Inst Technol,Sorbonne Univ,1
+Karlsruhe Inst Technol,Southern Univ Sci & Technol,1
+Karlsruhe Inst Technol,Univ Grenoble Alpes,1
+Karlsruhe Inst Technol,Univ Panama,1
+Karlsruhe Inst Technol KIT,Univ Grenoble Alpes,1
+Karlsruhe Inst Technol KIT,Univ Panama,1
+Karlsruher Inst Technol,Ludwig Maximilians Univ Munchen,1
+Karlsruher Inst Technol,PSL Univ,1
+Karlsruher Inst Technol,Sorbonne Univ,1
+Karlsruher Inst Technol,Southern Univ Sci & Technol,1
+Katholieke Univ Leuven,PSL Univ,1
+Katholieke Univ Leuven,Univ Paris 06,1
+Kavli Inst Nanosci,QphoX BV,1
+Kazan Fed Univ,Kazan Natl Res Tech Univ,1
+Kazan Fed Univ,RAS,1
+Kazan Fed Univ,Univ Calgary,1
+Kazan Natl Res Tech Univ,Univ Calgary,1
+Kazan VI Lenin State Univ,Russian Acad Sci,1
+Kazan VI Lenin State Univ,Tatarstan Acad Sci,1
+Keio Univ,Natl Inst Informat & Commun Technol,1
+Keio Univ,Natl Inst Informat & Commun Technol NICT,1
+Keio Univ,Okinawa Inst Sci & Technol Grad Univ,1
+Keio Univ,Res Org Informat & Syst,1
+Keio Univ,Stanford Univ,1
+Keio Univ,Univ Melbourne,1
+Kennesaw State Univ,Univ Texas Dallas,1
+Key Lab Fundamental Phys Quant Measurement,Wuhan Inst Technol,1
+Ki3 Photon Technol,Perimeter Inst Theoret Phys,1
+Ki3 Photon Technol,Quantum Bridge Technol Inc,1
+Ki3 Photon Technol,Univ Ottawa,1
+Ki3 Photon Technol,Univ Toronto,1
+King Abdulaziz Univ,Natl Univ Def Technol,1
+King Abdulaziz Univ,Sohag Univ,1
+King Abdulaziz Univ,State Key Lab Cryptol,1
+King Abdulaziz Univ,Taif Univ,1
+King Abdulaziz Univ,Univ Jordan,1
+Korea Adv Inst Sci & Technol,Ludwig Maximilians Univ Munchen,1
+Korea Adv Inst Sci & Technol,NTT Corp,1
+Korea Adv Inst Sci & Technol,Natl Inst Adv Ind Sci & Technol,1
+Korea Adv Inst Sci & Technol,Natl Inst Mat Sci,1
+Korea Adv Inst Sci & Technol,Ruhr Univ Bochum,1
+Korea Adv Inst Sci & Technol,Tokyo Inst Technol,1
+Korea Adv Inst Sci & Technol,Univ Grenoble Alpes,1
+Korea Adv Inst Sci & Technol,Univ Paris Saclay,1
+Korea Adv Inst Sci & Technol,Univ Trento,1
+Korea Adv Inst Sci & Technol KAIST,Korea Inst Sci & Technol KIST,1
+Korea Adv Inst Sci & Technol KAIST,Korea Univ Sci & Technol,1
+Korea Adv Inst Sci & Technol KAIST,Nicolaus Copernicus Univ,1
+Korea Adv Inst Sci & Technol KAIST,Yonsei Univ,1
+Korea Inst Adv Study,Pohang Univ Sci & Technol POSTECH,1
+Korea Inst Adv Study,Univ Surrey,1
+Korea Inst Sci & Technol,Korea Univ Sci & Technol,1
+Korea Inst Sci & Technol,Seoul Natl Univ,1
+Korea Inst Sci & Technol,Univ Fed ABC,1
+Korea Inst Sci & Technol,Yonsei Univ,1
+Korea Inst Sci & Technol KIST,Korean Intellectual Property Off,1
+Korea Inst Sci & Technol KIST,Nicolaus Copernicus Univ,1
+Korea Inst Sci & Technol KIST,Seoul Natl Univ,1
+Korea Inst Sci & Technol KIST,Univ Chicago,1
+Korea Inst Sci & Technol KIST,Univ Sydney,1
+Korea Univ,Korean Intellectual Property Off,1
+Korea Univ,Seoul Natl Univ,1
+Korea Univ,Univ Chicago,1
+Korea Univ,Univ Sydney,1
+Korea Univ,Yonsei Univ,1
+Korea Univ Sci & Technol,Korean Intellectual Property Off,1
+Korea Univ Sci & Technol,Nicolaus Copernicus Univ,1
+Kunming Univ,UCL,1
+Kunming Univ,Yunnan OceanDeepland Organ Optoelect Technol Ltd,1
+Kunming Univ,Yunnan Univ,1
+KwaZulu Natal,NASA,1
+KwaZulu Natal,Nicolaus Copernicus Univ,1
+KwaZulu Natal,Stellenbosch Univ,1
+KwaZulu Natal,USRA Res Inst Adv Comp Sci RIACS,1
+KwaZulu Natal,Univ KwaZulu Natal,1
+Kyoto Inst Technol,Univ Electrocommun,1
+Kyoto Inst Technol,Univ Tokyo,1
+Kyoto Inst Technol,Univ Twente,1
+Kyoto Univ,Leibniz Inst Surface Engn IOM,1
+Kyoto Univ,Linkoping Univ,1
+Kyoto Univ,Univ Calif Davis,1
+Kyoto Univ,Univ Stuttgart,1
+Kyushu Univ,Osaka Univ,1
+Kyushu Univ,Ruhr Univ Bochum,1
+Kyushu Univ,Univ Electrocommun,1
+Kyushu Univ,Univ Tokyo,1
+L F Vereshchagin Inst High Pressure Phys,Mat Phys Ctr CSIC,1
+L F Vereshchagin Inst High Pressure Phys,Tours Univ,1
+L F Vereshchagin Inst High Pressure Phys,Ulm Univ,1
+L F Vereshchagin Inst High Pressure Phys,Univ Basque Country UPV EHU,1
+L F Vereshchagin Inst High Pressure Phys,Univ Bordeaux,1
+LENS,Shanxi Univ,1
+LENS,Univ Firenze,1
+LENS,Vinca Inst Nucl Sci,1
+LIGENTEC SA,Univ Limoges,1
+Landau Inst Theoret Phys,Natl Univ Sci & Technol MISIS,1
+Landau Inst Theoret Phys,Russian Quantum Ctr,1
+Lanzhou Univ,Univ Aberdeen,1
+Lanzhou Univ,Univ Chinese Acad Sci,1
+Lanzhou Univ,Univ Sci & Technol China,1
+Lanzhou Univ Technol,Natl Univ Singapore,1
+Lanzhou Univ Technol,Shaoguan Univ,1
+Lawrence Berkeley Natl Lab,Princeton Univ,1
+Lawrence Livermore Natl Lab,NIST,1
+Lawrence Livermore Natl Lab,Rigetti Comp,1
+Lawrence Livermore Natl Lab,Stanford Univ,1
+Lawrence Livermore Natl Lab,Univ Colorado,1
+Lawrence Livermore Natl Lab,Univ Colorado Boulder,1
+Lawrence Livermore Natl Lab,Univ Oregon,1
+Lawrence Livermore Natl Lab,Univ Oxford,1
+Lawrence Livermore Natl Lab,Univ Southern Calif,1
+Lawrence Livermore Natl Lab,Univ Texas San Antonio,1
+Lehigh Univ,Univ Chicago,1
+Lehigh Univ,Univ Washington,1
+Leibniz Inst Forsch Verbund Berlin eV,Munich Ctr Quantum Sci & Technol MCQST,1
+Leibniz Inst Forsch Verbund Berlin eV,NTT Corp,1
+Leibniz Inst Forsch Verbund Berlin eV,Queens Univ,1
+Leibniz Inst Forsch Verbund Berlin eV,Tech Univ Munchen Munchen,1
+Leibniz Inst Forsch Verbund Berlin eV,Tech Univ Munich,1
+Leibniz Inst Forsch Verbund Berlin eV,Univ Augsburg,1
+Leibniz Inst Forsch Verbund Berlin eV,Univ Valencia,1
+Leibniz Inst Forsch Verbund Berlin eV,Westfalische Wilhelms Univ Munster,1
+Leibniz Inst Kristallzfichtung,Phys Tech Bundesanstalt PTB Braunschweig,1
+Leibniz Inst Kristallzfichtung,Simon Fraser Univ,1
+Leibniz Inst Kristallzfichtung,Vitcon Projectconsult GmbH,1
+Leibniz Inst Kristallzuchtung,Photonic Inc,1
+Leibniz Inst Kristallzuchtung,Phys Tech Bundesanstalt PTB Braunschweig,1
+Leibniz Inst Kristallzuchtung,Univ Montreal,1
+Leibniz Inst Kristallzuchtung IKZ,Tech Univ Dresden,1
+Leibniz Inst Surface Engn IOM,Linkoping Univ,1
+Leibniz Inst Surface Engn IOM,Univ Calif Davis,1
+Leibniz Inst Surface Engn IOM,Univ Stuttgart,1
+Leibniz Univ Hannover,Lionix Int,1
+Leibniz Univ Hannover,MaX Born Inst,1
+Leibniz Univ Hannover,Max Planck Inst Quantum Opt,1
+Leibniz Univ Hannover,QuiX Quantum,1
+Leibniz Univ Hannover,Univ Basque Country,1
+Leibniz Univ Hannover,Univ Munich,1
+Leibniz Univ Hannover,Univ Twente,1
+Leiden Univ,Max Planck Inst Sci Light,1
+Leiden Univ,Univ Calif Santa Barbara,1
+Lightmatter,MIT,1
+Linkoping Univ,Natl Univ Sci & Technol MISIS,1
+Linkoping Univ,Salzburg Univ,1
+Linkoping Univ,Tomsk State Univ,1
+Linkoping Univ,Univ Basque Country,1
+Linkoping Univ,Univ Calif Davis,1
+Linkoping Univ,Univ Erlangen Nurnberg,1
+Linkoping Univ,Univ Stuttgart,1
+Linkoping Univ,Univ Vienna,1
+Linkoping Univ,Wigner Res Ctr Phys,1
+Lionix Int,QuiX Quantum,1
+Lionix Int,Univ Twente,1
+Lomonosov Moscow State Univ,Moscow MV Lomonosov State Univ,1
+Lomonosov Moscow State Univ,PSL Res Univ,1
+Lomonosov Moscow State Univ,RAS,1
+Lomonosov Moscow State Univ,Skolkovo Inst Sci & Technol,1
+Loughborough Univ,NTT Corp,1
+Loughborough Univ,Natl Inst Informat,1
+Loughborough Univ,Sapienza Univ Roma,1
+Loughborough Univ,Tokyo Inst Technol,1
+Loughborough Univ,Univ Roma Tre,1
+Loughborough Univ,Univ Vienna,1
+Louisiana State Univ,MIT,1
+Louisiana State Univ,NYU,1
+Louisiana State Univ,NYU Shanghai,1
+Louisiana State Univ,Natl Inst Informat,1
+Louisiana State Univ,Natl Inst Informat & Commun Technol,1
+Louisiana State Univ,New York Univ Shanghai,1
+Louisiana State Univ,Southern Univ Sci & Technol,1
+Louisiana State Univ,Stanford Univ,1
+Louisiana State Univ,Tech Univ Denmark,1
+Louisiana State Univ,USTC,1
+Louisiana State Univ,Univ Arizona,1
+Louisiana State Univ,Univ Chicago,1
+Louisiana State Univ,Univ Sci & Technol China,1
+Ludong Univ,Wuhan Inst Technol,1
+Ludwig Maximilians Univ Munchen,Nanyang Technol Univ,1
+Ludwig Maximilians Univ Munchen,Natl Inst Adv Ind Sci & Technol,1
+Ludwig Maximilians Univ Munchen,Natl Univ Singapore,1
+Ludwig Maximilians Univ Munchen,PSL Univ,1
+Ludwig Maximilians Univ Munchen,Ruhr Univ Bochum,1
+Ludwig Maximilians Univ Munchen,Sorbonne Univ,1
+Ludwig Maximilians Univ Munchen,Southern Univ Sci & Technol,1
+Ludwig Maximilians Univ Munchen,Tokyo Inst Technol,1
+Ludwig Maximilians Univ Munchen,Univ Cambridge,1
+Ludwig Maximilians Univ Munchen,Univ Gdansk,1
+Ludwig Maximilians Univ Munchen,Univ Grenoble Alpes,1
+Lund Univ,Univ Geneva,1
+Lund Univ,Univ Vienna,1
+MIT,Middle East Tech Univ,1
+MIT,NTT Res Inc,1
+MIT,Nanjing Univ,1
+MIT,PQI Portuguese Quantum Inst,1
+MIT,Princeton Univ,1
+MIT,Rhein Westfal TH Aachen,1
+MIT,SC Solut,1
+MIT,Shanghai Ind Technol Res Inst,1
+MIT,Shanghai Inst Microsyst & Informat Technol,1
+MIT,Sorbonne Univ,1
+MIT,Stanford Univ,1
+MIT,Tel Aviv Univ,1
+MIT,US Army Res Lab,1
+MIT,Univ Calif Berkeley,1
+MIT,Univ Calif Los Angeles,1
+MIT,Univ Chicago,1
+MIT,Univ Lisbon,1
+MIT,Univ Maryland,1
+MIT,Univ Maryland Coll Pk,1
+MIT,Univ Munster,1
+MIT,Univ Queensland,1
+MIT,Xanadu,1
+MITRE Corp,Tech Univ Denmark,1
+MITRE Corp,US Army,1
+MITRE Corp,Univ Massachusetts,1
+Macquarie Univ,Max Planck Sch Photon,1
+Macquarie Univ,Monash Univ,1
+Macquarie Univ,Nanyang Technol Univ,1
+Macquarie Univ,Res Org Informat & Syst,1
+Macquarie Univ,Univ Cambridge,1
+Macquarie Univ,Univ Queensland,1
+Macquarie Univ,Univ Waterloo,1
+Mahidol Univ,Prince Songkla Univ,1
+Manipal Acad Higher Educ,Natl Inst Technol,1
+Manipal Acad Higher Educ,Shibaura Inst Technol,1
+Mat Phys Ctr CSIC,Tours Univ,1
+Mat Phys Ctr CSIC,Ulm Univ,1
+Mat Phys Ctr CSIC,Univ Basque Country UPV EHU,1
+Mat Phys Ctr CSIC,Univ Bordeaux,1
+Max Planck Inst Math Sci,Shanghai Jiao Tong Univ,1
+Max Planck Inst Math Sci,Southern Univ Sci & Technol,1
+Max Planck Inst Math Sci,Univ Sci & Technol China,1
+Max Planck Inst Math Sci,Wuhan Inst Technol,1
+Max Planck Inst Phys Komplexer Syst,Nanyang Technol Univ,1
+Max Planck Inst Phys Komplexer Syst,Raman Res Inst,1
+Max Planck Inst Phys Komplexer Syst,Tech Univ Dresden,1
+Max Planck Inst Phys Komplexer Syst,Univ Waterloo,1
+Max Planck Inst Phys Komplexer Syst,Weizmann Inst Sci,1
+Max Planck Inst Phys Lichts,Natl Res Council Canada,1
+Max Planck Inst Phys Lichts,Oklahoma State Univ,1
+Max Planck Inst Phys Lichts,Tech Univ Darmstadt,1
+Max Planck Inst Phys Lichts,Univ Ottawa,1
+Max Planck Inst Phys Lichts,Univ Rochester,1
+Max Planck Inst Polymer Res,Rensselaer Polytech Inst,1
+Max Planck Inst Polymer Res,Shanghai Jiao Tong Univ,1
+Max Planck Inst Polymer Res,Tech Univ Dresden,1
+Max Planck Inst Polymer Res,Univ Bern,1
+Max Planck Inst Quantum Opt,Munich Ctr Quantum Sci & Technol,1
+Max Planck Inst Quantum Opt,Nanyang Technol Univ,1
+Max Planck Inst Quantum Opt,OHB Syst AG,1
+Max Planck Inst Quantum Opt,Politecn Milan,1
+Max Planck Inst Quantum Opt,Qutools GmbH,1
+Max Planck Inst Quantum Opt,Swiss Fed Inst Technol,1
+Max Planck Inst Quantum Opt,Univ Basque Country,1
+Max Planck Inst Quantum Opt,Univ Cambridge,1
+Max Planck Inst Quantum Opt,Univ Copenhagen,1
+Max Planck Inst Quantum Opt,Univ Gdansk,1
+Max Planck Inst Quantum Opt,Univ Innsbruck A,1
+Max Planck Inst Quantum Opt,Univ Oxford,1
+Max Planck Inst Quantum Opt,Univ Politecn Valencia,1
+Max Planck Inst Sci Light,Norwegian Univ Sci & Technol,1
+Max Planck Inst Sci Light,Univ Grad Ctr,1
+Max Planck Inst Sci Light,Univ Guanajuato,1
+Max Planck Inst Sci Light,Univ Waterloo,1
+Max Planck Inst Solid State Res,Univ Stuttgart,1
+Max Planck POSTECH KOREA Res Initiat,Nanyang Technol Univ,1
+Max Planck POSTECH KOREA Res Initiat,POSTECH,1
+Max Planck POSTECH KOREA Res Initiat,UNIST,1
+Max Planck Sch Photon,Nanyang Technol Univ,1
+Max Planck Sch Photon,Univ Cambridge,1
+Micro Photon Devices,Natl Res Council Canada,1
+Micro Photon Devices,Politecn Milan,1
+Micro Photon Devices,Univ Vienna,1
+Micro Photon Devices,Univ Waterloo,1
+Middle East Tech Univ,Nanjing Univ,1
+Middle East Tech Univ,Shanghai Ind Technol Res Inst,1
+Middle East Tech Univ,Shanghai Inst Microsyst & Informat Technol,1
+Middle East Tech Univ,Univ Calif Los Angeles,1
+Monash Univ,Univ Queensland,1
+Monash Univ,Univ Waterloo,1
+Moscow Inst Phys & Technol,Univ Technol Sydney,1
+Moscow MV Lomonosov State Univ,PSL Res Univ,1
+Moscow MV Lomonosov State Univ,South Ural State Univ SUSU,1
+Munich Ctr Quantum Sci & Technol,Swiss Fed Inst Technol,1
+Munich Ctr Quantum Sci & Technol MCQST,Nanyang Technol Univ,1
+Munich Ctr Quantum Sci & Technol MCQST,Natl Univ Singapore,1
+Munich Ctr Quantum Sci & Technol MCQST,Tech Univ Munchen Munchen,1
+Munich Ctr Quantum Sci & Technol MCQST,Univ Augsburg,1
+Munich Ctr Quantum Sci & Technol MCQST,Univ Cambridge,1
+Munich Ctr Quantum Sci & Technol MCQST,Univ Gdansk,1
+Munich Ctr Quantum Sci & Technol MCQST,Univ Maryland,1
+Munich Ctr Quantum Sci & Technol MCQST,Univ Valencia,1
+Munich Ctr Quantum Sci & Technol MCQST,Westfalische Wilhelms Univ Munster,1
+Museo Stor Fis,Politecn Milan,1
+Museo Stor Fis,Sapienza Univ Roma,1
+NASA,Nicolaus Copernicus Univ,1
+NASA,Peraton,1
+NASA,Stellenbosch Univ,1
+NASA,Tulane Univ,1
+NASA,USRA Res Inst Adv Comp Sci RIACS,1
+NASA,Univ Illinois,1
+NASA,Univ KwaZulu Natal,1
+NEC Corp Ltd,Tokyo Med & Dent Univ,1
+NEC Corp Ltd,Univ Calif Santa Barbara,1
+NEST,Sorbonne Univ,1
+NEST,Univ Firenze,1
+NEST,Univ Roma Tre,1
+NIST,NTT Corp,1
+NIST,Natl Inst Informat & Commun Technol,1
+NIST,South China Normal Univ,1
+NIST,Stanford Univ,1
+NIST,Sun Yat sen Univ,1
+NIST,Univ Basel,1
+NIST,Univ Chicago,1
+NIST,Univ Electrocommun,1
+NIST,Univ Fed Campina Grande,1
+NIST,Univ Geneva,1
+NIST,Univ Oregon,1
+NIST,Univ Oxford,1
+NIST,Univ Parma,1
+NIST,Univ Southampton,1
+NIST,Univ Texas San Antonio,1
+NIST,Univ Verona,1
+NIST,Waseda Univ,1
+NIST,Wuhan Inst Technol,1
+NTT Basic Res Labs,Osaka Univ,1
+NTT Basic Res Labs,Univ Tokyo,1
+NTT Corp,Natl Inst Mat Sci,1
+NTT Corp,Queens Univ,1
+NTT Corp,Sapienza Univ Roma,1
+NTT Corp,Tokyo Inst Technol,1
+NTT Corp,Univ Paris Saclay,1
+NTT Corp,Univ Roma Tre,1
+NTT Corp,Univ Toronto,1
+NTT Corp,Univ Vienna,1
+NTT Device Technol Labs,Tamagawa Univ,1
+NTT Device Technol Labs,Univ Bristol,1
+NTT Device Technol Labs,Univ Southampton,1
+NTT Device Technol Labs,Univ Tokyo,1
+NTT Res Inc,Stanford Univ,1
+NTU Int Joint Res Unit,Nanyang Technol Univ,1
+NTU Int Joint Res Unit,Natl Univ Singapore,1
+NTU Int Joint Res Unit,Univ Manchester,1
+NTU Int Joint Res Unit,Univ Sci & Technol China,1
+NYU,Natl Cheng Kung Univ,1
+NYU,Natl Inst Informat & Commun Technol,1
+NYU,Southern Univ Sci & Technol,1
+NYU,USTC,1
+NYU,Univ Arizona,1
+NYU,Univ Queensland,1
+NYU Shanghai,Natl Cheng Kung Univ,1
+NYU Shanghai,Natl Inst Informat & Commun Technol,1
+NYU Shanghai,Polytech Montreal,1
+NYU Shanghai,Shanxi Univ,1
+NYU Shanghai,Southern Univ Sci & Technol,1
+NYU Shanghai,USTC,1
+NYU Shanghai,Univ Arizona,1
+NYU Shanghai,Univ Crete,1
+NYU Shanghai,Univ Queensland,1
+Nagoya Univ,Natl Univ Singapore,1
+Nagoya Univ,Sapienza Univ Roma,1
+Nagoya Univ,Univ Fed Rio Grande do Norte,1
+Nanjing Univ,Nanjing Univ Sci & Technol,1
+Nanjing Univ,Natl Univ Def Technol,1
+Nanjing Univ,Northwestern Univ,1
+Nanjing Univ,Shanghai Ind Technol Res Inst,1
+Nanjing Univ,Shanghai Inst Microsyst & Informat Technol,1
+Nanjing Univ,South China Normal Univ,1
+Nanjing Univ,Southeast Univ,1
+Nanjing Univ,Southern Univ Sci & Technol,1
+Nanjing Univ,Sun Yat sen Univ,1
+Nanjing Univ,Tsinghua Univ,1
+Nanjing Univ,Univ Calif Los Angeles,1
+Nanjing Univ,Univ Guelph,1
+Nanjing Univ,Univ Waterloo,1
+Nanjing Univ,Zhejiang Univ,1
+Nanjing Univ,Zhejiang Univ Sci & Technol,1
+Nanjing Univ Informat Sci & Technol,Univ Nebraska,1
+Nanjing Univ Posts & Telecommun,Southeast Univ,1
+Nanjing Univ Posts & Telecommun,Univ Calgary,1
+Nanjing Univ Posts & Telecommun,Univ Cologne,1
+Nanjing Univ Posts & Telecommun,Univ Siegen,1
+Nanjing Univ Sci & Technol,Soochow Univ,1
+Nanjing Univ Sci & Technol,Univ Calgary,1
+Nanjing Univ Sci & Technol,Univ Sci & Technol China,1
+Nanjing Univ Sci & Technol,Univ Sci & Technol China CAS,1
+Nankai Univ,Shangrao Normal Univ,1
+Nankai Univ,Univ Sci & Technol China,1
+Nanosyst Initiat Munich,Tech Univ Munich,1
+Nanosyst Initiat Munich,Univ Grenoble Alpes,1
+Nanosyst Initiat Munich,Univ Mayor,1
+Nanyang Technol Univ,Natl Inst Educ,1
+Nanyang Technol Univ,POSTECH,1
+Nanyang Technol Univ,Queens Univ Belfast,1
+Nanyang Technol Univ,Raith GmbH,1
+Nanyang Technol Univ,Shanghai Jiao Tong Univ,1
+Nanyang Technol Univ,Sony Elect,1
+Nanyang Technol Univ,Sun Yat sen Univ,1
+Nanyang Technol Univ,Tech Univ Dresden,1
+Nanyang Technol Univ,Tongji Univ,1
+Nanyang Technol Univ,UMI 3654,1
+Nanyang Technol Univ,UNIST,1
+Nanyang Technol Univ,Univ Bristol,1
+Nanyang Technol Univ,Univ Cambridge,1
+Nanyang Technol Univ,Univ Copenhagen,1
+Nanyang Technol Univ,Univ Gdansk,1
+Nanyang Technol Univ,Univ Manchester,1
+Nanyang Technol Univ,Univ Queensland,1
+Nanyang Technol Univ,Univ Sci & Technol China,1
+Nanyang Technol Univ,Univ Southampton,1
+Nanyang Technol Univ,Univ Technol Sydney,1
+Natl Chang Hua Univ Educ,Natl Chung Hsing Univ,1
+Natl Cheng Kung Univ,Natl Inst Informat,1
+Natl Cheng Kung Univ,Natl Inst Technol Patna,1
+Natl Cheng Kung Univ,New York Univ Shanghai,1
+Natl Cheng Kung Univ,Raman Res Inst,1
+Natl Cheng Kung Univ,SN Bose Natl Ctr Basic Sci,1
+Natl Cheng Kung Univ,Univ Queensland,1
+Natl Cheng Kung Univ,Univ Warsaw,1
+Natl Innovat Inst Def Technol,Natl Univ Def Technol,1
+Natl Inst Adv Ind Sci & Technol,Ruhr Univ Bochum,1
+Natl Inst Adv Ind Sci & Technol,Tokyo Inst Technol,1
+Natl Inst Adv Ind Sci & Technol,Univ Grenoble Alpes,1
+Natl Inst Educ,Natl Univ Singapore,1
+Natl Inst Educ,Shanghai Jiao Tong Univ,1
+Natl Inst Educ,Sun Yat sen Univ,1
+Natl Inst Informat,Natl Inst Informat & Commun Technol,1
+Natl Inst Informat,RIKEN,1
+Natl Inst Informat,Sapienza Univ Roma,1
+Natl Inst Informat,Southern Univ Sci & Technol,1
+Natl Inst Informat,Tokyo Inst Technol,1
+Natl Inst Informat,USTC,1
+Natl Inst Informat,Univ Arizona,1
+Natl Inst Informat,Univ Glasgow,1
+Natl Inst Informat,Univ Michigan,1
+Natl Inst Informat,Univ Queensland,1
+Natl Inst Informat,Univ Roma Tre,1
+Natl Inst Informat,Univ Sussex,1
+Natl Inst Informat,Univ Vienna,1
+Natl Inst Informat & Commun Technol,Natl Inst Informat & Commun Technol NICT,1
+Natl Inst Informat & Commun Technol,New York Univ Shanghai,1
+Natl Inst Informat & Commun Technol,Southern Univ Sci & Technol,1
+Natl Inst Informat & Commun Technol,USTC,1
+Natl Inst Informat & Commun Technol,Univ Arizona,1
+Natl Inst Informat & Commun Technol,Univ Bristol,1
+Natl Inst Informat & Commun Technol,Univ Edinburgh,1
+Natl Inst Informat & Commun Technol,Univ Electrocommun,1
+Natl Inst Informat & Commun Technol,Univ Glasgow,1
+Natl Inst Informat & Commun Technol,Univ Sci & Technol China,1
+Natl Inst Informat & Commun Technol,Univ Strathclyde,1
+Natl Inst Informat & Commun Technol,Waseda Univ,1
+Natl Inst Informat & Commun Technol,Wuhan Inst Technol,1
+Natl Inst Lasers & Optron,Pakistan Inst Engn & Appl Sci,1
+Natl Inst Mat Sci,Univ Paris Saclay,1
+Natl Inst Nanotechnol,Univ Calgary,1
+Natl Inst Nanotechnol,Univ Washington,1
+Natl Inst Quantum & Radiol Sci & Technol,Univ Chicago,1
+Natl Inst Stand & Technol,Princeton Univ,1
+Natl Inst Stand & Technol,Tsinghua Univ,1
+Natl Inst Stand & Technol,Univ British Columbia,1
+Natl Inst Stand & Technol,Univ Calgary,1
+Natl Inst Stand & Technol,Univ Colorado,1
+Natl Inst Stand & Technol,Univ Michigan,1
+Natl Inst Technol,Shibaura Inst Technol,1
+Natl Inst Technol Patna,Univ Warsaw,1
+Natl Phys Lab,Riverlane,1
+Natl Res & Innovat Agcy BRIN,Res Collaborat Ctr Quantum Technol 2 0,1
+Natl Res & Innovat Agcy BRIN,Univ Luxembourg,1
+Natl Res Council Canada,Politecn Milan,1
+Natl Res Council Canada,Royal Inst Technol KTH,1
+Natl Res Council Canada,Swiss Fed Inst Technol,1
+Natl Res Council Canada,Technion Israel Inst Technol,1
+Natl Res Council Canada,Tsinghua Univ,1
+Natl Res Council Canada,Univ Alberta,1
+Natl Res Council Canada,Univ Erlangen Nurnberg,1
+Natl Res Council Canada,Univ Rochester,1
+Natl Res Council Canada,Univ Toronto,1
+Natl Res Council Canada,Univ Vienna,1
+Natl Res Univ Informat Technol Mech & Opt,Swinburne Univ Technol,1
+Natl Res Univ Informat Technol Mech & Opt,Univ Elect Sci & Technol China,1
+Natl Res Univ Informat Technol Mech & Opt,Univ Glasgow,1
+Natl Res Univ Informat Technol Mech & Opt,Univ Palermo,1
+Natl Res Univ Informat Technol Mech & Opt,Univ Strathclyde,1
+Natl Res Univ Informat Technol Mech & Opt,Univ Sussex,1
+Natl Univ Def Technol,Peking Univ,1
+Natl Univ Def Technol,State Key Lab Cryptol,1
+Natl Univ Def Technol,Sun Yat sen Univ,1
+Natl Univ Def Technol,Univ Bristol,1
+Natl Univ Def Technol,Univ Guelph,1
+Natl Univ Def Technol,Univ Queensland,1
+Natl Univ Def Technol,Univ Waterloo,1
+Natl Univ Def Technol,Univ Western Australia,1
+Natl Univ Sci & Technol MISIS,Russian Quantum Ctr,1
+Natl Univ Sci & Technol MISIS,Salzburg Univ,1
+Natl Univ Sci & Technol MISIS,Tomsk State Univ,1
+Natl Univ Sci & Technol MISIS,Univ Basque Country,1
+Natl Univ Sci & Technol MISIS,Univ Erlangen Nurnberg,1
+Natl Univ Sci & Technol MISIS,Univ Witwatersrand,1
+Natl Univ Singapore,Oak Ridge Natl Lab,1
+Natl Univ Singapore,Osterreich Akad Wissenscha,1
+Natl Univ Singapore,Pohang Univ Sci & Technol POSTECH,1
+Natl Univ Singapore,Politecn Milan,1
+Natl Univ Singapore,Queens Univ Belfast,1
+Natl Univ Singapore,Sapienza Univ Roma,1
+Natl Univ Singapore,Shanghai Jiao Tong Univ,1
+Natl Univ Singapore,Shaoguan Univ,1
+Natl Univ Singapore,Soochow Univ,1
+Natl Univ Singapore,Sun Yat sen Univ,1
+Natl Univ Singapore,Tongji Univ,1
+Natl Univ Singapore,Tsinghua Univ,1
+Natl Univ Singapore,UCL,1
+Natl Univ Singapore,UMI 3654,1
+Natl Univ Singapore,Univ Coll Dublin,1
+Natl Univ Singapore,Univ Copenhagen,1
+Natl Univ Singapore,Univ Fed Rio Grande do Norte,1
+Natl Univ Singapore,Univ Gdansk,1
+Natl Univ Singapore,Univ Geneva,1
+Natl Univ Singapore,Univ Illinois,1
+Natl Univ Singapore,Univ Innsbruck,1
+Natl Univ Singapore,Univ Innsbruck A,1
+Natl Univ Singapore,Univ Manchester,1
+Natl Univ Singapore,Univ Maryland,1
+Natl Univ Singapore,Univ Sci & Technol Beijing,1
+Natl Univ Singapore,Univ Sci & Technol China,1
+Natl Univ Singapore,Univ Turku,1
+Natl Univ Singapore,Univ Waterloo,1
+Natl Univ Singapore,VitreaLab GmbH,1
+Naval Res Lab,Sotera Def Solut,1
+Naval Res Lab,Stanford Univ,1
+Naval Res Lab,US Naval Acad,1
+Naval Res Lab,Univ Maryland,1
+Naval Res Lab,Univ Michigan,1
+Netherlands Org Appl Sci Res TNO,QphoX BV,1
+Netherlands Org Appl Sci Res TNO,SandboxAQ,1
+Netherlands Org Appl Sci Res TNO,Univ Montpellier,1
+Netherlands Org Appl Sci Res TNO,Univ Stuttgart,1
+New York Univ Shanghai,Polytech Montreal,1
+New York Univ Shanghai,Southern Univ Sci & Technol,1
+New York Univ Shanghai,USTC,1
+New York Univ Shanghai,Univ Arizona,1
+New York Univ Shanghai,Univ Crete,1
+New York Univ Shanghai,Univ Queensland,1
+Nicolaus Copernicus Univ,Stellenbosch Univ,1
+Nicolaus Copernicus Univ,Technion Israel Inst Technol,1
+Nicolaus Copernicus Univ,USRA Res Inst Adv Comp Sci RIACS,1
+Nicolaus Copernicus Univ,Univ KwaZulu Natal,1
+Nicolaus Copernicus Univ,Yonsei Univ,1
+Nizhnii Novgorod State Univ,RIKEN,1
+Nizhnii Novgorod State Univ,Univ Loughborough,1
+Nizhnii Novgorod State Univ,Univ Michigan,1
+Nokia Res Ctr,Univ Calif Santa Barbara,1
+North China Univ Water Resources & Elect Power,Sichuan Univ Sci & Engn,1
+North China Univ Water Resources & Elect Power,Southwest Jiaotong Univ,1
+Northeast Normal Univ,Purdue Univ,1
+Northeastern Univ,US DOE,1
+Northeastern Univ,Univ Chicago,1
+Northrop Grumman Corp,Univ New South Wales,1
+Northwestern Univ,Southeast Univ,1
+Northwestern Univ,Texas A&M Univ,1
+Norwegian Univ Sci & Technol,Univ Erlangen Nurnberg,1
+Norwegian Univ Sci & Technol,Univ Grad Ctr,1
+Norwegian Univ Sci & Technol,Univ Guanajuato,1
+OHB Syst AG,TOPTICA Photon AG,1
+Oak Ridge Natl Lab,Univ Dayton,1
+Oak Ridge Natl Lab,Univ Illinois,1
+Oak Ridge Natl Lab,Univ Tecnol Pereira,1
+Ocean Univ China,Qingdao Technol Univ,1
+Ocean Univ China,Univ Queensland,1
+Oklahoma State Univ,Univ Erlangen Nurnberg,1
+Oklahoma State Univ,Univ Fed Rio de Janeiro,1
+Oklahoma State Univ,Univ Vienna,1
+Osterreich Akad Wissenscha,Singapore Univ Technol & Design,1
+Osterreich Akad Wissenscha,Univ Innsbruck,1
+Osterreich Akad Wissenscha,Univ Oxford,1
+Osterreich Akad Wissenscha,Univ Vienna,1
+Osterreich Akad Wissenscha,VitreaLab GmbH,1
+Otto von Guericke Univ,Tech Univ Berlin,1
+Otto von Guericke Univ,Technion Israel Inst Technol,1
+Otto von Guericke Univ,Univ Washington,1
+PLA Rocket Force Univ Engn,Univ Sci & Technol China,1
+PNTLab Consorzio Nazl Interuniv Telecomunicaz,Sorbonne Univ,1
+PNTLab Consorzio Nazl Interuniv Telecomunicaz,Univ Padua,1
+POSTECH,UNIST,1
+PQI Portuguese Quantum Inst,Sorbonne Univ,1
+PQI Portuguese Quantum Inst,Univ Lisbon,1
+PQI Portuguese Quantum Inst,Univ Massachusetts,1
+PSL Res Univ,RAS,1
+PSL Res Univ,Skolkovo Inst Sci & Technol,1
+PSL Univ,Sorbonne Univ,1
+PSL Univ,Southern Univ Sci & Technol,1
+PSL Univ,Univ Paris 06,1
+Pacific Northwest Natl Lab,Princeton Univ,1
+Paderborn Univ,Virginia Tech,1
+Paderborn Univ,Virginia Tech Ctr Quantum Informat Sci & Engn,1
+Palacky Univ,Univ KwaZulu Natal,1
+Palacky Univ,Univ Waterloo,1
+Palacky Univ,Washington Univ,1
+Palacky Univ,Weizmann Inst Sci,1
+Peking Univ,Politecn Milan,1
+Peking Univ,Swinburne Univ Technol,1
+Peking Univ,Tianjin Univ,1
+Peking Univ,Univ Queensland,1
+Peking Univ,Univ Washington,1
+Peking Univ,Zhejiang Univ,1
+Peraton,Tulane Univ,1
+Peraton,Univ Illinois,1
+Perimeter Inst Theoret Phys,RMIT Univ,1
+Perimeter Inst Theoret Phys,Univ Arizona,1
+Perimeter Inst Theoret Phys,Univ New Mexico,1
+Perimeter Inst Theoret Phys,Univ Ottawa,1
+Perimeter Inst Theoret Phys,Univ Tokyo,1
+Perimeter Inst Theoret Phys,Univ Toronto,1
+Perimeter Inst Theoret Phys,Waterloo Inst Nanotechnol,1
+Persian Gulf Univ,Yazd Univ,1
+Photonic Inc,Vitcon Projectconsult GmbH,1
+Polish Acad Sci,Univ Calif Santa Barbara,1
+Polish Acad Sci,Univ South Carolina,1
+Polish Acad Sci,Univ Warsaw,1
+Polish Acad Sci,Warsaw Univ Technol,1
+Politecn Bari,Raytheon BBN Technol,1
+Politecn Milan,Qutools GmbH,1
+Politecn Milan,RMIT Univ,1
+Politecn Milan,Shanxi Univ,1
+Politecn Milan,Sicoya GmbH,1
+Politecn Milan,Singapore Univ Technol & Design,1
+Politecn Milan,South Univ Sci & Technol China,1
+Politecn Milan,Univ Bristol,1
+Politecn Milan,Univ Fed Fluminense,1
+Politecn Milan,Univ Geneva,1
+Politecn Milan,Univ Maryland,1
+Politecn Milan,Univ Munich,1
+Politecn Milan,Univ Roma La Sapienza,1
+Politecn Milan,Univ Sci & Technol China,1
+Politecn Milan,Univ Sydney,1
+Politecn Milan,Univ Waterloo,1
+Polytech Montreal,Univ Crete,1
+Princeton Univ,Rice Univ,1
+Princeton Univ,SC Solut,1
+Princeton Univ,Soochow Univ,1
+Princeton Univ,Univ Arizona,1
+Princeton Univ,Univ Maryland,1
+Princeton Univ,Univ Pittsburgh,1
+Princeton Univ,Univ Queensland,1
+Princeton Univ,Yale Univ,1
+Purdue Univ,Univ Tecnol Pereira,1
+QphoX BV,SandboxAQ,1
+QphoX BV,Univ Stuttgart,1
+Quandela,Univ Bristol,1
+Quandela SAS,Sapienza Univ Roma,1
+Quandela SAS,Univ Fed Sao Carlos,1
+Quandela SAS,Univ Paris Saclay,1
+Quandela SAS,Univ Pavia,1
+Quandela SAS,Univ Vienna,1
+Quantinuum LLC,Sandia Natl Labs,1
+Quantum Bridge Technol Inc,Univ Toronto,1
+Quantum Bridge Technol Inc,Univ Waterloo,1
+Quantum Opus LLC,Univ Calif Berkeley,1
+Quantum Opus LLC,Univ Cambridge,1
+Quantum Opus LLC,Univ Cote Azur,1
+Quantum Opus LLC,Univ Sheffield,1
+Quantum Sci Ctr Guangdong Hong Kong,Sichuan Univ,1
+Queens Univ,UCL,1
+Queens Univ,Vector Inst,1
+Queens Univ Belfast,Shanxi Univ,1
+Queens Univ Belfast,Univ Basque Country,1
+Queens Univ Belfast,Univ Fed ABC,1
+Queens Univ Belfast,Univ London Imperial Coll Sci Technol & Med,1
+Queens Univ Belfast,Univ Queensland,1
+Queens Univ Belfast,Univ Roma Tre,1
+Qufu Normal Univ,Shandong Univ,1
+QuiX Quantum,Univ Twente,1
+Qunnect Inc,SUNY Stony Brook,1
+Qunnect Inc,Univ Padua,1
+Qutools GmbH,Univ Munich,1
+RAS,Skolkovo Inst Sci & Technol,1
+RAS,St Petersburg Electrotech Univ LETI,1
+RAS,Tech Univ Denmark,1
+RIKEN,Songshan Lake Mat Lab,1
+RIKEN,Stanford Univ,1
+RIKEN,Tokyo Med & Dent Univ,1
+RIKEN,UCAS,1
+RIKEN,Univ Chinese Acad Sci,1
+RIKEN,Univ Loughborough,1
+RIKEN Cluster Pioneering Res,RIKEN Ctr Quantum Comp RQC,1
+RIKEN Cluster Pioneering Res,South China Univ Technol,1
+RIKEN Cluster Pioneering Res,Univ Chinese Acad Sci,1
+RIKEN Cluster Pioneering Res,Univ Messina,1
+RIKEN Cluster Pioneering Res,Zhejiang Univ,1
+RIKEN Ctr Quantum Comp,Univ Messina,1
+RIKEN Ctr Quantum Comp RQC,South China Univ Technol,1
+RIKEN Ctr Quantum Comp RQC,Univ Chinese Acad Sci,1
+RIKEN Ctr Quantum Comp RQC,Univ Michigan,1
+RIKEN Ctr Quantum Comp RQC,Zhejiang Univ,1
+RIVIIT Univ,Univ New Mexico,1
+RIVIIT Univ,Univ Tokyo,1
+RIVIIT Univ,Univ Toronto,1
+RIVIIT Univ,Xanadu,1
+RMIT Univ,South Univ Sci & Technol China,1
+RMIT Univ,Tech Univ Denmark,1
+RMIT Univ,Univ Arizona,1
+RMIT Univ,Univ Calif Davis,1
+RMIT Univ,Univ Melbourne,1
+RMIT Univ,Univ New Mexico,1
+RMIT Univ,Univ Sci & Technol China,1
+RMIT Univ,Univ Stuttgart,1
+RMIT Univ,Univ Tokyo,1
+RMIT Univ,Univ Waterloo,1
+Raith GmbH,Univ Technol Sydney,1
+Raman Res Inst,SN Bose Natl Ctr Basic Sci,1
+Raman Res Inst,Univ Waterloo,1
+Raman Res Inst,Weizmann Inst Sci,1
+Raytheon BBN Technol,Univ Massachusetts,1
+Rensselaer Polytech Inst,Shanghai Jiao Tong Univ,1
+Rensselaer Polytech Inst,Tech Univ Dresden,1
+Rensselaer Polytech Inst,Univ Bern,1
+Res Collaborat Ctr Quantum Technol 2 0,Univ Luxembourg,1
+Res Ctr Julich,Saarland Univ,1
+Res Ctr Julich,SeeQC Inc,1
+Res Ctr Julich,Syracuse Univ,1
+Res Ctr Julich,US Air Force Res Lab,1
+Res Ctr Julich,Univ Colorado,1
+Res Ctr Julich,Univ Fed Santa Catarina,1
+Res Ctr Quantum Sensing,Tech Univ Denmark,1
+Res Ctr Quantum Sensing,Univ Copenhagen,1
+Res Ctr Quantum Sensing,Univ Sci & Technol China,1
+Res Org Informat & Syst,Stanford Univ,1
+Res Org Informat & Syst,Univ Melbourne,1
+Res Univ,Russian Acad Sci,1
+Rhein Westfal TH Aachen,Ruhr Univ Bochum,1
+Rhein Westfal TH Aachen,Swiss Fed Inst Technol,1
+Rhein Westfal TH Aachen,UNSW,1
+Rhein Westfal TH Aachen,Univ Innsbruck,1
+Rhein Westfal TH Aachen,Zhejiang Univ,1
+Rice Univ,Univ Calif Santa Barbara,1
+Rice Univ,Xi An Jiao Tong Univ,1
+Rigetti Comp,Univ Colorado Boulder,1
+Rigetti Comp,Univ Southern Calif,1
+Royal Inst Technol KTH,Swiss Fed Inst Technol,1
+Royal Inst Technol KTH,Tsinghua Univ,1
+Royal Inst Technol KTH,Univ Waterloo,1
+Ruhr Univ Bochum,Stuttgart Res Ctr Photon Engn SCoPE,1
+Ruhr Univ Bochum,TU Dortmund,1
+Ruhr Univ Bochum,Technion Israel Inst Technol,1
+Ruhr Univ Bochum,Tokyo Inst Technol,1
+Ruhr Univ Bochum,Univ Bremen,1
+Ruhr Univ Bochum,Univ Cambridge,1
+Ruhr Univ Bochum,Univ Iowa,1
+Ruhr Univ Bochum,Univ Lyon,1
+Ruhr Univ Bochum,Univ PSL,1
+Ruhr Univ Bochum,Univ Sci & Technol China,1
+Ruhr Univ Bochum,Univ Stuttgart,1
+Russian Acad Sci,Texas A&M Univ,1
+Russian Acad Sci,Univ Calgary,1
+Russian Quantum Ctr,Skolkovo Inst Sci & Technol,1
+Russian Quantum Ctr,South Ural State Univ SUSU,1
+S China Normal Univ,Tsinghua Univ,1
+S China Normal Univ,Univ Sci & Technol China,1
+S N Bose Natl Ctr Basic Sci,Univ libre Bruxelles ULB,1
+SC Solut,Univ Queensland,1
+SLAC Natl Accelerator Lab,Stanford Univ,1
+SOITEC SA,Univ Limoges,1
+SSF IEU,Univ Sci & Technol China,1
+STMicroelectron SAS,Univ Paris Saclay,1
+STMicroelectron SAS,Weizmann Inst Sci,1
+SUNY Stony Brook,UCL,1
+SUNY Stony Brook,Univ Padua,1
+Saarland Univ,SeeQC Inc,1
+Saarland Univ,Syracuse Univ,1
+Saarland Univ,US Air Force Res Lab,1
+Saarland Univ,Univ Colorado,1
+Saarland Univ,Univ Fed Santa Catarina,1
+Salzburg Univ,Tomsk State Univ,1
+Salzburg Univ,Univ Basque Country,1
+Salzburg Univ,Univ Erlangen Nurnberg,1
+SandboxAQ,Univ Stuttgart,1
+Sandia Natl Labs,Univ Calif Berkeley,1
+Sapienza Univ Roma,Tokyo Inst Technol,1
+Sapienza Univ Roma,Univ Fed Sao Carlos,1
+Sapienza Univ Roma,Univ Paris Saclay,1
+Sapienza Univ Roma,Univ Pavia,1
+Sapienza Univ Roma,Univ Roma Tre,1
+Sch Informat,Univ Innsbruck,1
+Sch Informat,Univ Oxford,1
+Scuola Normale Super Pisa,Univ Florence,1
+Scuola Normale Super Pisa,Univ Genoa,1
+Secretaria Estado Educ Alagoas,Univ Fed Pernambuco,1
+SeeQC Inc,Syracuse Univ,1
+SeeQC Inc,US Air Force Res Lab,1
+SeeQC Inc,Univ Colorado,1
+SeeQC Inc,Univ Fed Santa Catarina,1
+Seoul Natl Univ,Univ Chicago,1
+Seoul Natl Univ,Univ Sydney,1
+Shandong Normal Univ,Shanghai Jiao Tong Univ,1
+Shandong Normal Univ,Soochow Univ,1
+Shandong Normal Univ,Texas A&M Univ,1
+Shandong Normal Univ,Tongji Univ,1
+Shanghai Artificial Intelligence Lab,Shanghai Qi Zhi Inst,1
+Shanghai Artificial Intelligence Lab,Shanghai Res Ctr Quantum Sci,1
+Shanghai Artificial Intelligence Lab,Tsinghua Univ,1
+Shanghai Ind Technol Res Inst,Shanghai Inst Microsyst & Informat Technol,1
+Shanghai Ind Technol Res Inst,Univ Calif Los Angeles,1
+Shanghai Inst Microsyst & Informat Technol,Univ Calif Los Angeles,1
+Shanghai Jiao Tong Univ,Southern Univ Sci & Technol,1
+Shanghai Jiao Tong Univ,Sun Yat sen Univ,1
+Shanghai Jiao Tong Univ,Tech Univ Dresden,1
+Shanghai Jiao Tong Univ,Tsung Dao Lee Inst,1
+Shanghai Jiao Tong Univ,Univ Bern,1
+Shanghai Jiao Tong Univ,Univ Oxford,1
+Shanghai Jiao Tong Univ,Wuhan Inst Technol,1
+Shanghai Qi Zhi Inst,Shanghai Res Ctr Quantum Sci,1
+Shanghai Qi Zhi Inst,Tsinghua Univ,1
+Shanghai Res Ctr Quantum Sci,Tsinghua Univ,1
+Shanghai Res Ctr Quantum Sci,Univ Sci & Technol China,1
+Shanghai Univ,Univ Basque Country,1
+Shanghai Univ,Univ Sci & Technol China,1
+Shangrao Normal Univ,Univ Calgary,1
+Shangrao Normal Univ,Zhejiang Univ Sci & Technol,1
+Shanxi Normal Univ,Shanxi Univ,1
+Shanxi Normal Univ,Tongji Univ,1
+Shanxi Normal Univ,Univ Sci & Technol China,1
+Shanxi Normal Univ,Yanbian Univ,1
+Shanxi Univ,Tech Univ Denmark,1
+Shanxi Univ,Tsung Dao Lee Inst,1
+Shanxi Univ,Univ Bristol,1
+Shanxi Univ,Univ Ulm,1
+Shanxi Univ,Univ Washington,1
+Shanxi Univ,Univ Western Australia,1
+Shanxi Univ,Yanbian Univ,1
+Shanxi Univ,Zhejiang Univ,1
+Shenzhen Key Lab Quantum Sci & Engn,South China Normal Univ,1
+Shenzhen Key Lab Quantum Sci & Engn,Southern Univ Sci & Technol,1
+Sichuan Univ Sci & Engn,Southwest Jiaotong Univ,1
+Sichuan Univ Sci Engn,Southwest Jiaotong Univ,1
+Sichuan Univ Sci Engn,Univ Michigan,1
+Sicoya GmbH,Univ Geneva,1
+Singapore Univ Technol & Design,Univ Edinburgh,1
+Singapore Univ Technol & Design,Univ Innsbruck,1
+Singapore Univ Technol & Design,Univ Maryland,1
+Singapore Univ Technol & Design,Univ Oxford,1
+Singapore Univ Technol & Design,VitreaLab GmbH,1
+Sohag Univ,Taif Univ,1
+Sohag Univ,Univ Jordan,1
+Songshan Lake Mat Lab,UCAS,1
+Songshan Lake Mat Lab,Univ Chinese Acad Sci,1
+Soochow Univ,Southeast Univ,1
+Soochow Univ,Texas A&M Univ,1
+Soochow Univ,Univ Calgary,1
+Soochow Univ,Univ Sci & Technol China,1
+Soochow Univ,Univ Sci & Technol China CAS,1
+Sorbonne Univ,Southern Univ Sci & Technol,1
+Sorbonne Univ,Univ Edinburgh,1
+Sorbonne Univ,Univ Firenze,1
+Sorbonne Univ,Univ Lisbon,1
+Sorbonne Univ,Univ Maryland,1
+Sorbonne Univ,Univ Massachusetts,1
+Sorbonne Univ,Univ Oxford,1
+Sorbonne Univ,Univ Padua,1
+Sorbonne Univ,Univ Roma Tre,1
+Sorbonne Univ,Virginia Tech,1
+Soreq NRC,Weizmann Inst Sci,1
+Sotera Def Solut,US Naval Acad,1
+Sotera Def Solut Inc,USN,1
+South China Normal Univ,Southern Univ Sci & Technol,1
+South China Normal Univ,Sun Yat sen Univ,1
+South China Normal Univ,Univ Fed Campina Grande,1
+South China Normal Univ,Univ Maryland,1
+South China Normal Univ,Univ Southampton,1
+South China Univ Technol,Univ Chinese Acad Sci,1
+South China Univ Technol,Univ Michigan,1
+South China Univ Technol,Zhejiang Univ,1
+South Univ Sci & Technol China,Univ Sydney,1
+Southeast Univ,Univ Sci & Technol China CAS,1
+Southeast Univ,Univ Warwick,1
+Southeast Univ,Wigner Res Ctr Phys,1
+Southern Univ Sci & Technol,USTC,1
+Southern Univ Sci & Technol,Univ Arizona,1
+Southern Univ Sci & Technol,Washington Univ,1
+Southern Univ Sci & Technol,Wuhan Inst Technol,1
+Southwest Univ,Univ Michigan,1
+Space Engn Univ,Tianjin Normal Univ,1
+Space Engn Univ,Univ Sci & Technol Beijing,1
+St Petersburg Electrotech Univ LETI,Tech Univ Denmark,1
+Stanford Univ,Technion Israel Inst Technol,1
+Stanford Univ,Tel Aviv Univ,1
+Stanford Univ,Univ Calif Berkeley,1
+Stanford Univ,Univ Colorado,1
+Stanford Univ,Univ Glasgow,1
+Stanford Univ,Univ Maryland,1
+Stanford Univ,Univ Melbourne,1
+Stanford Univ,Univ Michigan,1
+Stanford Univ,Univ Oregon,1
+Stanford Univ,Univ Oxford,1
+Stanford Univ,Univ Sydney,1
+Stanford Univ,Univ Texas San Antonio,1
+Stellenbosch Univ,USRA Res Inst Adv Comp Sci RIACS,1
+Stellenbosch Univ,Univ KwaZulu Natal,1
+Stockholm Univ,Univ Geneva,1
+Stuttgart Res Ctr Photon Engn SCoPE,Univ Sci & Technol China,1
+Stuttgart Res Ctr Photon Engn SCoPE,Univ Stuttgart,1
+Sun Yat sen Univ,Univ Fed Campina Grande,1
+Sun Yat sen Univ,Univ Maryland,1
+Sun Yat sen Univ,Univ Queensland,1
+Sun Yat sen Univ,Univ Sci & Technol China,1
+Sun Yat sen Univ,Univ Southampton,1
+Sun Yat sen Univ,Univ St Andrews,1
+Sun Yat sen Univ,Univ Wurzburg,1
+Swinburne Univ Technol,Tianjin Univ,1
+Swinburne Univ Technol,Univ Elect Sci & Technol China,1
+Swinburne Univ Technol,Univ Glasgow,1
+Swinburne Univ Technol,Univ Palermo,1
+Swinburne Univ Technol,Univ Strathclyde,1
+Swinburne Univ Technol,Univ Sussex,1
+Swiss Fed Inst Technol,Swiss Fed Inst Technol Lausanne FPFL,1
+Swiss Fed Inst Technol,Tsinghua Univ,1
+Swiss Fed Inst Technol,Univ Amsterdam,1
+Swiss Fed Inst Technol,Univ Appl Sci & Arts Northwestern Switzerland,1
+Swiss Fed Inst Technol,Univ Cambridge,1
+Swiss Fed Inst Technol,Univ Innsbruck,1
+Swiss Fed Inst Technol,Univ Palermo,1
+Swiss Fed Inst Technol,Univ Queensland,1
+Swiss Fed Inst Technol,Univ Ulm,1
+Swiss Fed Inst Technol,Univ Waterloo,1
+Syracuse Univ,US Air Force Res Lab,1
+Syracuse Univ,Univ Colorado,1
+Syracuse Univ,Univ Fed Santa Catarina,1
+TECNALIA,Univ Basque Country UPV EHU,1
+TECNALIA,Univ Carlos III Madrid,1
+TJ Watson Res Ctr,Univ Copenhagen,1
+TU Dortmund,Univ Basel,1
+TU Dortmund,Univ Elect Sci & Technol China,1
+TU Dortmund,Zhejiang Univ,1
+TU Wien,Univ Vienna,1
+Taif Univ,Univ Jordan,1
+Tamagawa Univ,Univ Bristol,1
+Tamagawa Univ,Univ Southampton,1
+Tamagawa Univ,Univ Tokyo,1
+Tech Univ Berlin,Univ Bremen,1
+Tech Univ Berlin,Univ Grenoble Alpes,1
+Tech Univ Berlin,Univ Washington,1
+Tech Univ Darmstadt,Univ Erlangen Nurnberg,1
+Tech Univ Darmstadt,Univ Fed Rio de Janeiro,1
+Tech Univ Darmstadt,Univ Sonora,1
+Tech Univ Darmstadt,Univ Vienna,1
+Tech Univ Denmark,Univ Arizona,1
+Tech Univ Denmark,Univ Calif Davis,1
+Tech Univ Denmark,Univ Copenhagen,1
+Tech Univ Denmark,Univ Sci & Technol China,1
+Tech Univ Denmark,Univ Stuttgart,1
+Tech Univ Denmark,Zhejiang Univ,1
+Tech Univ Dresden,Univ Bern,1
+Tech Univ Munchen Munchen,Tech Univ Munich,1
+Tech Univ Munchen Munchen,Univ Augsburg,1
+Tech Univ Munchen Munchen,Univ Valencia,1
+Tech Univ Munchen Munchen,Westfalische Wilhelms Univ Munster,1
+Tech Univ Munich,Technion Israel Inst Technol,1
+Tech Univ Munich,Texas A&M Univ,1
+Tech Univ Munich,Univ Augsburg,1
+Tech Univ Munich,Univ Bremen,1
+Tech Univ Munich,Univ Firenze,1
+Tech Univ Munich,Univ Maryland,1
+Tech Univ Munich,Univ Mayor,1
+Tech Univ Munich,Univ Sheffield,1
+Tech Univ Munich,Univ Valencia,1
+Tech Univ Munich,Westfalische Wilhelms Univ Munster,1
+Tech Univ Wien,Univ Catolica Santisima Concepcion,1
+Tech Univ Wien,Univ Concepcion,1
+Technion Israel Inst Technol,Tel Aviv Univ,1
+Technion Israel Inst Technol,USN,1
+Technion Israel Inst Technol,Univ Grenoble Alpes,1
+Technion Israel Inst Technol,Univ London Imperial Coll Sci Technol & Med,1
+Technion Israel Inst Technol,Univ Ottawa,1
+Technion Israel Inst Technol,Univ Paderborn,1
+Technion Israel Inst Technol,Univ Tokyo,1
+Technion Israel Inst Technol,Univ Toronto,1
+Technol Innovat Inst,Univ Catolica Santisima Concepcion,1
+Technol Innovat Inst,Univ Fed Rio Grande do Norte,1
+Technol Innovat Inst,Univ Geneva,1
+Technol Innovat Inst,Univ Grenoble Alpes,1
+Texas A&M Univ,Tongji Univ,1
+Tianjin Normal Univ,Tianjin Univ Tradit Chinese Med,1
+Tianjin Univ Tradit Chinese Med,Univ Sci & Technol Beijing,1
+Tokyo Inst Technol,Tokyo Int Univ,1
+Tokyo Inst Technol,Univ Grenoble Alpes,1
+Tokyo Inst Technol,Univ Roma Tre,1
+Tokyo Inst Technol,Univ Tokyo,1
+Tokyo Inst Technol,Univ Vienna,1
+Tokyo Int Univ,Univ Tokyo,1
+Tokyo Med & Dent Univ,Univ Tokyo,1
+Tomsk State Univ,Univ Basque Country,1
+Tomsk State Univ,Univ Erlangen Nurnberg,1
+Tongji Univ,Univ Bristol,1
+Tongji Univ,Univ Copenhagen,1
+Tongji Univ,Univ Manitoba,1
+Tongji Univ,Univ Sci & Technol China,1
+Tongji Univ,Zhejiang Normal Univ,1
+Toshiba Europe Ltd,Univ Cambridge,1
+Tours Univ,Univ Basque Country UPV EHU,1
+Tours Univ,Univ Bordeaux,1
+Tsinghua Univ,Univ British Columbia,1
+Tsinghua Univ,Univ Hong Kong,1
+Tsinghua Univ,Univ Maryland,1
+Tsinghua Univ,Univ Queensland,1
+Tsinghua Univ,Univ Sci & Technol China,1
+Tsinghua Univ,Univ Waterloo,1
+Tulane Univ,Univ Dayton,1
+Tulane Univ,Univ Illinois,1
+UCAS,Univ Chinese Acad Sci,1
+UCL,Univ Edinburgh,1
+UCL,Univ Oxford,1
+UCL,Univ Paris 06,1
+UCL,Univ Pavia,1
+UCL,Univ Stuttgart,1
+UCL,Vector Inst,1
+UCL,Yunnan OceanDeepland Organ Optoelect Technol Ltd,1
+UCL,Yunnan Univ,1
+UMI 3654,Univ Catania,1
+US Air Force Res Lab,Univ Colorado,1
+US Air Force Res Lab,Univ Fed Santa Catarina,1
+US Army,Univ Chicago,1
+US Army,Univ Maryland,1
+US Army,Univ Maryland Coll Pk,1
+US Army Res Lab,Univ Chicago,1
+US Army Res Lab,Univ Maryland,1
+US Army Res Lab,Univ Massachusetts,1
+US DOE,Univ Chicago,1
+USN,Univ London Imperial Coll Sci Technol & Med,1
+USRA Res Inst Adv Comp Sci RIACS,Univ KwaZulu Natal,1
+USTC,Univ Arizona,1
+USTC,Univ Sci & Technol China,1
+Ulm Univ,Univ Basque Country UPV EHU,1
+Ulm Univ,Univ Bordeaux,1
+Univ Alberta,Univ Calgary,1
+Univ Alberta,Univ Maryland,1
+Univ Amsterdam,Univ Cambridge,1
+Univ Amsterdam,Univ Ulm,1
+Univ Andes,Univ Autonoma Madrid,1
+Univ Arizona,Univ Illinois,1
+Univ Arizona,Univ Massachusetts,1
+Univ Arizona,Univ New Mexico,1
+Univ Arizona,Univ Sci & Technol China,1
+Univ Arizona,Univ Tokyo,1
+Univ Arizona,Univ Toronto,1
+Univ Arizona,Univ Waterloo,1
+Univ Arizona,Xanadu,1
+Univ Augsburg,Univ Valencia,1
+Univ Augsburg,Westfalische Wilhelms Univ Munster,1
+Univ Autonoma Madrid,Univ Complutense,1
+Univ Autonoma Madrid,Univ Sheffield,1
+Univ Basel,Univ Copenhagen,1
+Univ Basel,Univ Elect Sci & Technol China,1
+Univ Basel,Univ Geneva,1
+Univ Basel,Univ Lyon,1
+Univ Basel,Zhejiang Univ,1
+Univ Basque Country,Univ Concepcion,1
+Univ Basque Country,Univ Erlangen Nurnberg,1
+Univ Basque Country,Univ Fed Goias,1
+Univ Basque Country,Univ Fed Santa Catarina,1
+Univ Basque Country,Univ London Imperial Coll Sci Technol & Med,1
+Univ Basque Country,Univ Munich,1
+Univ Basque Country,Univ Santiago Chile USACH,1
+Univ Basque Country,Univ Sci & Technol China,1
+Univ Basque Country,Univ Seville,1
+Univ Basque Country UPV EHU,Univ Bordeaux,1
+Univ Basque Country UPV EHU,Univ Carlos III Madrid,1
+Univ Basque Country UPV EHU,Univ Queensland,1
+Univ Basque Country UPV EHU,Univ Santiago Chile USACH,1
+Univ Basque Country UPV EHU,Univ Ulm,1
+Univ Belgrade,Univ Vienna,1
+Univ Belgrade,VitreaLab GmbH,1
+Univ Bio Bio,Univ Concepcion,1
+Univ Bordeaux,Univ Queensland,1
+Univ Bremen,Univ Paderborn,1
+Univ Brescia,Univ Dayton,1
+Univ Bristol,Univ Calgary,1
+Univ Bristol,Univ Calif Santa Barbara,1
+Univ Bristol,Univ Cote Azur,1
+Univ Bristol,Univ Edinburgh,1
+Univ Bristol,Univ Fed Rio de Janeiro,1
+Univ Bristol,Univ Fed Santa Catarina,1
+Univ Bristol,Univ Geneva,1
+Univ Bristol,Univ Innsbruck,1
+Univ Bristol,Univ KwaZulu Natal,1
+Univ Bristol,Univ Nottingham,1
+Univ Bristol,Univ Paris Saclay,1
+Univ Bristol,Univ Roma La Sapienza,1
+Univ Bristol,Univ Stuttgart,1
+Univ Bristol,Univ Tokyo,1
+Univ Bristol,Univ Warwick,1
+Univ Bristol,Zhejiang Univ,1
+Univ British Columbia,Univ Illinois,1
+Univ British Columbia,Univ Innsbruck,1
+Univ British Columbia,Univ Maryland,1
+Univ British Columbia,Univ Michigan,1
+Univ British Columbia,Univ Tokyo,1
+Univ Calgary,Univ Fed Rio de Janeiro,1
+Univ Calgary,Univ Fed Santa Catarina,1
+Univ Calgary,Univ Geneva,1
+Univ Calgary,Univ Ottawa,1
+Univ Calgary,Univ Sci & Technol China CAS,1
+Univ Calgary,Univ Washington,1
+Univ Calif Berkeley,Univ Calif Davis,1
+Univ Calif Berkeley,Univ Cambridge,1
+Univ Calif Berkeley,Univ Cote Azur,1
+Univ Calif Berkeley,Univ Sheffield,1
+Univ Calif Berkeley,Univ Sherbrooke,1
+Univ Calif Berkeley,Univ Sydney,1
+Univ Calif Davis,Univ Sydney,1
+Univ Calif Los Angeles,Univ Maryland,1
+Univ Calif Santa Barbara,Univ South Carolina,1
+Univ Calif Santa Barbara,Univ Southampton,1
+Univ Calif Santa Barbara,Univ Warsaw,1
+Univ Calif Santa Barbara,Warsaw Univ Technol,1
+Univ Calif Santa Cruz,Univ Texas Dallas,1
+Univ Calif Santa Cruz,Univ Wisconsin Madison,1
+Univ Calif Santa Cruz,William & Mary,1
+Univ Cambridge,Univ Copenhagen,1
+Univ Cambridge,Univ Cote Azur,1
+Univ Cambridge,Univ Oxford,1
+Univ Cambridge,Univ PSL,1
+Univ Cambridge,Univ Saarland,1
+Univ Cambridge,Univ Ulm,1
+Univ Carthage,Univ Waterloo,1
+Univ Catolica Santisima Concepcion,Univ Fed Rio de Janeiro,1
+Univ Catolica Santisima Concepcion,Univ Geneva,1
+Univ Catolica Santisima Concepcion,Univ Grenoble Alpes,1
+Univ Chicago,Univ Copenhagen,1
+Univ Chicago,Univ Maryland,1
+Univ Chicago,Univ Southampton,1
+Univ Chicago,Univ Sydney,1
+Univ Chicago,Univ Tokyo,1
+Univ Chicago,Univ Washington,1
+Univ Chicago,Xi An Jiao Tong Univ,1
+Univ Chinese Acad Sci,Univ Michigan,1
+Univ Chinese Acad Sci,Univ South Wales,1
+Univ Chinese Acad Sci,Zhejiang Univ,1
+Univ Coll Dublin,Univ Edinburgh,1
+Univ Coll Dublin,Univ Vienna,1
+Univ Coll Dublin,Univ Waterloo,1
+Univ Cologne,Univ Sci & Technol China,1
+Univ Cologne,Univ Siegen,1
+Univ Colorado,Univ Fed Santa Catarina,1
+Univ Colorado,Univ Oregon,1
+Univ Colorado,Univ Oxford,1
+Univ Colorado,Univ Texas San Antonio,1
+Univ Colorado Boulder,Univ Delaware,1
+Univ Colorado Boulder,Univ Southern Calif,1
+Univ Colorado Boulder,Virginia Tech,1
+Univ Concepcion,Univ Fed Rio Grande do Norte,1
+Univ Concepcion,Univ Geneva,1
+Univ Concepcion,Univ Grenoble Alpes,1
+Univ Concepcion,Univ Seville,1
+Univ Copenhagen,Univ Elect Sci & Technol China,1
+Univ Copenhagen,Univ Iowa,1
+Univ Copenhagen,Univ PSL,1
+Univ Copenhagen,Univ Sci & Technol China,1
+Univ Copenhagen,Univ Warsaw,1
+Univ Copenhagen,Weizmann Inst Sci,1
+Univ Cote Azur,Univ Sheffield,1
+Univ Cote Azur,Univ Stuttgart,1
+Univ Delaware,Virginia Tech,1
+Univ Delhi,Univ Sci & Technol,1
+Univ Edinburgh,Univ Glasgow,1
+Univ Edinburgh,Univ Maryland,1
+Univ Edinburgh,Univ Paris 06,1
+Univ Edinburgh,Univ Pavia,1
+Univ Edinburgh,Univ Strathclyde,1
+Univ Edinburgh,Univ Stuttgart,1
+Univ Edinburgh,Univ Waterloo,1
+Univ Elect Sci & Technol China,Univ Glasgow,1
+Univ Elect Sci & Technol China,Univ Palermo,1
+Univ Elect Sci & Technol China,Univ Sci & Technol China,1
+Univ Elect Sci & Technol China,Univ Strathclyde,1
+Univ Elect Sci & Technol China,Univ Sussex,1
+Univ Elect Sci & Technol China,Zhejiang Univ,1
+Univ Electrocommun,Univ Twente,1
+Univ Electrocommun,Waseda Univ,1
+Univ Electrocommun,Wuhan Inst Technol,1
+Univ Erlangen Nurnberg,Univ Grad Ctr,1
+Univ Erlangen Nurnberg,Univ Guanajuato,1
+Univ Erlangen Nurnberg,Univ Ottawa,1
+Univ Erlangen Nurnberg,Univ Rochester,1
+Univ Erlangen Nurnberg,Univ Waterloo,1
+Univ Exeter,Univ Zaragoza,1
+Univ Fed Campina Grande,Univ Maryland,1
+Univ Fed Campina Grande,Univ Southampton,1
+Univ Fed Fluminense,Univ Tecnol Fed Parana UTFPR,1
+Univ Fed Goias,Univ Fed Santa Catarina,1
+Univ Fed Minas Gerais,Univ Fed Rio de Janeiro,1
+Univ Fed Minas Gerais,Univ Fed Rural Pernambuco,1
+Univ Fed Rio Grande do Norte,Univ Fed Rio de Janeiro,1
+Univ Fed Rio de Janeiro,Univ Fed Santa Catarina,1
+Univ Fed Rio de Janeiro,Univ Geneva,1
+Univ Fed Rio de Janeiro,Univ Grenoble Alpes,1
+Univ Fed Rio de Janeiro,Univ Naples Federico II,1
+Univ Fed Rio de Janeiro,Univ Pavia,1
+Univ Fed Rio de Janeiro,Univ Roma La Sapienza,1
+Univ Fed Rio de Janeiro,Univ Vienna,1
+Univ Fed Sao Carlos,Univ Paris Saclay,1
+Univ Fed Sao Carlos,Univ Pavia,1
+Univ Fed Sao Carlos,Univ Vienna,1
+Univ Firenze,Univ Roma Tre,1
+Univ Firenze,Vinca Inst Nucl Sci,1
+Univ Florence,Univ Genoa,1
+Univ Geneva,Univ Grenoble Alpes,1
+Univ Geneva,Univ Nice Sophia Antipolis,1
+Univ Geneva,Univ Oxford,1
+Univ Geneva,Univ Sci & Technol China,1
+Univ Geneva,Univ Stuttgart,1
+Univ Geneva,Univ Turku,1
+Univ Glasgow,Univ Palermo,1
+Univ Glasgow,Univ Sussex,1
+Univ Glasgow,Univ Toronto,1
+Univ Glasgow,Univ Wurzburg,1
+Univ Glasgow,Xi An Jiao Tong Univ,1
+Univ Grad Ctr,Univ Guanajuato,1
+Univ Grenoble 1,Univ Wurzburg,1
+Univ Grenoble Alpes,Univ Limoges,1
+Univ Grenoble Alpes,Univ Mayor,1
+Univ Grenoble Alpes,Univ Oxford,1
+Univ Grenoble Alpes,Univ Paderborn,1
+Univ Grenoble Alpes,Univ Panama,1
+Univ Grenoble Alpes,Univ St Andrews,1
+Univ Grenoble Alpes,Univ Strasbourg,1
+Univ Grenoble Alpes,Univ Wurzburg,1
+Univ Guelph,Univ Sydney,1
+Univ Guelph,Univ Texas Dallas,1
+Univ Guilan,Univ Ottawa,1
+Univ Guilan,Univ Palermo,1
+Univ Hassan 2,Univ Mohammed 5,1
+Univ Hong Kong,Univ Sci & Technol China,1
+Univ Illinois,Univ Innsbruck,1
+Univ Innsbruck,Univ Paris Diderot,1
+Univ Innsbruck,VitreaLab GmbH,1
+Univ Innsbruck,Weizmann Inst Sci,1
+Univ Innsbruck A,Univ Oxford,1
+Univ KwaZulu Natal,Washington Univ,1
+Univ Limoges,Univ Pavia,1
+Univ Limoges,Univ Toronto,1
+Univ Lisbon,Univ Massachusetts,1
+Univ Lisbon,Univ Montpellier,1
+Univ Lisbon,Univ Wisconsin Milwaukee,1
+Univ Loughborough,Univ Michigan,1
+Univ Manchester,Univ Sci & Technol China,1
+Univ Maryland,Univ Maryland Coll Pk,1
+Univ Maryland,Univ Michigan,1
+Univ Maryland,Univ Southampton,1
+Univ Maryland,Univ Vienna,1
+Univ Maryland,Virginia Tech,1
+Univ Melbourne,Univ Sci & Technol China,1
+Univ Messina,Univ Michigan,1
+Univ Michigan,Washington Univ,1
+Univ Michigan,Zhejiang Univ,1
+Univ Milan,Univ Roma Tre,1
+Univ Milan,Univ Trieste,1
+Univ Moncton,Univ Seville,1
+Univ Moncton,Univ Waterloo,1
+Univ Montpellier,Univ Wisconsin,1
+Univ Montpellier,Univ Wisconsin Milwaukee,1
+Univ Montreal,Vitcon Projectconsult GmbH,1
+Univ Naples Federico 2,Univ Roma La Sapienza,1
+Univ New Mexico,Univ Waterloo,1
+Univ Nottingham,Univ Oxford,1
+Univ Nottingham,Univ Sci & Technol China,1
+Univ Nottingham,Univ Southampton,1
+Univ Oregon,Univ Oxford,1
+Univ Oregon,Univ Texas San Antonio,1
+Univ Ottawa,Univ Palermo,1
+Univ Ottawa,Univ Rochester,1
+Univ Ottawa,Univ Toronto,1
+Univ Oxford,Univ Paris 06,1
+Univ Oxford,Univ Paris Saclay,1
+Univ Oxford,Univ Pavia,1
+Univ Oxford,Univ Sheffield,1
+Univ Oxford,Univ Southampton,1
+Univ Oxford,Univ Stuttgart,1
+Univ Oxford,Univ Texas San Antonio,1
+Univ Oxford,Univ Warwick,1
+Univ Oxford,VitreaLab GmbH,1
+Univ Pais Vasco UPV EHU,Univ Zaragoza,1
+Univ Palermo,Univ Strathclyde,1
+Univ Palermo,Univ Sussex,1
+Univ Palermo,Univ Turku,1
+Univ Paris 06,Univ Pavia,1
+Univ Paris 06,Univ Stuttgart,1
+Univ Paris 11,Univ Paris Saclay,1
+Univ Paris 11,Yale Univ,1
+Univ Paris Diderot,Univ Paris Saclay,1
+Univ Paris Diderot,Weizmann Inst Sci,1
+Univ Paris Saclay,Univ Pavia,1
+Univ Paris Saclay,Univ Vienna,1
+Univ Paris Saclay,Weizmann Inst Sci,1
+Univ Paris Saclay,Yale Univ,1
+Univ Parma,Univ Verona,1
+Univ Pavia,Univ Stuttgart,1
+Univ Pavia,Univ Vienna,1
+Univ Queensland,Univ Sci & Technol China,1
+Univ Queensland,Univ Ulm,1
+Univ Queensland,Univ Vienna,1
+Univ Queensland,Univ Waterloo,1
+Univ Queensland,Univ Western Australia,1
+Univ Roma La Sapienza,Univ Roma Tre,1
+Univ Roma La Sapienza,Univ Ulm,1
+Univ Roma Tre,Univ Vienna,1
+Univ Rostock,Univ Technol Sydney,1
+Univ Santiago Chile USACH,Univ Sci & Technol China,1
+Univ Sci & Technol China,Univ Sci & Technol China CAS,1
+Univ Sci & Technol China,Univ Siegen,1
+Univ Sci & Technol China,Univ Stuttgart,1
+Univ Sci & Technol China,Univ Toronto,1
+Univ Sci & Technol China,Univ Vigo,1
+Univ Sci & Technol China,Wuhan Inst Technol,1
+Univ Sci & Technol China,Wuhan Univ,1
+Univ Sci & Technol China,Zhejiang Univ,1
+Univ Sci & Technol China,Zhejiang Univ Sci & Technol,1
+Univ Seville,Univ Waterloo,1
+Univ So Calif,Univ Vienna,1
+Univ South Carolina,Univ Warsaw,1
+Univ South Carolina,Warsaw Univ Technol,1
+Univ Southampton,Univ Tokyo,1
+Univ St Andrews,Univ Strasbourg,1
+Univ Strasbourg,Univ Wurzburg,1
+Univ Strathclyde,Univ Sussex,1
+Univ Sydney,Univ Tokyo,1
+Univ Sydney,Univ Waterloo,1
+Univ Texas Dallas,Univ Waterloo,1
+Univ Texas Dallas,William & Mary,1
+Univ Tokyo,Univ Twente,1
+Univ Tokyo,Univ Waterloo,1
+Univ Toronto,Univ Vigo,1
+Univ Valencia,Westfalische Wilhelms Univ Munster,1
+Univ Vienna,Wigner Res Ctr Phys,1
+Univ Vienna,Xi An Jiao Tong Univ,1
+Univ Warsaw,Warsaw Univ Technol,1
+Univ Waterloo,Waterloo Inst Nanotechnol,1
+Univ Waterloo,Weizmann Inst Sci,1
+Univ Western Australia,Zhejiang Univ,1
+Virginia Tech,Virginia Tech Ctr Quantum Informat Sci & Engn,1
+Waseda Univ,Wuhan Inst Technol,1
+Yunnan OceanDeepland Organ Optoelect Technol Ltd,Yunnan Univ,1
+Zhejiang Univ,Zhejiang Univ Sci & Technol,1
+Zhejiang Univ,Zhejiang Univ Technol,1
