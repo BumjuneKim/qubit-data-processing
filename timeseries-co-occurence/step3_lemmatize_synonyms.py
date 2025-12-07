@@ -4,8 +4,8 @@ import pandas as pd
 import spacy
 from collections import defaultdict
 
-INPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step2.csv')
-OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step3.csv')
+INPUT_CSV = os.path.join(os.path.dirname(__file__), 'superconducting', 'step2.csv')
+OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'superconducting', 'step3.csv')
 
 def ensure_spacy_model():
     """Ensure spaCy model is available"""
