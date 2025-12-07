@@ -5,8 +5,8 @@ from collections import Counter
 import nltk
 from nltk.corpus import stopwords
 
-INPUT_CSV = os.path.join(os.path.dirname(__file__), 'photonic_phase_1_step1.csv')
-OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'photonic_phase_1_step2.csv')
+INPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step1.csv')
+OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step2.csv')
 
 def ensure_nltk_data():
     """Ensure NLTK stopwords are available"""

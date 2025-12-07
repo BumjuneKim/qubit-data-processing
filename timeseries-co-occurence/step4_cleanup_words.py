@@ -4,8 +4,8 @@ import pandas as pd
 import re
 from collections import Counter
 
-INPUT_CSV = os.path.join(os.path.dirname(__file__), 'photonic_phase_1_step3.csv')
-OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'photonic_phase_1_step4.csv')
+INPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step3.csv')
+OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step4.csv')
 REMOVED_WORDS_CSV = os.path.join(os.path.dirname(__file__), 'remove_words.csv')
 
 def is_meaningless_word(word):

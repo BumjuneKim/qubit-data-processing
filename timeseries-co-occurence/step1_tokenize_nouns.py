@@ -17,8 +17,8 @@ from nltk.corpus import stopwords as nltk_stopwords
 from nltk import pos_tag
 from nltk.tokenize import word_tokenize
 
-INPUT_XLSX = os.path.join(os.path.dirname(__file__), 'photonic_phase_1.xlsx')
-OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'photonic_phase_1_step1.csv')
+INPUT_XLSX = os.path.join(os.path.dirname(__file__), 'trapped-ion_phase_3.xlsx')
+OUTPUT_CSV = os.path.join(os.path.dirname(__file__), 'trapped-ion', 'phase_3_step1.csv')
 
 # Columns: A=DOI, M=rawText (Title + Abstract)
 DOI_COL = 'A'
