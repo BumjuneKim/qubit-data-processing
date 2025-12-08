@@ -122,7 +122,7 @@ def create_co_occurrence_matrix(input_file, output_file):
         print(f"{i+1:2d}. {term}: {avg_sim:.4f}")
 
 if __name__ == "__main__":
-    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_TFIDF_filtered_TOP20_DTM.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'co-occurrence-matrix.csv')
+    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_TFIDF_filtered_TOP20_DTM.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_co-occurrence-matrix.csv')
     
     create_co_occurrence_matrix(input_file, output_file)

@@ -72,16 +72,36 @@ def convert_cooccurrence_to_vosviewer(input_file, output_file):
     print(f"Average weight: {np.mean(weights):.6f}")
     print(f"Median weight: {np.median(weights):.6f}")
     
-    # 상위 10개 edge 출력
-    print("\n=== Top 10 edges by weight ===")
-    sorted_edges = sorted(edge_list, key=lambda x: x[2], reverse=True)
+    # 상위 10개 edge 출력 (중복 제거 및 qubit, quantum 제외)
+    print("\n=== Top 20 edges by weight ===")
+    
+    # 중복 제거: A-B와 B-A를 하나로 통합 (가중치가 더 큰 것을 선택)
+    unique_edges = {}
+    excluded_words = {'qubit', 'quantum'}
+    
+    for word1, word2, weight in edge_list:
+        # qubit이나 quantum이 포함된 edge는 제외
+        if word1 in excluded_words or word2 in excluded_words:
+            continue
+        
+        # 정렬된 쌍을 키로 사용하여 중복 제거
+        pair_key = tuple(sorted([word1, word2]))
+        
+        # 기존에 없거나 가중치가 더 큰 경우 업데이트
+        if pair_key not in unique_edges or weight > unique_edges[pair_key][2]:
+            unique_edges[pair_key] = (pair_key[0], pair_key[1], weight)
+    
+    # 가중치 기준으로 정렬
+    sorted_edges = sorted(unique_edges.values(), key=lambda x: x[2], reverse=True)
+    
+    # 상위 10개 출력
     for i, (word1, word2, weight) in enumerate(sorted_edges[:20]):
-        print(f"{i+1:2d}. {word1} - {word2}: {weight:.6f}")
+        print(f"{word1} - {word2} ({weight:.6f})")
 
 if __name__ == "__main__":
     # 입력 및 출력 파일 경로
-    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'co-occurrence-matrix.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'node_edge_pair.txt')
+    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_co-occurrence-matrix.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_node_edge_pair.txt')
     
     # 변환 실행
     convert_cooccurrence_to_vosviewer(input_file, output_file)

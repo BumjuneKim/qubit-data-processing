@@ -81,14 +81,17 @@ def build_document_term_matrix(input_file, output_file):
     print(f"최대 문서당 단어 수: {dtm_df.iloc[:, 1:].sum(axis=1).max()}")
     print(f"최소 문서당 단어 수: {dtm_df.iloc[:, 1:].sum(axis=1).min()}")
     
-    # 가장 빈번한 단어들 출력
+    # 가장 빈번한 단어들 출력 (qubit과 quantum 제외)
     word_totals = dtm_df.iloc[:, 1:].sum(axis=0).sort_values(ascending=False)
-    print(f"\n상위 10개 빈번한 단어:")
-    for i, (word, count) in enumerate(word_totals.head(10).items()):
-        print(f"{i+1:2d}. {word}: {count}회")
+    # qubit과 quantum 단어 제외
+    excluded_words = {'qubit', 'quantum'}
+    word_totals_filtered = word_totals[~word_totals.index.isin(excluded_words)]
+    print(f"\n상위 20개 빈번한 단어 (qubit, quantum 제외):")
+    for i, (word, count) in enumerate(word_totals_filtered.head(20).items()):
+        print(f"{word}({count})")
 
 if __name__ == "__main__":
-    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_step4.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_DTM.csv')
+    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase_3_step4.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_DTM.csv')
     
     build_document_term_matrix(input_file, output_file)

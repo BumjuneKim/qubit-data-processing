@@ -1,0 +1,980 @@
+gate	entanglement	0.2285081068038959
+gate	spin	0.2689617547754976
+gate	cavity	0.3975341024349619
+gate	photon	0.4658554245640429
+gate	state	0.4353752689872755
+gate	scheme	0.4272366958676422
+gate	phase	0.3850133687518487
+gate	quantum dot	0.2952617265740468
+gate	polarization	0.2778933897167499
+gate	mode	0.3597384670922507
+gate	measurement	0.3189515696876696
+gate	couple	0.3233808333817773
+gate	information	0.2892406104248749
+gate	crystal	0.1506289335760301
+gate	atom	0.2046179662461892
+gate	fidelity	0.3530242507747799
+gate	cluster state	0.3323514951671938
+gate	circuit	0.2232195995412973
+gate	quantum state	0.1543487266282579
+gate	field	0.2977342621104822
+gate	source	0.2261656365159503
+gate	resonator	0.1278274981412284
+gate	device	0.2350079959702108
+gate	protocol	0.2169304578186561
+gate	computation	0.4092359324923785
+gate	diamond	0.0869656553478672
+gate	center	0.1159542071304896
+gate	control	0.3643083697025009
+gate	quantum computing	0.3131121455425747
+gate	resource	0.2454578464160423
+gate	channel	0.076696498884737
+entanglement	gate	0.2285081068038959
+entanglement	spin	0.2219386772286763
+entanglement	cavity	0.2716781864757402
+entanglement	photon	0.4238356359067174
+entanglement	state	0.4502237312502087
+entanglement	scheme	0.3025421556003684
+entanglement	phase	0.1780520823560094
+entanglement	quantum dot	0.2061574110172042
+entanglement	polarization	0.2061574110172042
+entanglement	mode	0.1588015514791317
+entanglement	measurement	0.2950026973749582
+entanglement	couple	0.1570271767770641
+entanglement	information	0.3381188696777105
+entanglement	crystal	0.1986582520534617
+entanglement	atom	0.2207963026235175
+entanglement	fidelity	0.2742742708813898
+entanglement	cluster state	0.1931080406738858
+entanglement	circuit	0.120434346885555
+entanglement	quantum state	0.3516107748438625
+entanglement	field	0.1784860761749785
+entanglement	source	0.170833363597183
+entanglement	resonator	0.0551737259068245
+entanglement	device	0.1755617207941958
+entanglement	protocol	0.2145754365262393
+entanglement	computation	0.2207963026235175
+entanglement	diamond	0.0625611247089854
+entanglement	center	0.0312805623544927
+entanglement	control	0.1655211777204736
+entanglement	quantum computing	0.1126228963999143
+entanglement	resource	0.2241167340969502
+entanglement	channel	0.1655211777204736
+spin	gate	0.2689617547754976
+spin	entanglement	0.2219386772286763
+spin	cavity	0.3385846542843643
+spin	photon	0.4053735932608011
+spin	state	0.4025288311435596
+spin	scheme	0.1256831749961447
+spin	phase	0.0986227345443075
+spin	quantum dot	0.280285101520231
+spin	polarization	0.280285101520231
+spin	mode	0.1979097737100941
+spin	measurement	0.1429762897859917
+spin	couple	0.3479083056285025
+spin	information	0.3565588681059645
+spin	crystal	0.3151043956244406
+spin	atom	0.1751094776459909
+spin	fidelity	0.2088900483267182
+spin	cluster state	0.1375228328345057
+spin	circuit	0.1250781983185649
+spin	quantum state	0.0691898406021663
+spin	field	0.244686229315071
+spin	source	0.091244859700871
+spin	resonator	0.2062842492517587
+spin	device	0.2187974872468418
+spin	protocol	0.1701758234142103
+spin	computation	0.150093837982278
+spin	diamond	0.5067927641305429
+spin	center	0.3508565290134527
+spin	control	0.2578553115646983
+spin	quantum computing	0.1965021149155211
+spin	resource	0.1523510148357076
+spin	channel	0.1375228328345057
+cavity	gate	0.3975341024349619
+cavity	entanglement	0.2716781864757402
+cavity	spin	0.3385846542843643
+cavity	photon	0.4526950219452832
+cavity	state	0.4699508198658441
+cavity	scheme	0.2706843430428162
+cavity	phase	0.2065040513911002
+cavity	quantum dot	0.4303808866757065
+cavity	polarization	0.1369393730331793
+cavity	mode	0.4420256812102544
+cavity	measurement	0.1539642958280121
+cavity	couple	0.5645703101984247
+cavity	information	0.2850620368313789
+cavity	crystal	0.3958742450708908
+cavity	atom	0.4399896239498089
+cavity	fidelity	0.238576603738196
+cavity	cluster state	0.1151824567441813
+cavity	circuit	0.1885669816927752
+cavity	quantum state	0.1352167966250947
+cavity	field	0.3539826464506396
+cavity	source	0.1528445406338003
+cavity	resonator	0.2303649134883627
+cavity	device	0.2239773146532262
+cavity	protocol	0.1628925924750736
+cavity	computation	0.209518868547528
+cavity	diamond	0.1959069445345017
+cavity	center	0.2285581019569187
+cavity	control	0.302353948953476
+cavity	quantum computing	0.2586267258148194
+cavity	resource	0.1701357640236453
+cavity	channel	0.086386842558136
+photon	gate	0.4658554245640429
+photon	entanglement	0.4238356359067174
+photon	spin	0.4053735932608011
+photon	cavity	0.4526950219452832
+photon	state	0.6267761055315587
+photon	scheme	0.362816074583155
+photon	phase	0.3274042084398946
+photon	quantum dot	0.4180419202657464
+photon	polarization	0.4045566970313675
+photon	mode	0.3935734549922448
+photon	measurement	0.2712271694429363
+photon	couple	0.3766217885773547
+photon	information	0.5240056397747229
+photon	crystal	0.3508565290134527
+photon	atom	0.2888557258759076
+photon	fidelity	0.471447018381453
+photon	cluster state	0.1786474002526241
+photon	circuit	0.3899552299324752
+photon	quantum state	0.3861521399361979
+photon	field	0.4109662846896021
+photon	source	0.3336415472996276
+photon	resonator	0.2381965336701654
+photon	device	0.3228249030754989
+photon	protocol	0.238609710968847
+photon	computation	0.3321840847572937
+photon	diamond	0.2025671114728546
+photon	center	0.2250745683031718
+photon	control	0.2828583837333215
+photon	quantum computing	0.2431083191631576
+photon	resource	0.2198997485667712
+photon	channel	0.2778959559485263
+state	gate	0.4353752689872755
+state	entanglement	0.4502237312502087
+state	spin	0.4025288311435596
+state	cavity	0.4699508198658441
+state	photon	0.6267761055315587
+state	scheme	0.463204241240971
+state	phase	0.254431257386479
+state	quantum dot	0.2812023673130503
+state	polarization	0.415108256509741
+state	mode	0.3529910339615094
+state	measurement	0.4566794824957875
+state	couple	0.3615128361366034
+state	information	0.4738704723373514
+state	crystal	0.3096838644555055
+state	atom	0.3011700752611819
+state	fidelity	0.4572516337168011
+state	cluster state	0.2168145451959969
+state	circuit	0.2868286431058875
+state	quantum state	0.4627751496794519
+state	field	0.3443194196409916
+state	source	0.2789896203624624
+state	resonator	0.236524958395633
+state	device	0.3066220703359332
+state	protocol	0.2926847035024817
+state	computation	0.3011700752611819
+state	diamond	0.2011455703204533
+state	center	0.1787960625070696
+state	control	0.3104390078942683
+state	quantum computing	0.2896827297511605
+state	resource	0.3493705173929173
+state	channel	0.2168145451959969
+scheme	gate	0.4272366958676422
+scheme	entanglement	0.3025421556003684
+scheme	spin	0.1256831749961447
+scheme	cavity	0.2706843430428162
+scheme	photon	0.362816074583155
+scheme	state	0.463204241240971
+scheme	phase	0.2912876325017676
+scheme	quantum dot	0.0985520659981804
+scheme	polarization	0.2168145451959969
+scheme	mode	0.2597943666588219
+scheme	measurement	0.2757801013306769
+scheme	couple	0.2752409412815901
+scheme	information	0.3692744729379982
+scheme	crystal	0.2089277235093362
+scheme	atom	0.1477701158222621
+scheme	fidelity	0.2724275017472889
+scheme	cluster state	0.1450647132964148
+scheme	circuit	0.2111001654603745
+scheme	quantum state	0.2335496832484568
+scheme	field	0.2252553167334833
+scheme	source	0.1539981007018036
+scheme	resonator	0.2030905986149808
+scheme	device	0.2872134789517763
+scheme	protocol	0.2461829819586654
+scheme	computation	0.2533201985524494
+scheme	diamond	0.0986927542439653
+scheme	center	0.1644879237399422
+scheme	control	0.2393567769390845
+scheme	quantum computing	0.1421338109037402
+scheme	resource	0.25712973861329
+scheme	channel	0.1160517706371318
+phase	gate	0.3850133687518487
+phase	entanglement	0.1780520823560094
+phase	spin	0.0986227345443075
+phase	cavity	0.2065040513911002
+phase	photon	0.3274042084398946
+phase	state	0.254431257386479
+phase	scheme	0.2912876325017676
+phase	quantum dot	0.1353329904901916
+phase	polarization	0.081199794294115
+phase	mode	0.3312706744344566
+phase	measurement	0.1656833739159028
+phase	couple	0.1511857892036908
+phase	information	0.1314684396244359
+phase	crystal	0.1564921592871903
+phase	atom	0.1449427589131121
+phase	fidelity	0.1760475392542646
+phase	cluster state	0.1593638145779191
+phase	circuit	0.2608969660436018
+phase	quantum state	0.1336306209562122
+phase	field	0.3093235573358802
+phase	source	0.1057361065275362
+phase	resonator	0.1593638145779191
+phase	device	0.1408590424547527
+phase	protocol	0.253546276418555
+phase	computation	0.2029198624783569
+phase	diamond	0.0903507902905251
+phase	center	0.1355261854357877
+phase	control	0.179284291400159
+phase	quantum computing	0.1626500121580888
+phase	resource	0.1765469659009499
+phase	channel	0.0398409536444797
+quantum dot	gate	0.2952617265740468
+quantum dot	entanglement	0.2061574110172042
+quantum dot	spin	0.280285101520231
+quantum dot	cavity	0.4303808866757065
+quantum dot	photon	0.4180419202657464
+quantum dot	state	0.2812023673130503
+quantum dot	scheme	0.0985520659981804
+quantum dot	phase	0.1353329904901916
+quantum dot	polarization	0.1794871794871795
+quantum dot	mode	0.2896827297511605
+quantum dot	measurement	0.0672672793996312
+quantum dot	couple	0.2864459496157731
+quantum dot	information	0.2312962221629036
+quantum dot	crystal	0.2717914161090704
+quantum dot	atom	0.1373087590952724
+quantum dot	fidelity	0.1459283697287791
+quantum dot	cluster state	0.0377425678048198
+quantum dot	circuit	0.1373087590952724
+quantum dot	quantum state	0.0506369683541833
+quantum dot	field	0.3174510888285778
+quantum dot	source	0.2671122253176711
+quantum dot	resonator	0.0754851356096397
+quantum dot	device	0.1601281538050871
+quantum dot	protocol	0.0800640769025435
+quantum dot	computation	0.1098470072762179
+quantum dot	diamond	0.0427960492510912
+quantum dot	center	0.0855920985021825
+quantum dot	control	0.2264554068289191
+quantum dot	quantum computing	0.1540833878403414
+quantum dot	resource	0.083624201000709
+quantum dot	channel	0.0754851356096397
+polarization	gate	0.2778933897167499
+polarization	entanglement	0.2061574110172042
+polarization	spin	0.280285101520231
+polarization	cavity	0.1369393730331793
+polarization	photon	0.4045566970313675
+polarization	state	0.415108256509741
+polarization	scheme	0.2168145451959969
+polarization	phase	0.081199794294115
+polarization	quantum dot	0.1794871794871795
+polarization	mode	0.2655425022718971
+polarization	measurement	0.1121121323327187
+polarization	couple	0.1432229748078865
+polarization	information	0.2490882392523577
+polarization	crystal	0.0988332422214801
+polarization	atom	0.1373087590952724
+polarization	fidelity	0.3752443793025749
+polarization	cluster state	0.1132277034144595
+polarization	circuit	0.1647705109143269
+polarization	quantum state	0.3038218101251
+polarization	field	0.1709352016769265
+polarization	source	0.1669451408235444
+polarization	resonator	0.0377425678048198
+polarization	device	0.2401922307076307
+polarization	protocol	0.1334401281709059
+polarization	computation	0.1373087590952724
+polarization	diamond	0.0427960492510912
+polarization	center	0.0427960492510912
+polarization	control	0.1132277034144595
+polarization	quantum computing	0.1232667102722731
+polarization	resource	0.1951231356683211
+polarization	channel	0.1132277034144595
+mode	gate	0.3597384670922507
+mode	entanglement	0.1588015514791317
+mode	spin	0.1979097737100941
+mode	cavity	0.4420256812102544
+mode	photon	0.3935734549922448
+mode	state	0.3529910339615094
+mode	scheme	0.2597943666588219
+mode	phase	0.3312706744344566
+mode	quantum dot	0.2896827297511605
+mode	polarization	0.2655425022718971
+mode	measurement	0.1899901489143371
+mode	couple	0.3146266024828463
+mode	information	0.2345088235604828
+mode	crystal	0.3489315788994265
+mode	atom	0.2068350759980076
+mode	fidelity	0.1766404511952434
+mode	cluster state	0.1066003581778052
+mode	circuit	0.1809806914982567
+mode	quantum state	0.1430193883868388
+mode	field	0.3448503674037771
+mode	source	0.0943041920192897
+mode	resonator	0.1421338109037403
+mode	device	0.2010075630518424
+mode	protocol	0.2010075630518424
+mode	computation	0.1292719224987548
+mode	diamond	0.161164592805076
+mode	center	0.161164592805076
+mode	control	0.2132007163556104
+mode	quantum computing	0.2611164839335467
+mode	resource	0.2099455524325912
+mode	channel	0.1066003581778052
+measurement	gate	0.3189515696876696
+measurement	entanglement	0.2950026973749582
+measurement	spin	0.1429762897859917
+measurement	cavity	0.1539642958280121
+measurement	photon	0.2712271694429363
+measurement	state	0.4566794824957875
+measurement	scheme	0.2757801013306769
+measurement	phase	0.1656833739159028
+measurement	quantum dot	0.0672672793996312
+measurement	polarization	0.1121121323327187
+measurement	mode	0.1899901489143371
+measurement	couple	0.1043707151808582
+measurement	information	0.2644973492052907
+measurement	crystal	0.151247535495505
+measurement	atom	0.1200730266070185
+measurement	fidelity	0.236991220970066
+measurement	cluster state	0.2640393447937798
+measurement	circuit	0.1200730266070185
+measurement	quantum state	0.2214037213850238
+measurement	field	0.1067703554397455
+measurement	source	0.1167914324947567
+measurement	resonator	0.0990147542976674
+measurement	device	0.0933520056018673
+measurement	protocol	0.1867040112037346
+measurement	computation	0.2641606585354408
+measurement	diamond	0.1122721782847679
+measurement	center	0.0748481188565119
+measurement	control	0.1237684428720843
+measurement	quantum computing	0.2425356250363329
+measurement	resource	0.2437574747090435
+measurement	channel	0.0990147542976674
+couple	gate	0.3233808333817773
+couple	entanglement	0.1570271767770641
+couple	spin	0.3479083056285025
+couple	cavity	0.5645703101984247
+couple	photon	0.3766217885773547
+couple	state	0.3615128361366034
+couple	scheme	0.2752409412815901
+couple	phase	0.1511857892036908
+couple	quantum dot	0.2864459496157731
+couple	polarization	0.1432229748078865
+couple	mode	0.3146266024828463
+couple	measurement	0.1043707151808582
+couple	information	0.2484519974999766
+couple	crystal	0.3680349649825889
+couple	atom	0.3323514951671938
+couple	fidelity	0.1746667529218745
+couple	cluster state	0.1054092553389459
+couple	circuit	0.1789584973977197
+couple	quantum state	0.1414213562373095
+couple	field	0.3637303143842525
+couple	source	0.0932504808240313
+couple	resonator	0.3513641844631532
+couple	device	0.2484519974999766
+couple	protocol	0.0496903994999953
+couple	computation	0.1533929977694741
+couple	diamond	0.2390457218668787
+couple	center	0.2390457218668787
+couple	control	0.2635231383473649
+couple	quantum computing	0.1147550621098494
+couple	resource	0.0518999296107682
+couple	channel	0.0702728368926306
+information	gate	0.2892406104248749
+information	entanglement	0.3381188696777105
+information	spin	0.3565588681059645
+information	cavity	0.2850620368313789
+information	photon	0.5240056397747229
+information	state	0.4738704723373514
+information	scheme	0.3692744729379982
+information	phase	0.1314684396244359
+information	quantum dot	0.2312962221629036
+information	polarization	0.2490882392523577
+information	mode	0.2345088235604828
+information	measurement	0.2644973492052907
+information	couple	0.2484519974999766
+information	crystal	0.2914618832617291
+information	atom	0.2477201785391794
+information	fidelity	0.2748432565150726
+information	cluster state	0.1047565601757848
+information	circuit	0.2286647801900117
+information	quantum state	0.3162277660168379
+information	field	0.2711085694801861
+information	source	0.2316826822856386
+information	resonator	0.1571348402636772
+information	device	0.2962962962962963
+information	protocol	0.2592592592592592
+information	computation	0.1714985851425088
+information	diamond	0.2375655483665994
+information	center	0.1781741612749496
+information	control	0.1964185503295965
+information	quantum computing	0.1924500897298752
+information	resource	0.2321035412742637
+information	channel	0.1047565601757848
+crystal	gate	0.1506289335760301
+crystal	entanglement	0.1986582520534617
+crystal	spin	0.3151043956244406
+crystal	cavity	0.3958742450708908
+crystal	photon	0.3508565290134527
+crystal	state	0.3096838644555055
+crystal	scheme	0.2089277235093362
+crystal	phase	0.1564921592871903
+crystal	quantum dot	0.2717914161090704
+crystal	polarization	0.0988332422214801
+crystal	mode	0.3489315788994265
+crystal	measurement	0.151247535495505
+crystal	couple	0.3680349649825889
+crystal	information	0.2914618832617291
+crystal	atom	0.1058512248049926
+crystal	fidelity	0.1004429254612884
+crystal	cluster state	0.0363696483726653
+crystal	circuit	0.1058512248049926
+crystal	quantum state	0.1219875091185666
+crystal	field	0.1882483221340046
+crystal	source	0.193046835626336
+crystal	resonator	0.1454785934906615
+crystal	device	0.2057377999494558
+crystal	protocol	0.0771516749810459
+crystal	computation	0.0793884186037444
+crystal	diamond	0.3711537444790451
+crystal	center	0.2886751345948128
+crystal	control	0.2182178902359924
+crystal	quantum computing	0.1484784677291246
+crystal	resource	0.0268607654675126
+crystal	channel	0.1091089451179961
+atom	gate	0.2046179662461892
+atom	entanglement	0.2207963026235175
+atom	spin	0.1751094776459909
+atom	cavity	0.4399896239498089
+atom	photon	0.2888557258759076
+atom	state	0.3011700752611819
+atom	scheme	0.1477701158222621
+atom	phase	0.1449427589131121
+atom	quantum dot	0.1373087590952724
+atom	polarization	0.1373087590952724
+atom	mode	0.2068350759980076
+atom	measurement	0.1200730266070185
+atom	couple	0.3323514951671938
+atom	information	0.2477201785391794
+atom	crystal	0.1058512248049926
+atom	fidelity	0.2902537824479192
+atom	cluster state	0.0808452083454443
+atom	circuit	0.088235294117647
+atom	quantum state	0.1626978433639921
+atom	field	0.3399927576278619
+atom	source	0.0715198539852151
+atom	resonator	0.1212678125181665
+atom	device	0.0857492925712544
+atom	protocol	0.2000816826662603
+atom	computation	0.1764705882352941
+atom	diamond	0.0458349248514105
+atom	center	0.0458349248514105
+atom	control	0.0909508593886248
+atom	quantum computing	0.1650245904961124
+atom	resource	0.0597081434026532
+atom	channel	0.1212678125181665
+fidelity	gate	0.3530242507747799
+fidelity	entanglement	0.2742742708813898
+fidelity	spin	0.2088900483267182
+fidelity	cavity	0.238576603738196
+fidelity	photon	0.471447018381453
+fidelity	state	0.4572516337168011
+fidelity	scheme	0.2724275017472889
+fidelity	phase	0.1760475392542646
+fidelity	quantum dot	0.1459283697287791
+fidelity	polarization	0.3752443793025749
+fidelity	mode	0.1766404511952434
+fidelity	measurement	0.236991220970066
+fidelity	couple	0.1746667529218745
+fidelity	information	0.2748432565150726
+fidelity	crystal	0.1004429254612884
+fidelity	atom	0.2902537824479192
+fidelity	cluster state	0.0920574617898323
+fidelity	circuit	0.3125809964823746
+fidelity	quantum state	0.3087701135972319
+fidelity	field	0.1389753595841406
+fidelity	source	0.2714626448989515
+fidelity	resonator	0.1534291029830538
+fidelity	device	0.2169815183013731
+fidelity	protocol	0.2386796701315104
+fidelity	computation	0.2009449263100979
+fidelity	diamond	0.1043833500958831
+fidelity	center	0.0695889000639221
+fidelity	control	0.1150718272372904
+fidelity	quantum computing	0.17538407320066
+fidelity	resource	0.2266298045496682
+fidelity	channel	0.1227432823864431
+cluster state	gate	0.3323514951671938
+cluster state	entanglement	0.1931080406738858
+cluster state	spin	0.1375228328345057
+cluster state	cavity	0.1151824567441813
+cluster state	photon	0.1786474002526241
+cluster state	state	0.2168145451959969
+cluster state	scheme	0.1450647132964148
+cluster state	phase	0.1593638145779191
+cluster state	quantum dot	0.0377425678048198
+cluster state	polarization	0.1132277034144595
+cluster state	mode	0.1066003581778052
+cluster state	measurement	0.2640393447937798
+cluster state	couple	0.1054092553389459
+cluster state	information	0.1047565601757848
+cluster state	crystal	0.0363696483726653
+cluster state	atom	0.0808452083454443
+cluster state	fidelity	0.0920574617898323
+cluster state	circuit	0.0808452083454443
+cluster state	quantum state	0.0372677996249964
+cluster state	field	0.0718885154689589
+cluster state	source	0.0982946374365981
+cluster state	resonator	0.1111111111111111
+cluster state	device	0.0785674201318386
+cluster state	protocol	0.0785674201318386
+cluster state	computation	0.485071250072666
+cluster state	center	0.0629940788348712
+cluster state	control	0.125
+cluster state	quantum computing	0.1814436846506057
+cluster state	resource	0.3692744729379982
+cluster state	channel	0.0555555555555555
+circuit	gate	0.2232195995412973
+circuit	entanglement	0.120434346885555
+circuit	spin	0.1250781983185649
+circuit	cavity	0.1885669816927752
+circuit	photon	0.3899552299324752
+circuit	state	0.2868286431058875
+circuit	scheme	0.2111001654603745
+circuit	phase	0.2608969660436018
+circuit	quantum dot	0.1373087590952724
+circuit	polarization	0.1647705109143269
+circuit	mode	0.1809806914982567
+circuit	measurement	0.1200730266070185
+circuit	couple	0.1789584973977197
+circuit	information	0.2286647801900117
+circuit	crystal	0.1058512248049926
+circuit	atom	0.088235294117647
+circuit	fidelity	0.3125809964823746
+circuit	cluster state	0.0808452083454443
+circuit	quantum state	0.1626978433639921
+circuit	field	0.2092263123863766
+circuit	source	0.1072797809778227
+circuit	resonator	0.242535625036333
+circuit	device	0.2858309752375147
+circuit	protocol	0.0857492925712544
+circuit	computation	0.1176470588235294
+circuit	diamond	0.0916698497028211
+circuit	center	0.1375047745542317
+circuit	control	0.2425356250363329
+circuit	quantum computing	0.0660098361984449
+circuit	resource	0.1194162868053064
+circuit	channel	0.0404226041727221
+quantum state	gate	0.1543487266282579
+quantum state	entanglement	0.3516107748438625
+quantum state	spin	0.0691898406021663
+quantum state	cavity	0.1352167966250947
+quantum state	photon	0.3861521399361979
+quantum state	state	0.4627751496794519
+quantum state	scheme	0.2335496832484568
+quantum state	phase	0.1336306209562122
+quantum state	quantum dot	0.0506369683541833
+quantum state	polarization	0.3038218101251
+quantum state	mode	0.1430193883868388
+quantum state	measurement	0.2214037213850238
+quantum state	couple	0.1414213562373095
+quantum state	information	0.3162277660168379
+quantum state	crystal	0.1219875091185666
+quantum state	atom	0.1626978433639921
+quantum state	fidelity	0.3087701135972319
+quantum state	cluster state	0.0372677996249964
+quantum state	circuit	0.1626978433639921
+quantum state	field	0.1446728466511236
+quantum state	source	0.098907071009368
+quantum state	resonator	0.1118033988749894
+quantum state	device	0.2371708245126284
+quantum state	protocol	0.1844661968431554
+quantum state	computation	0.027116307227332
+quantum state	diamond	0.0845154254728516
+quantum state	center	0.1267731382092775
+quantum state	control	0.1118033988749894
+quantum state	quantum computing	0.0912870929175276
+quantum state	resource	0.110096376512636
+quantum state	channel	0.1490711984999859
+field	gate	0.2977342621104822
+field	entanglement	0.1784860761749785
+field	spin	0.244686229315071
+field	cavity	0.3539826464506396
+field	photon	0.4109662846896021
+field	state	0.3443194196409916
+field	scheme	0.2252553167334833
+field	phase	0.3093235573358802
+field	quantum dot	0.3174510888285778
+field	polarization	0.1709352016769265
+field	mode	0.3448503674037771
+field	measurement	0.1067703554397455
+field	couple	0.3637303143842525
+field	information	0.2711085694801861
+field	crystal	0.1882483221340046
+field	atom	0.3399927576278619
+field	fidelity	0.1389753595841406
+field	cluster state	0.0718885154689589
+field	circuit	0.2092263123863766
+field	quantum state	0.1446728466511236
+field	source	0.0635963000748893
+field	resonator	0.1437770309379178
+field	device	0.2033314271101395
+field	protocol	0.2033314271101395
+field	computation	0.1569197342897824
+field	diamond	0.0815139145939222
+field	center	0.1630278291878444
+field	control	0.2965401263094556
+field	quantum computing	0.1760901812651247
+field	resource	0.0530931873201898
+field	channel	0.0718885154689589
+source	gate	0.2261656365159503
+source	entanglement	0.170833363597183
+source	spin	0.091244859700871
+source	cavity	0.1528445406338003
+source	photon	0.3336415472996276
+source	state	0.2789896203624624
+source	scheme	0.1539981007018036
+source	phase	0.1057361065275362
+source	quantum dot	0.2671122253176711
+source	polarization	0.1669451408235444
+source	mode	0.0943041920192897
+source	measurement	0.1167914324947567
+source	couple	0.0932504808240313
+source	information	0.2316826822856386
+source	crystal	0.193046835626336
+source	atom	0.0715198539852151
+source	fidelity	0.2714626448989515
+source	cluster state	0.0982946374365981
+source	circuit	0.1072797809778227
+source	quantum state	0.098907071009368
+source	field	0.0635963000748893
+source	resonator	0.0982946374365981
+source	device	0.2432668163999205
+source	protocol	0.1390096093713831
+source	computation	0.1787996349630378
+source	diamond	0.1114556425150705
+source	center	0.1114556425150705
+source	control	0.0737209780774485
+source	quantum computing	0.1203858530857692
+source	resource	0.0725954008640627
+source	channel	0.0982946374365981
+resonator	gate	0.1278274981412284
+resonator	entanglement	0.0551737259068245
+resonator	spin	0.2062842492517587
+resonator	cavity	0.2303649134883627
+resonator	photon	0.2381965336701654
+resonator	state	0.236524958395633
+resonator	scheme	0.2030905986149808
+resonator	phase	0.1593638145779191
+resonator	quantum dot	0.0754851356096397
+resonator	polarization	0.0377425678048198
+resonator	mode	0.1421338109037403
+resonator	measurement	0.0990147542976674
+resonator	couple	0.3513641844631532
+resonator	information	0.1571348402636772
+resonator	crystal	0.1454785934906615
+resonator	atom	0.1212678125181665
+resonator	fidelity	0.1534291029830538
+resonator	cluster state	0.1111111111111111
+resonator	circuit	0.242535625036333
+resonator	quantum state	0.1118033988749894
+resonator	field	0.1437770309379178
+resonator	source	0.0982946374365981
+resonator	device	0.1178511301977579
+resonator	protocol	0.0785674201318386
+resonator	computation	0.1616904166908886
+resonator	diamond	0.314970394174356
+resonator	center	0.3779644730092272
+resonator	control	0.125
+resonator	quantum computing	0.0907218423253028
+resonator	channel	0.0555555555555555
+device	gate	0.2350079959702108
+device	entanglement	0.1755617207941958
+device	spin	0.2187974872468418
+device	cavity	0.2239773146532262
+device	photon	0.3228249030754989
+device	state	0.3066220703359332
+device	scheme	0.2872134789517763
+device	phase	0.1408590424547527
+device	quantum dot	0.1601281538050871
+device	polarization	0.2401922307076307
+device	mode	0.2010075630518424
+device	measurement	0.0933520056018673
+device	couple	0.2484519974999766
+device	information	0.2962962962962963
+device	crystal	0.2057377999494558
+device	atom	0.0857492925712544
+device	fidelity	0.2169815183013731
+device	cluster state	0.0785674201318386
+device	circuit	0.2858309752375147
+device	quantum state	0.2371708245126284
+device	field	0.2033314271101395
+device	source	0.2432668163999205
+device	resonator	0.1178511301977579
+device	protocol	0.0833333333333333
+device	computation	0.1429154876187573
+device	diamond	0.1781741612749496
+device	center	0.0890870806374748
+device	control	0.2357022603955158
+device	quantum computing	0.2245251046848544
+device	resource	0.1450647132964148
+device	channel	0.1178511301977579
+protocol	gate	0.2169304578186561
+protocol	entanglement	0.2145754365262393
+protocol	spin	0.1701758234142103
+protocol	cavity	0.1628925924750736
+protocol	photon	0.238609710968847
+protocol	state	0.2926847035024817
+protocol	scheme	0.2461829819586654
+protocol	phase	0.253546276418555
+protocol	quantum dot	0.0800640769025435
+protocol	polarization	0.1334401281709059
+protocol	mode	0.2010075630518424
+protocol	measurement	0.1867040112037346
+protocol	couple	0.0496903994999953
+protocol	information	0.2592592592592592
+protocol	crystal	0.0771516749810459
+protocol	atom	0.2000816826662603
+protocol	fidelity	0.2386796701315104
+protocol	cluster state	0.0785674201318386
+protocol	circuit	0.0857492925712544
+protocol	quantum state	0.1844661968431554
+protocol	field	0.2033314271101395
+protocol	source	0.1390096093713831
+protocol	resonator	0.0785674201318386
+protocol	device	0.0833333333333333
+protocol	computation	0.1429154876187573
+protocol	diamond	0.0445435403187374
+protocol	center	0.0890870806374748
+protocol	control	0.1178511301977579
+protocol	quantum computing	0.1924500897298752
+protocol	resource	0.1740776559556978
+protocol	channel	0.1178511301977579
+computation	gate	0.4092359324923785
+computation	entanglement	0.2207963026235175
+computation	spin	0.150093837982278
+computation	cavity	0.209518868547528
+computation	photon	0.3321840847572937
+computation	state	0.3011700752611819
+computation	scheme	0.2533201985524494
+computation	phase	0.2029198624783569
+computation	quantum dot	0.1098470072762179
+computation	polarization	0.1373087590952724
+computation	mode	0.1292719224987548
+computation	measurement	0.2641606585354408
+computation	couple	0.1533929977694741
+computation	information	0.1714985851425088
+computation	crystal	0.0793884186037444
+computation	atom	0.1764705882352941
+computation	fidelity	0.2009449263100979
+computation	cluster state	0.485071250072666
+computation	circuit	0.1176470588235294
+computation	quantum state	0.027116307227332
+computation	field	0.1569197342897824
+computation	source	0.1787996349630378
+computation	resonator	0.1616904166908886
+computation	device	0.1429154876187573
+computation	protocol	0.1429154876187573
+computation	diamond	0.0458349248514105
+computation	center	0.0458349248514105
+computation	control	0.0909508593886248
+computation	quantum computing	0.2310344266945573
+computation	resource	0.3283947887145927
+computation	channel	0.0808452083454443
+diamond	gate	0.0869656553478672
+diamond	entanglement	0.0625611247089854
+diamond	spin	0.5067927641305429
+diamond	cavity	0.1959069445345017
+diamond	photon	0.2025671114728546
+diamond	state	0.2011455703204533
+diamond	scheme	0.0986927542439653
+diamond	phase	0.0903507902905251
+diamond	quantum dot	0.0427960492510912
+diamond	polarization	0.0427960492510912
+diamond	mode	0.161164592805076
+diamond	measurement	0.1122721782847679
+diamond	couple	0.2390457218668787
+diamond	information	0.2375655483665994
+diamond	crystal	0.3711537444790451
+diamond	atom	0.0458349248514105
+diamond	fidelity	0.1043833500958831
+diamond	circuit	0.0916698497028211
+diamond	quantum state	0.0845154254728516
+diamond	field	0.0815139145939222
+diamond	source	0.1114556425150705
+diamond	resonator	0.314970394174356
+diamond	device	0.1781741612749496
+diamond	protocol	0.0445435403187374
+diamond	computation	0.0458349248514105
+diamond	center	0.7142857142857143
+diamond	control	0.1417366773784602
+diamond	quantum computing	0.0514344499873639
+center	gate	0.1159542071304896
+center	entanglement	0.0312805623544927
+center	spin	0.3508565290134527
+center	cavity	0.2285581019569187
+center	photon	0.2250745683031718
+center	state	0.1787960625070696
+center	scheme	0.1644879237399422
+center	phase	0.1355261854357877
+center	quantum dot	0.0855920985021825
+center	polarization	0.0427960492510912
+center	mode	0.161164592805076
+center	measurement	0.0748481188565119
+center	couple	0.2390457218668787
+center	information	0.1781741612749496
+center	crystal	0.2886751345948128
+center	atom	0.0458349248514105
+center	fidelity	0.0695889000639221
+center	cluster state	0.0629940788348712
+center	circuit	0.1375047745542317
+center	quantum state	0.1267731382092775
+center	field	0.1630278291878444
+center	source	0.1114556425150705
+center	resonator	0.3779644730092272
+center	device	0.0890870806374748
+center	protocol	0.0890870806374748
+center	computation	0.0458349248514105
+center	diamond	0.7142857142857143
+center	control	0.1417366773784602
+center	quantum computing	0.0514344499873639
+control	gate	0.3643083697025009
+control	entanglement	0.1655211777204736
+control	spin	0.2578553115646983
+control	cavity	0.302353948953476
+control	photon	0.2828583837333215
+control	state	0.3104390078942683
+control	scheme	0.2393567769390845
+control	phase	0.179284291400159
+control	quantum dot	0.2264554068289191
+control	polarization	0.1132277034144595
+control	mode	0.2132007163556104
+control	measurement	0.1237684428720843
+control	couple	0.2635231383473649
+control	information	0.1964185503295965
+control	crystal	0.2182178902359924
+control	atom	0.0909508593886248
+control	fidelity	0.1150718272372904
+control	cluster state	0.125
+control	circuit	0.2425356250363329
+control	quantum state	0.1118033988749894
+control	field	0.2965401263094556
+control	source	0.0737209780774485
+control	resonator	0.125
+control	device	0.2357022603955158
+control	protocol	0.1178511301977579
+control	computation	0.0909508593886248
+control	diamond	0.1417366773784602
+control	center	0.1417366773784602
+control	quantum computing	0.1701034543599429
+control	resource	0.0615457454896663
+control	channel	0.125
+quantum computing	gate	0.3131121455425747
+quantum computing	entanglement	0.1126228963999143
+quantum computing	spin	0.1965021149155211
+quantum computing	cavity	0.2586267258148194
+quantum computing	photon	0.2431083191631576
+quantum computing	state	0.2896827297511605
+quantum computing	scheme	0.1421338109037402
+quantum computing	phase	0.1626500121580888
+quantum computing	quantum dot	0.1540833878403414
+quantum computing	polarization	0.1232667102722731
+quantum computing	mode	0.2611164839335467
+quantum computing	measurement	0.2425356250363329
+quantum computing	couple	0.1147550621098494
+quantum computing	information	0.1924500897298752
+quantum computing	crystal	0.1484784677291246
+quantum computing	atom	0.1650245904961124
+quantum computing	fidelity	0.17538407320066
+quantum computing	cluster state	0.1814436846506057
+quantum computing	circuit	0.0660098361984449
+quantum computing	quantum state	0.0912870929175276
+quantum computing	field	0.1760901812651247
+quantum computing	source	0.1203858530857692
+quantum computing	resonator	0.0907218423253028
+quantum computing	device	0.2245251046848544
+quantum computing	protocol	0.1924500897298752
+quantum computing	computation	0.2310344266945573
+quantum computing	diamond	0.0514344499873639
+quantum computing	center	0.0514344499873639
+quantum computing	control	0.1701034543599429
+quantum computing	resource	0.2345088235604828
+quantum computing	channel	0.0907218423253028
+resource	gate	0.2454578464160423
+resource	entanglement	0.2241167340969502
+resource	spin	0.1523510148357076
+resource	cavity	0.1701357640236453
+resource	photon	0.2198997485667712
+resource	state	0.3493705173929173
+resource	scheme	0.25712973861329
+resource	phase	0.1765469659009499
+resource	quantum dot	0.083624201000709
+resource	polarization	0.1951231356683211
+resource	mode	0.2099455524325912
+resource	measurement	0.2437574747090435
+resource	couple	0.0518999296107682
+resource	information	0.2321035412742637
+resource	crystal	0.0268607654675126
+resource	atom	0.0597081434026532
+resource	fidelity	0.2266298045496682
+resource	cluster state	0.3692744729379982
+resource	circuit	0.1194162868053064
+resource	quantum state	0.110096376512636
+resource	field	0.0530931873201898
+resource	source	0.0725954008640627
+resource	device	0.1450647132964148
+resource	protocol	0.1740776559556978
+resource	computation	0.3283947887145927
+resource	control	0.0615457454896663
+resource	quantum computing	0.2345088235604828
+resource	channel	0.0820609939862218
+channel	gate	0.076696498884737
+channel	entanglement	0.1655211777204736
+channel	spin	0.1375228328345057
+channel	cavity	0.086386842558136
+channel	photon	0.2778959559485263
+channel	state	0.2168145451959969
+channel	scheme	0.1160517706371318
+channel	phase	0.0398409536444797
+channel	quantum dot	0.0754851356096397
+channel	polarization	0.1132277034144595
+channel	mode	0.1066003581778052
+channel	measurement	0.0990147542976674
+channel	couple	0.0702728368926306
+channel	information	0.1047565601757848
+channel	crystal	0.1091089451179961
+channel	atom	0.1212678125181665
+channel	fidelity	0.1227432823864431
+channel	cluster state	0.0555555555555555
+channel	circuit	0.0404226041727221
+channel	quantum state	0.1490711984999859
+channel	field	0.0718885154689589
+channel	source	0.0982946374365981
+channel	resonator	0.0555555555555555
+channel	device	0.1178511301977579
+channel	protocol	0.1178511301977579
+channel	computation	0.0808452083454443
+channel	control	0.125
+channel	quantum computing	0.0907218423253028
+channel	resource	0.0820609939862218

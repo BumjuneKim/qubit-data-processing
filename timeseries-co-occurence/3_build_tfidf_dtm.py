@@ -72,11 +72,14 @@ def calculate_tfidf_dtm(input_file, output_file):
     print(f"TF-IDF 평균값: {tfidf_values.mean():.4f}")
     print(f"TF-IDF 중간값: {np.median(tfidf_values):.4f}")
     
-    # 상위 TF-IDF 값을 가진 단어들 (문서별 평균)
+    # 상위 TF-IDF 값을 가진 단어들 (문서별 평균, qubit과 quantum 제외)
     word_tfidf_means = tfidf_df.iloc[:, 1:].mean(axis=0).sort_values(ascending=False)
-    print(f"\n상위 10개 TF-IDF 평균값을 가진 단어:")
-    for i, (word, tfidf_mean) in enumerate(word_tfidf_means.head(10).items()):
-        print(f"{i+1:2d}. {word}: {tfidf_mean:.4f}")
+    # qubit과 quantum 단어 제외
+    excluded_words = {'qubit', 'quantum'}
+    word_tfidf_means_filtered = word_tfidf_means[~word_tfidf_means.index.isin(excluded_words)]
+    print(f"\n상위 20개 TF-IDF 평균값을 가진 단어 (qubit, quantum 제외):")
+    for i, (word, tfidf_mean) in enumerate(word_tfidf_means_filtered.head(20).items()):
+        print(f"{word}({tfidf_mean:.4f})")
     
     # IDF 값이 높은 단어들 (희귀한 단어들)
     word_idf_df = pd.DataFrame({
@@ -94,7 +97,7 @@ def calculate_tfidf_dtm(input_file, output_file):
         print(f"{i+1:2d}. {row['word']}: IDF={row['idf']:.4f}, 문서빈도={row['doc_frequency']}")
 
 if __name__ == "__main__":
-    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_filtered_DTM.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_TFIDF_DTM.csv')
+    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_filtered_DTM.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'phase3_TFIDF_DTM.csv')
     
     calculate_tfidf_dtm(input_file, output_file)
