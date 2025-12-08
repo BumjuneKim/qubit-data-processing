@@ -113,9 +113,9 @@ def analyze_filtered_dtm(filtered_dtm):
 
 def main():
     """메인 함수"""
-    dtm_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_DTM.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_filtered_DTM.csv')
-    word_freq_file = os.path.join(os.path.dirname(__file__), 'photonic', 'word_document_frequency.csv')
+    dtm_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_DTM.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_filtered_DTM.csv')
+    word_freq_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'word_document_frequency.csv')
     
     try:
         print(f"원본 DTM 파일 읽는 중: {dtm_file}")

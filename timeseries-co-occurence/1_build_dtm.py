@@ -88,7 +88,7 @@ def build_document_term_matrix(input_file, output_file):
         print(f"{i+1:2d}. {word}: {count}회")
 
 if __name__ == "__main__":
-    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_step4.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_DTM.csv')
+    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_step4.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_DTM.csv')
     
     build_document_term_matrix(input_file, output_file)

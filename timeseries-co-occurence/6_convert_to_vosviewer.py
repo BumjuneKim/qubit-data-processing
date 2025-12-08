@@ -80,8 +80,8 @@ def convert_cooccurrence_to_vosviewer(input_file, output_file):
 
 if __name__ == "__main__":
     # 입력 및 출력 파일 경로
-    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'co-occurrence-matrix.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'node_edge_pair.txt')
+    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'co-occurrence-matrix.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'node_edge_pair.txt')
     
     # 변환 실행
     convert_cooccurrence_to_vosviewer(input_file, output_file)

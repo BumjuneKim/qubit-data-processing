@@ -94,7 +94,7 @@ def calculate_tfidf_dtm(input_file, output_file):
         print(f"{i+1:2d}. {row['word']}: IDF={row['idf']:.4f}, 문서빈도={row['doc_frequency']}")
 
 if __name__ == "__main__":
-    input_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_filtered_DTM.csv')
-    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_TFIDF_DTM.csv')
+    input_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_filtered_DTM.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_TFIDF_DTM.csv')
     
     calculate_tfidf_dtm(input_file, output_file)

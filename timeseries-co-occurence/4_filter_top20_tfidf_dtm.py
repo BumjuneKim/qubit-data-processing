@@ -17,7 +17,7 @@ def filter_tfidf_data():
     # Read the TF-IDF data
     print("Reading TF-IDF data...")
     
-    df = pd.read_csv(os.path.join(os.path.dirname(__file__), 'photonic', 'all_TFIDF_DTM.csv'))
+    df = pd.read_csv(os.path.join(os.path.dirname(__file__), 'superconducting', 'all_TFIDF_DTM.csv'))
     
     print(f"Original data shape: {df.shape}")
     print(f"Number of documents: {len(df)}")
@@ -60,7 +60,7 @@ def filter_tfidf_data():
     
     # Save the filtered data
     # output_file = '/Users/bumjunekim/Desktop/qubit-data-processing/qubit_TF_IDF_filtered_V2.csv'
-    output_file = os.path.join(os.path.dirname(__file__), 'photonic', 'all_TFIDF_filtered_TOP20_DTM.csv')
+    output_file = os.path.join(os.path.dirname(__file__), 'superconducting', 'all_TFIDF_filtered_TOP20_DTM.csv')
     filtered_df.to_csv(output_file, index=False)
     
     print(f"Filtered data saved to: {output_file}")
